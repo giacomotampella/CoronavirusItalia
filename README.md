@@ -1,7 +1,4 @@
 
-# Covid19-Italy
-
-
 ## Dati sul COVID-19 in Italia aggiornati giorno per giorno
 
 Ultimo aggiornamento 6 marzo 2021.
