@@ -1,60 +1,41 @@
 
 ## Dati sul COVID-19 in Italia aggiornati giorno per giorno
 
-Ultimo aggiornamento 6 marzo 2021.
+Ultimo aggiornamento 7 marzo 2021.
 ###### Avviso: probabile che i dati non vengano aggiornati tutti i giorni con regolarità. Questo sito viene gestito interamente da me nel mio tempo libero.
 ###### Perciò potrebbero verificarsi anche degli errori nella stesura dei dati. Cerco di fare del mio meglio :). Grazie!
 
 ## Cosa dicono i dati oggi? 
-In data 6 marzo l’incremento nazionale dei casi è +0,78% (ieri +0,80%) con 3.046.762 contagiati totali, 2.481.372 dimissioni/guarigioni (+13.984) e 99.578 deceduti (+297); 465.812 infezioni in corso (+9.342). 
+In data 7 marzo l’incremento nazionale dei casi è +0,68% (ieri +0,78%) con 3.067.486 contagiati totali, 2.494.839 dimissioni/guarigioni (+13.467) e 99.785 deceduti (+207); 472.862 infezioni in corso (+7.050). 
 
-Ricoverati con sintomi +327 (20.701); terapie intensive +46 (2.571) con 214 nuovi ingressi del giorno. 
+Ricoverati con sintomi +443 (21.144); terapie intensive +34 (2.605) con 161 nuovi ingressi del giorno. 
 
-Elaborati 355.024 tamponi totali (ieri 378.463) di cui 187.612 molecolari (ieri 198.630) e 167.412 test rapidi (ieri 179.833) con 120.236 casi testati (ieri 128.288); 
+Elaborati 271.336 tamponi totali (ieri 355.024) di cui 164.068 molecolari (ieri 187.612) e 107.26 test rapidi (ieri 167.412) con 108.807 casi testati (ieri 120.236); 
 
-23.641 positivi (target 4.311); rapporto positivi/tamponi totali 6,66% (ieri 6,35% - target 2%); rapporto positivi/casi testati 19,66% (ieri 18,73%, target 3%).
+20.765. positivi (target 4.311); rapporto positivi/tamponi totali 7,65% (ieri 6,66% - target 2%); rapporto positivi/casi testati 19,08% (ieri 19,66%, target 3%). 
 
 Nuovi casi soprattutto in: 
+- Lombardia 4.397; 
+- Emilia Romagna 3.056; 
+- Campania 2.560; Piemonte 1.543; 
+- Lazio 1.399; 
+- Toscana 1.355; 
+- Veneto 1.229; 
+- Puglia 1.155. 
 
-  - Lombardia 5.658; 
-  - Emilia Romagna 3.232; 
-  - Campania 2.843; Piemonte 1.793; 
-  - Lazio 1.563; 
-  - Veneto 1.539; 
-  - Puglia 1.483; 
-  - Toscana 1.293. 
-  - 
-In Lombardia curva +0,90% (ieri +0,84%) con 58.505 tamponi totali (ieri 57.154) di cui 39.724 molecolari (ieri 39.686) e 18.781 test rapidi (ieri 17.468) con 16.304 casi testati (ieri 16.283); 5.658 positivi (target 1.000); rapporto positivi/tamponi totali 9,67% (ieri 9,11% - target 2%); rapporto positivi/casi testati 34,70% (ieri 31,99% - target 3%); 629.610 contagiati totali; ricoverati +130 (4.934); terapie intensive +18 (565) con 50 nuovi ingressi del giorno; 28.705 decessi (+67). 
+In Lombardia curva +0,69% (ieri +0,90%) con 42.591 tamponi totali (ieri 58.505) di cui 32.144 molecolari (ieri 39.724) e 10.447 test rapidi (ieri 18.781) con 13.815 casi testati (ieri 16.304); 4.397 positivi (target 1.000); rapporto positivi/tamponi totali 10,32% (ieri 9,67% - target 2%); rapporto positivi/casi testati 31,82% (ieri 34,70% - target 3%); 633.977 contagiati totali; ricoverati +124 (5.058); terapie intensive +8 (573) con 18 nuovi ingressi del giorno; 28.738 decessi (+33). 
 
-Si è chiusa ieri la nostra settimana epidemiologica, rilevata dal sabato al venerdì successivo (periodo 27 febbraio - 5 marzo). 
+Prosegue la diminuzione dell’età dei contagiati: l’ultimo Bollettino di sorveglianza integrata Covid-19 dell’Istituto superiore di Sanità, con dati riferiti al periodo 15-28 febbraio, evidenzia una mediana di 44 anni. Potrebbe essere il segno di un primo parziale effetto della campagna vaccinale condotta sugli over 80, ma anche la conseguenza di una maggiore puntualità nel testare la popolazione in età scolastica, in particolare sotto i 18 anni. 
 
-Iniziamo dai dati nazionali e della Lombardia, la Regione più colpita, per poi dedicare qualche cenno ad alcune tra le maggiori Regioni italiane (Emilia Romagna, Campania e Veneto). 
-Considerando tutto il territorio italiano i nuovi casi sono stati 134.353 (+26.217 sui 108.136 della settimana precedente) segnando +24,24%; la media giornaliera sale da 15.448 a 19.193. 
+Fino allo scorso novembre i casi rilevati nelle scuole venivano gestiti nella gran parte dei casi con il solo isolamento dei possibili contatti (senza procedere all’esecuzione dei test tampone) in attesa di una eventuale manifestazione sintomatica. Oggi la strategia è cambiata, e i casi di positività generano un’immediata campagna di testing sulla popolazione della scuola dove si è riscontrato il potenziale focolaio. 
 
-I nuovi ingressi in terapia intensiva sono passati dai 1.165 della settimana precedente a 1.363 (+16,99%): la crescita riflette in particolare il periodo 6-19 febbraio, quando l’epidemia secondo i dati ufficiali era rimasta sostanzialmente stabile, e dimostra come sul territorio vengano individuati molti meno casi di quelli reali. 
+È facile dedurre come, trattandosi di una popolazione giovane con livelli altissimi di asintomatici (tra il 70 e il 75% sui soli casi individuati) in passato sfuggissero alla statistica molti soggetti positivi, ma del tutto privi di sintomi. Oggi gli stessi soggetti, sottoposti a screening immediato, emergono aumentando il numero (e il peso relativo) dei più giovani rispetto alla popolazione generale. La cosa più probabile è che la recente discesa dell’età mediana sia figlia di una combinazione dei due elementi (vaccini agli over 80, più test al di sotto dei 18 anni). 
 
-Passiamo alla Lombardia: nella settimana epidemiologica 27 febbraio - 5 marzo sono stati individuati 28.591 nuovi casi, con una crescita del 32,28% dai 21.614 del periodo precedente; la media giornaliera sale da 3.087 a 4.084; i nuovi ingressi in terapia intensiva, nello stesso periodo, hanno registrato una variazione preoccupante: da 194 a 309, con un incremento del 59,27% che riflette le due settimane epidemiologiche comprese tra il 6 e il 19 febbraio. 
+Mentre la variazione della strategia di testing , che sta facendo emergere un numero considerevole di casi tra i più giovani, dimostra quanto abbiamo scritto più volte: i casi nelle scuole non venivano individuati soprattutto perché non si cercavano. Adesso si cercano, e si trovano. Peraltro da un punto di vista epidemiologico sarebbe stato strano il contrario, perché i virus respiratori (a partire da quello dell’influenza) hanno proprio nelle scuola uno dei maggiori bacini diffusionali, quasi sempre in associazione con forme meno aggressive della malattia. 
 
-La crescita era stata rispettivamente del 13,35% e del 16,96%: come per il dato nazionale la maggiore dinamica dei nuovi ingressi in area critica testimonia una sottostima della reale circolazione del Sars-CoV-2. Qualche brevissimo cenno, come promesso, alla situazione nell’ultima settimana epidemiologica in alcune delle Regioni più popolose e sottoposte a particolare pressione. 
+Una breve considerazione sul caso, portato immediatamente agli onori delle cronache, di un’infermiera dell’Ospedale San Giuseppe Moscati di Avellino già vaccinata con doppia dose, ma risultata positiva al tampone dopo aver contratto l’infezione con la variante inglese del Sars-CoV-2. Non si tratta di una dimostrazione che il vaccino non funziona, come immediatamente qualcuno ha tentato di suggerire: semplicemente un vaccino efficace al 95%, come abbiamo visto nelle ultime settimane, diminuisce del 95% il rischio di contrarre l’infezione, ma non lo azzera. 
 
-In Campania i nuovi casi sono stati 16.975, in crescita del 29,95% sulla settimana precedente. 
-
-In Emilia Romagna sono stati identificati 18.036 nuovi casi (+37,64% sul periodo 20-26 febbraio). 
-
-In Veneto 8.291 nuovi casi, in crescita del 20,05% sul periodo precedente. 
-
-I valori di Rt alla sera del 5 marzo, calcolati con il metodo istantaneo Kohlberg-Neyman, sono: 
-- Italia 1.12; 
-- Lombardia 1.16; 
-- Campania 1.11; 
-- Emilia Romagna 1.13; 
-- Veneto 1.14. 
-
-Ricordiamo che i numeri comunicati ogni giorno sono conseguenza delle infezioni contratte, in larghissima parte, tra 7 e 10 giorni prima. 
-
-La dinamica al rialzo dei numeri quotidiani, salvo un’improvvisa e anomala riduzione del numero dei test come già accaduto lo scorso novembre, è quindi attesa a una prosecuzione per almeno 10-14 giorni, grazie all’effetto trascinamento delle infezioni contratte prima dell’introduzione delle nuove misure di mitigazione. 
-
-In presenza della variante inglese del virus, più rapida del 50% circa nel diffondersi e ormai largamente presente sul territorio nazionale, le misure adottate non porteranno gli stessi benefici riscontrati in passato con il ceppo originario di Wuhan. Le immagini trasmesse oggi dai telegiornali, con gli affollamenti in molte Regioni (Lombardia inclusa, in particolare a Milano, nonostante l’arancione “rafforzato”) dimostrano per l’ennesima volta che solo le restrizioni da zone rossa possono avere un effetto deciso sulla circolazione delle persone: grazie alla quale, e non in altro modo, il Sars-CoV-2 si sposta sul territorio. (M.T.I.)
+La giusta considerazione è che si tratta di un caso sporadico e che rientra nel novero delle possibilità. Parallelamente, per completezza, occorre ricordare che i vaccini hanno un’altissima efficacia (oltre il 95%) nel bloccare le forme gravi della malattia: con quello di AstraZeneca, in particolare, che secondo gli ultimi studi disponibili arriva al 100%. L’infermiera di cui abbiamo parlato, completamente asintomatica, è risultata positiva perché testata nel corso di una campagna di screening condotta su tutto il personale. (M.T.I.)
 
 ###### Fonte: [IlSole24Ore - Lab24](https://lab24.ilsole24ore.com/coronavirus/)
 
@@ -68,7 +49,7 @@ In presenza della variante inglese del virus, più rapida del 50% circa nel diff
 <iframe src='https://flo.uri.sh/visualisation/4227892/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/4227892/?utm_source=embed&utm_campaign=visualisation/4227892' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 ## Variazione % Giornaliera
-<iframe src='https://flo.uri.sh/visualisation/1791670/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/1791670/?utm_source=embed&utm_campaign=visualisation/1791670' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+<iframe src='https://flo.uri.sh/visualisation/1791670/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/1791670/?utm_source=embed&utm_campaign=visualisation/1791670' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div> 
 
 ## Casi Totali - Casi Attuali
 <iframe src='https://flo.uri.sh/visualisation/1751593/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/1751593/?utm_source=embed&utm_campaign=visualisation/1751593' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
