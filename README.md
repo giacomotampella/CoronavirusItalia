@@ -2,6 +2,8 @@
 ## Dati sul COVID-19 in Italia aggiornati giorno per giorno
 
 Ultimo aggiornamento 6 marzo 2021.
+###### Avviso: probabile che i dati non vengano aggiornati tutti i giorni con regolarità. Questo sito viene gestito interamente da me nel mio tempo libero.
+###### Perciò potrebbero verificarsi anche degli errori nella stesura dei dati. Cerco di fare del mio meglio :). Grazie!
 
 ## Cosa dicono i dati oggi? 
 In data 6 marzo l’incremento nazionale dei casi è +0,78% (ieri +0,80%) con 3.046.762 contagiati totali, 2.481.372 dimissioni/guarigioni (+13.984) e 99.578 deceduti (+297); 465.812 infezioni in corso (+9.342). 
