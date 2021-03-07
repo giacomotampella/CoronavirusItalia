@@ -71,9 +71,9 @@ La giusta considerazione è che si tratta di un caso sporadico e che rientra nel
 
 
 
-### Fatto da [Giacomo Tampella](giacomotampella.github.io)
+### Fatto da [Giacomo Tampella](https://giacomotampella.github.io/)
 
-Email --> tampella@icloud.com
+Email: tampella@icloud.com
 
 Contact me on [Twitter](https://twitter.com/GTampella) or [LinkedIn](https://www.linkedin.com/in/giacomo-tampella-3904b51a1/)
 
