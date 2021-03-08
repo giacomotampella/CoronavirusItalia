@@ -17,12 +17,12 @@ Elaborati 184.684 tamponi totali (ieri 271.336) di cui 102.428 molecolari (ieri 
 13.902 positivi (target 4.311); rapporto positivi/tamponi totali 7,52% (ieri 7,65% - target 2%); rapporto positivi/casi testati 23,34% (ieri 19,08%, target 3%). 
 
 Nuovi casi soprattutto in: 
-> Emilia Romagna 2.987; 
-> Lombardia 2.301; 
-> Campania 1.644; 
-> Piemonte 1.214; 
-> Lazio 1.175; 
-> Toscana 1.000. 
+- Emilia Romagna 2.987; 
+- Lombardia 2.301; 
+- Campania 1.644; 
+- Piemonte 1.214; 
+- Lazio 1.175; 
+- Toscana 1.000. 
 
 In Lombardia curva +0,36% (ieri +0,69%) con 22.996 tamponi totali (ieri 42.591) di cui 19.320 molecolari (ieri 32.144) e 3.676 test rapidi (ieri 10.447) con 8.119 casi testati (ieri 13.815); 2.301 positivi (target 1.000); rapporto positivi/tamponi totali 10,0% (ieri 10,32% - target 2%); rapporto positivi/casi testati 28,34% (ieri 31,82% - target 3%); 636.278 contagiati totali; ricoverati +142 (5.200); terapie intensive +24 (597) con 46 nuovi ingressi del giorno; 28.790 decessi (+52). 
 
