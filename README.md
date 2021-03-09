@@ -1,46 +1,46 @@
 
 ## Dati sul COVID-19 in Italia aggiornati giorno per giorno
 
-Ultimo aggiornamento 8 marzo 2021.
+Ultimo aggiornamento 9 marzo 2021.
 
 ###### Avviso: probabile che i dati non vengano aggiornati tutti i giorni con regolarità. Questo sito viene gestito interamente da me nel mio tempo libero.
 ###### Perciò potrebbero verificarsi anche degli errori nella stesura dei dati. Cerco di fare del mio meglio :). Grazie!
 
 ## Cosa dicono i dati oggi?
 
-In data 8 marzo l’incremento nazionale dei casi, con il consueto calo che segue il fine settimana, è +0,45% (ieri +0,68%) con 3.081.368 contagiati totali, 2.508.732 dimissioni/guarigioni (+13.893) e 100.103 deceduti (+318); 472.533 infezioni in corso (-329). 
+In data 9 marzo l’incremento nazionale dei casi è +0,64% (ieri +0,45%) con 3.101.093 contagiati totali, 2.521.731 dimissioni/guarigioni (+12.999) e 100.479 deceduti (+376); 478.883 infezioni in corso (+6.350). 
 
-Ricoverati con sintomi +687 (21.831); terapie intensive +95 (2.700) con 231 nuovi ingressi del giorno. 
+Ricoverati con sintomi +562 (22.393); terapie intensive +56 (2.756) con 278 nuovi ingressi del giorno. 
 
-Elaborati 184.684 tamponi totali (ieri 271.336) di cui 102.428 molecolari (ieri 164.068) e 82.256 test rapidi (ieri 107.268) con 59.549 casi testati (ieri 108.807); 
-
-13.902 positivi (target 4.311); rapporto positivi/tamponi totali 7,52% (ieri 7,65% - target 2%); rapporto positivi/casi testati 23,34% (ieri 19,08%, target 3%). 
+Elaborati 345.336 tamponi totali (ieri 184.684) di cui 176.331 molecolari (ieri 102.428) e 169.005 test rapidi (ieri 82.256) con 106.573 casi testati (ieri 59.549); 19.749 positivi (target 4.311); rapporto positivi/tamponi totali 5,71% (ieri 7,52% - target 2%); rapporto positivi/casi testati 18,53% (ieri 23,34%, target 3%). 
 
 Nuovi casi soprattutto in: 
-- Emilia Romagna 2.987; 
-- Lombardia 2.301; 
-- Campania 1.644; 
-- Piemonte 1.214; 
-- Lazio 1.175; 
-- Toscana 1.000. 
+- Lombardia 4.084; 
+- Campania 2.709; 
+- Emilia Romagna 2.429; 
+- Piemonte 2.018; 
+- Veneto 1.608; 
+- Lazio 1.431; 
+- Puglia 1.286; 
+- Toscana 1.001. 
 
-In Lombardia curva +0,36% (ieri +0,69%) con 22.996 tamponi totali (ieri 42.591) di cui 19.320 molecolari (ieri 32.144) e 3.676 test rapidi (ieri 10.447) con 8.119 casi testati (ieri 13.815); 2.301 positivi (target 1.000); rapporto positivi/tamponi totali 10,0% (ieri 10,32% - target 2%); rapporto positivi/casi testati 28,34% (ieri 31,82% - target 3%); 636.278 contagiati totali; ricoverati +142 (5.200); terapie intensive +24 (597) con 46 nuovi ingressi del giorno; 28.790 decessi (+52). 
+In Lombardia curva +0,64% (ieri +0,36%) con 47.619 tamponi totali (ieri 22.996) di cui 30.006 molecolari (ieri 19.320) e 17.613 test rapidi (ieri 3.676) con 11.411 casi testati (ieri 8.119); 4.084 positivi (target 1.000); rapporto positivi/tamponi totali 8,57% (ieri 10,0% - target 2%); rapporto positivi/casi testati 35,79% (ieri 28,34% - target 3%); 640.362 contagiati totali; ricoverati +216 (5.416); terapie intensive +14 (611) con 56 nuovi ingressi del giorno; 28.853 decessi (+63). 
 
-Oggi affrontiamo, in breve, due distinti argomenti: 
+Ieri, 8 marzo, il conteggio ufficiale ha tagliato il triste traguardo di 100.000 vittime da Covid-19: traguardo con valore simbolico, perché i numeri reali hanno già superato ampiamente questa soglia. Il quinto “Rapporto sull’impatto dell’epidemia Covid-19 sulla mortalità totale della popolazione residente - anno 2020”, realizzato congiuntamente da Istat e Istituto superiore di Sanità e pubblicato lo scorso 5 marzo, ha infatti analizzato l’eccesso di mortalità rispetto alla media degli anni precedenti (2015-2019). Vediamo brevemente i dati principali: il 2020 si è chiuso con 746.146 decessi totali, il numero più alto registrato in Italia dal secondo dopoguerra. L’eccesso di mortalità, considerato nell’arco di 12 mesi, è di 100.526 decessi. 
 
-1) Le singole fasi dell’epidemia possono essere colte, talvolta, dall’osservazione di piccoli segnali che si ripetono nel tempo mostrando leggere anomalie rispetto all’andamento standard. Uno di questi, che stiamo registrando proprio nelle ultime settimane, è relativo a uno sbilanciamento dei contagi verso la popolazione di sesso maschile: che nel periodo 15-28 febbraio (ultimo Bollettino di sorveglianza integrata Covid-19 dell’Iss) ha raggiunto il 50,1% del totale, contro un 48,6% calcolato da inizio epidemia. La stessa situazione, sempre con una modesta prevalenza di nuovi casi tra gli uomini, si è verificata lo scorso marzo 2020 all’inizio della prima ondata pandemica, per poi ripresentarsi a ottobre 2020 nelle fasi iniziali della cosiddetta “seconda ondata”. La ripetizione di un’identica anomalia esattamente nelle stesse condizioni epidemiologiche (ripresa del contagio in atto, ma ancora agli inizi) non può essere un caso: è sicuramente legata a qualche fattore per ora non individuato, ma meritevole di approfondimento, e purtroppo non lascia prevedere settimane facili se verifichiamo cosa è accaduto in passato (una crescita importante dei nuovi casi) nelle settimane subito successive a questo segnale. 
+Per avere una misura corretta dell’impatto della pandemia occorre però considerare due elementi: nel periodo gennaio-febbraio 2020 i decessi erano sotto la media dello stesso bimestre degli anni precedenti (-7.600). 2) I primi decessi da Covid-19 risalgono all’ultima settimana di febbraio 2020, ed è quindi corretto considerare ai fini delle ricadute dell’epidemia i dieci mesi compresi tra marzo e dicembre. 
 
-2) Rispondiamo a numerose domande che ci sono arrivate per chiedere chiarimenti sul numero reale dei contagiati, in Italia, al di là dei dati ufficiali. La risposta non è facile, e potrà essere data con precisione solo a conclusione di un’indagine per la ricerca degli anticorpi nella popolazione italiana. Possiamo però tentare alcune approssimazioni, incrociando i dati disponibili. 
+L’eccedenza di mortalità così calcolata è di 108.178 decessi rispetto alla media dello stesso periodo negli anni 2015-2019; e soprattutto è di 34.019 unità superiore rispetto ai decessi ufficiali attribuiti alla Covid-19 (74.159) alla data del 31 dicembre 2020. Questi 34.019 decessi possono essere ricondotti a due cause: decessi Covid-19 non correttamente diagnosticati; oppure decessi legati a pazienti con altre patologie che non hanno trovato un’adeguata risposta terapeutica, in particolare a causa dell’eccessivo stress a cui è stato sottoposto il sistema sanitario. 
 
-Partiamo dalla prima fase dell’epidemia: qui ci viene in aiuto la prima (e purtroppo unica) indagine Istat / Iss condotta all’inizio della scorsa estate su un campione di 64.660 persone rappresentativo della popolazione italiana, con la ricerca degli anticorpi al nuovo Coronavirus. Dai dati pubblicati il 5 agosto sappiamo che, a fronte di 248.803 positivi individuati con i test tampone, gli anticorpi risultavano presenti in 1.482.377 soggetti: un numero 6 volte superiore a quello dei numeri ufficiali. 
+Appare probabile che l’interpretazione più corretta sia una combinazione dei due fattori appena elencati. Osservando le rilevazioni Istat/Iss si notano anche alcune importanti differenze tra prima e seconda ondata pandemica: nel corso della primavera 2020, per esempio, la Lombardia ha avuto un eccesso di mortalità del 111%, il Veneto del 19% e il Friuli Venezia Giulia del 9%. 
 
-La valutazione della seconda fase dell’epidemia, tuttavia, deve tenere conto di alcuni elementi aggiuntivi: in primo luogo il numero dei tamponi eseguiti è aumentato in modo evidente, arrivando fino a un massimo di 254.908 tamponi molecolari lo scorso 13 novembre, consentendo di indagare non solo il bacino dei soggetti sintomatici (e non tutti, nella prima fase) ma di estendere la ricerca all’individuazione di molti asintomatici. 
+A inizio autunno, con la seconda ondata, gli stessi valori si sono così modificati: Lombardia +37%; Veneto +44%; Friuli Venezia Giulia +45%. L’eccesso di mortalità ha continuato a manifestarsi anche a inizio 2021, nonostante gennaio sia stato un mese caratterizzato, per la prima metà, da misure di mitigazione: le stime segnalano 70.538 decessi totali, circa 2.000 oltre la media dello stesso mese degli anni 2015-2019, e 8.500 in più rispetto a gennaio 2020. 
 
-La recente introduzione dei test antigenici rapidi nel conteggio ufficiale, a partire dal 15 gennaio, ha ulteriormente incrementato il numero dei test totali giornalieri, fino a superare più volta quota 350.000. In altri termini, oggi siamo in grado di individuare molti più soggetti positivi di quanto fossimo in grado di fare la scorsa primavera. Un secondo elemento che ci può aiutare nella valutazione del numero dei casi reali è il dato dei nuovi ingressi giornalieri in terapia intensiva: un valore che viene comunicato a partire dal 3 dicembre 2020, ma che ormai si è consolidato e restituisce (se parametrato sui dati disponibili a livello internazionale) un rapporto di 1 a 200 tra ricoverati in area critica e ipotetici contagiati reali. In altri termini, se consideriamo il numero dei nuovi ingressi in terapia intensiva nell’arco di una settimana epidemiologica e lo moltiplichiamo per 200, otteniamo con buona approssimazione il numero reale dei contagiati presenti sul territorio in un arco temporale compreso, in larga parte, tra le 2 e le 3 settimane prima. 
+Questo eccesso dipende, per il 75%, dalle Regioni del Nord: con Lombardia, Veneto ed Emilia Romagna che da sole rappresentano il 50% dell’incremento registrato a livello nazionale. Utilizzando i dati Eurostat, che prendono per ora in considerazione un periodo più ridotto (2015-2019), si ottiene un confronto con i principali Paesi europei. Tra marzo e dicembre 2020 l’eccesso di mortalità dell’Italia, così calcolato, è del 20,4%: inferiore a Spagna (23,6%), Belgio (20,8%) e Polonia (23,2%); superiore a Olanda (14,7%), Portogallo (13,9%), Francia (13,2%) e Germania (7%). 
 
-Questo valore lascia ipotizzare che, pur avendo incrementato il numero dei test tampone, ancora oggi riusciamo a individuare solo il 40-50% circa dei casi reali. Se ai 3.067.486 casi totali certificati il 7 marzo 2021 sottraiamo i 254.908 positivi ufficiali del 5 agosto 2020 otteniamo 2.812.578 positivi: ai quali possiamo attribuire un peso del 50%, come accennato prima, rispetto ai casi totali di contagio avvenuti sul territorio. Avremmo quindi 5.625.156 positivi, ai quali sommare 1.482.377 di soggetti positivi agli anticorpi e individuati con la ricerca Istat/Iss: per un totale di 7.107.533 contagiati reali. 
+Infine, utilizzando i dati dell’ultimo Bollettino epidemiologico dell’Oms, possiamo verificare come si posiziona l’Italia nella classifica per Paesi dei decessi Covid-19 ogni 100.000 abitanti (calcolati da inizio pandemia). Al primo posto troviamo San Marino (218,0), seguito da Slovenia (197,7), Belgio (190,4), Repubblica Ceca (189,9), Uk (180,8) e Italia (161,3). Seguono Portogallo (159,6), Montenegro (159), Bosnia ed Erzegovina (155,1), Ungheria (155,0) e Usa (153,1). 
 
-Applicando la percentuale meno generosa (40%), ovvero presumendo di aver individuato solo 4 positivi su 10 reali dopo il 5 agosto, il numero sarebbe ancora più alto: i soggetti venuti a contatto con il virus da inizio agosto ma non individuati salirebbero infatti a 4.218.578, per un totale (sommando i positivi ufficiali) di 7.031.445. Aggiungendo 1.482.377 arriveremmo a 8.513.822. Entrambe le stime sono nella fascia bassa di quelle dell’Imperial College: che arriva a ipotizzare “fino al” 25% della popolazione italiana (circa 15 milioni di persone) già entrata in contatto con il Sars-CoV-2, all’interno tuttavia di una forbice molto ampia che parte dal 10%. (M.T.I.)
+Tra i cosiddetti “grandi” Paesi otteniamo quindi un poco gratificante secondo posto, che stride con la narrazione del “siamo stati più bravi” che ci ha accompagnati negli ultimi mesi. Dedicheremo l’analisi di questa settimana agli errori commessi nel passato e da noi più volte sottolineati: che ci costringono (loro, molto più delle varianti) ad adottare oggi e in una condizione di maggiore emergenza misure di contrasto stringenti. (M.T.I.) 
 
 ###### Fonte: [IlSole24Ore - Lab24](https://lab24.ilsole24ore.com/coronavirus/)
 
