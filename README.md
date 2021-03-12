@@ -1,46 +1,42 @@
 
 ## Dati sul COVID-19 in Italia aggiornati giorno per giorno
 
-Ultimo aggiornamento 9 marzo 2021.
+Ultimo aggiornamento 12 marzo 2021.
 
 ###### Avviso: probabile che i dati non vengano aggiornati tutti i giorni con regolarità. Questo sito viene gestito interamente da me nel mio tempo libero.
 ###### Perciò potrebbero verificarsi anche degli errori nella stesura dei dati. Cerco di fare del mio meglio :). Grazie!
 
 ## Cosa dicono i dati oggi?
 
-In data 9 marzo l’incremento nazionale dei casi è +0,64% (ieri +0,45%) con 3.101.093 contagiati totali, 2.521.731 dimissioni/guarigioni (+12.999) e 100.479 deceduti (+376); 478.883 infezioni in corso (+6.350). 
+In data 12 marzo l’incremento nazionale dei casi è +0,85% (ieri +0,82%) con 3.175.807 contagiati totali, 2.564.926 dimissioni/guarigioni (+14.443) e 101.564 deceduti (+380); 509.317 infezioni in corso (+11.976). 
 
-Ricoverati con sintomi +562 (22.393); terapie intensive +56 (2.756) con 278 nuovi ingressi del giorno. 
+Ricoverati con sintomi +409 (23.656); terapie intensive +55 (2.914) con 226 nuovi ingressi del giorno. 
 
-Elaborati 345.336 tamponi totali (ieri 184.684) di cui 176.331 molecolari (ieri 102.428) e 169.005 test rapidi (ieri 82.256) con 106.573 casi testati (ieri 59.549); 19.749 positivi (target 4.311); rapporto positivi/tamponi totali 5,71% (ieri 7,52% - target 2%); rapporto positivi/casi testati 18,53% (ieri 23,34%, target 3%). 
+Elaborati 369.636 tamponi totali (ieri 372.217) di cui 201.149 molecolari (ieri 208.469) e 168.487 test rapidi (ieri 163.748) con 118.066 casi testati (ieri 128.418); 26.824 positivi (target 4.311); rapporto positivi/tamponi totali 7,25% (ieri 6,89% - target 2%); rapporto positivi/casi testati 22,71% (ieri 19,99%, target 3%). 
 
 Nuovi casi soprattutto in: 
-- Lombardia 4.084; 
-- Campania 2.709; 
-- Emilia Romagna 2.429; 
-- Piemonte 2.018; 
-- Veneto 1.608; 
-- Lazio 1.431; 
-- Puglia 1.286; 
-- Toscana 1.001. 
+- Lombardia 6.262; 
+- Emilia Romagna 3.477; 
+- Piemonte 2.929; 
+- Campania 2.644; 
+- Veneto 1.932; 
+- Puglia 1.774; 
+- Lazio 1.757; 
+- Toscana 1.304. 
 
-In Lombardia curva +0,64% (ieri +0,36%) con 47.619 tamponi totali (ieri 22.996) di cui 30.006 molecolari (ieri 19.320) e 17.613 test rapidi (ieri 3.676) con 11.411 casi testati (ieri 8.119); 4.084 positivi (target 1.000); rapporto positivi/tamponi totali 8,57% (ieri 10,0% - target 2%); rapporto positivi/casi testati 35,79% (ieri 28,34% - target 3%); 640.362 contagiati totali; ricoverati +216 (5.416); terapie intensive +14 (611) con 56 nuovi ingressi del giorno; 28.853 decessi (+63). 
+In Lombardia curva +0,96% (ieri +0,90%) con 60.954 tamponi totali (ieri 62.222) di cui 40.976 molecolari (ieri 43.790) e 19.978 test rapidi (ieri 18.432) con 16.550 casi testati (ieri 16.853); 6.262 positivi (target 1.000); rapporto positivi/tamponi totali 10,27% (ieri 9,40% - target 2%); rapporto positivi/casi testati 37,83% (ieri 34,70% - target 3%); 656.895 contagiati totali; ricoverati +191 (5.909); terapie intensive +22 (667) con 39 nuovi ingressi del giorno; 29.093 decessi (+79). 
 
-Ieri, 8 marzo, il conteggio ufficiale ha tagliato il triste traguardo di 100.000 vittime da Covid-19: traguardo con valore simbolico, perché i numeri reali hanno già superato ampiamente questa soglia. Il quinto “Rapporto sull’impatto dell’epidemia Covid-19 sulla mortalità totale della popolazione residente - anno 2020”, realizzato congiuntamente da Istat e Istituto superiore di Sanità e pubblicato lo scorso 5 marzo, ha infatti analizzato l’eccesso di mortalità rispetto alla media degli anni precedenti (2015-2019). Vediamo brevemente i dati principali: il 2020 si è chiuso con 746.146 decessi totali, il numero più alto registrato in Italia dal secondo dopoguerra. L’eccesso di mortalità, considerato nell’arco di 12 mesi, è di 100.526 decessi. 
+In risposta alle molte domande ricevute, diamo qualche breve informazione sul vaccino AstraZeneca. La Danimarca (seguita da altri Paesi) ha sospeso la campagna vaccinale per indagare su alcuni casi gravi di coaguli di sangue, e un decesso, in soggetti che avevano ricevuto il vaccino AstraZeneca. Come si legge nel comunicato ufficiale della Danish Health Authority si tratta di una misura assunta “sulla base di un principio di precauzione e delle preoccupazioni sollevate dalle autorità farmaceutiche”. E ancora: “È importante sottolineare che non stiamo affatto scartando il vaccino AstraZeneca. Per il momento stiamo semplicemente smettendo di utilizzarlo. Ci sono forti prove che il vaccino sia sicuro e efficace”. Di fatto, in questa fase, come sottolinea la stessa Authority, è troppo presto per concludere se esiste un legame tra il vaccino e i coaguli di sangue. 
 
-Per avere una misura corretta dell’impatto della pandemia occorre però considerare due elementi: nel periodo gennaio-febbraio 2020 i decessi erano sotto la media dello stesso bimestre degli anni precedenti (-7.600). 2) I primi decessi da Covid-19 risalgono all’ultima settimana di febbraio 2020, ed è quindi corretto considerare ai fini delle ricadute dell’epidemia i dieci mesi compresi tra marzo e dicembre. 
+Più che il pericolo del vaccino, che per 14 giorni verrà nuovamente sottoposto a rigorose indagini da parte delle autorità sanitarie danesi, il caso dimostra come sia efficiente il sistema di farmacosorveglianza: pronto a scattare ai primi segnali di un allarme possibile e non ancora accertato. L’EMA, l’Agenzia europea del farmaco, ha chiarito che “Non ci sono attualmente indicazioni che la vaccinazione abbia causato queste condizioni, che non sono elencate come effetti collaterali con questo vaccino. 
 
-L’eccedenza di mortalità così calcolata è di 108.178 decessi rispetto alla media dello stesso periodo negli anni 2015-2019; e soprattutto è di 34.019 unità superiore rispetto ai decessi ufficiali attribuiti alla Covid-19 (74.159) alla data del 31 dicembre 2020. Questi 34.019 decessi possono essere ricondotti a due cause: decessi Covid-19 non correttamente diagnosticati; oppure decessi legati a pazienti con altre patologie che non hanno trovato un’adeguata risposta terapeutica, in particolare a causa dell’eccessivo stress a cui è stato sottoposto il sistema sanitario. 
+La posizione del comitato per la sicurezza PRAC dell’EMA è che i benefici del vaccino continuano a superare i suoi rischi e il vaccino può continuare a essere somministrato mentre sono in corso le indagini sui casi di eventi tromboembolici. Il PRAC sta già esaminando tutti i casi di eventi tromboembolici e altre condizioni correlate a coaguli di sangue, segnalati dopo la vaccinazione con il vaccino COVID-19 AstraZeneca”. 
 
-Appare probabile che l’interpretazione più corretta sia una combinazione dei due fattori appena elencati. Osservando le rilevazioni Istat/Iss si notano anche alcune importanti differenze tra prima e seconda ondata pandemica: nel corso della primavera 2020, per esempio, la Lombardia ha avuto un eccesso di mortalità del 111%, il Veneto del 19% e il Friuli Venezia Giulia del 9%. 
+A proposito del rapporto rischi/benefici riportiamo due diverse considerazioni: 1) I dati che arrivano da Uk, dove con AstraZeneca alla data del 28 febbraio erano state vaccinate 9 milioni 700.000 persone, parlano di 194 reazioni allergiche gravi (lo 0,002% dei casi) con 275 decessi sottoposti a indagine per verificare eventuali collegamenti: nessuno di questi è stato ricondotto alla somministrazione del vaccino. 2) Usiamo i dati precedenti per simulare una comparazione del rischio esistente in seguito al vaccino e all’infezione da Covid-19. 
 
-A inizio autunno, con la seconda ondata, gli stessi valori si sono così modificati: Lombardia +37%; Veneto +44%; Friuli Venezia Giulia +45%. L’eccesso di mortalità ha continuato a manifestarsi anche a inizio 2021, nonostante gennaio sia stato un mese caratterizzato, per la prima metà, da misure di mitigazione: le stime segnalano 70.538 decessi totali, circa 2.000 oltre la media dello stesso mese degli anni 2015-2019, e 8.500 in più rispetto a gennaio 2020. 
+Immaginiamo, per assurdo visto che non è così, che tutti i 275 decessi segnalati fossero dipesi dal vaccino: il tasso di letalità riferito all’inoculazione vaccinale sarebbe dello 0,0028%. In Uk (dati Oms, Bollettino epidemiologico del 9 marzo 2021) il tasso di letalità della Covid-19 è 2,95%: oltre 1.000 volte più alto. Su 9 milioni 700.000 persone contagiate da Sars-CoV-2 i decessi sarebbero 286.150 (contro i 275 ipoteticamente attribuiti al vaccino). 
 
-Questo eccesso dipende, per il 75%, dalle Regioni del Nord: con Lombardia, Veneto ed Emilia Romagna che da sole rappresentano il 50% dell’incremento registrato a livello nazionale. Utilizzando i dati Eurostat, che prendono per ora in considerazione un periodo più ridotto (2015-2019), si ottiene un confronto con i principali Paesi europei. Tra marzo e dicembre 2020 l’eccesso di mortalità dell’Italia, così calcolato, è del 20,4%: inferiore a Spagna (23,6%), Belgio (20,8%) e Polonia (23,2%); superiore a Olanda (14,7%), Portogallo (13,9%), Francia (13,2%) e Germania (7%). 
-
-Infine, utilizzando i dati dell’ultimo Bollettino epidemiologico dell’Oms, possiamo verificare come si posiziona l’Italia nella classifica per Paesi dei decessi Covid-19 ogni 100.000 abitanti (calcolati da inizio pandemia). Al primo posto troviamo San Marino (218,0), seguito da Slovenia (197,7), Belgio (190,4), Repubblica Ceca (189,9), Uk (180,8) e Italia (161,3). Seguono Portogallo (159,6), Montenegro (159), Bosnia ed Erzegovina (155,1), Ungheria (155,0) e Usa (153,1). 
-
-Tra i cosiddetti “grandi” Paesi otteniamo quindi un poco gratificante secondo posto, che stride con la narrazione del “siamo stati più bravi” che ci ha accompagnati negli ultimi mesi. Dedicheremo l’analisi di questa settimana agli errori commessi nel passato e da noi più volte sottolineati: che ci costringono (loro, molto più delle varianti) ad adottare oggi e in una condizione di maggiore emergenza misure di contrasto stringenti. (M.T.I.) 
+In conclusione ricordiamo che spesso si scatena il panico per notizie che meritano maggiore approfondimento. Nelle primissime fasi dei trial di fase 3 condotti in Brasile vennero segnalati alcuni decessi tra i soggetti sottoposti a vaccinazione: il primo era morto in una sparatoria, il secondo in un incidente stradale, il terzo era un volontario che non aveva ancora ricevuto il vaccino. Per sapere come stanno davvero le cose su AstraZeneca, grazie alla costante sorveglianza esercitata in Europa e in Italia (non solo in Danimarca) dovremo solo attendere pochi giorni: il tempo necessario per concludere le revisioni in corso. Possibilmente senza dimenticare la valutazione del rapporto rischi/benefici. (M.T.I)
 
 ###### Fonte: [IlSole24Ore - Lab24](https://lab24.ilsole24ore.com/coronavirus/)
 
