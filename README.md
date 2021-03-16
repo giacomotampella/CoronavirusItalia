@@ -1,42 +1,48 @@
 
 ## Dati sul COVID-19 in Italia aggiornati giorno per giorno
 
-Ultimo aggiornamento 12 marzo 2021.
+Ultimo aggiornamento 16 marzo 2021.
 
 ###### Avviso: probabile che i dati non vengano aggiornati tutti i giorni con regolarità. Questo sito viene gestito interamente da me nel mio tempo libero.
 ###### Perciò potrebbero verificarsi anche degli errori nella stesura dei dati. Cerco di fare del mio meglio :). Grazie!
 
 ## Cosa dicono i dati oggi?
 
-In data 12 marzo l’incremento nazionale dei casi è +0,85% (ieri +0,82%) con 3.175.807 contagiati totali, 2.564.926 dimissioni/guarigioni (+14.443) e 101.564 deceduti (+380); 509.317 infezioni in corso (+11.976). 
+In data 16 marzo l’incremento nazionale dei casi è +0,62% (ieri +0,47%) con 3.258.770 contagiati totali, 2.619.654 dimissioni/guarigioni (+14.116) e 103.001 deceduti (+502); 536.115 infezioni in corso (+5.758). 
 
-Ricoverati con sintomi +409 (23.656); terapie intensive +55 (2.914) con 226 nuovi ingressi del giorno. 
+Ricoverati con sintomi +760 (26.098); terapie intensive +99 (3.256) con 319 nuovi ingressi del giorno. 
 
-Elaborati 369.636 tamponi totali (ieri 372.217) di cui 201.149 molecolari (ieri 208.469) e 168.487 test rapidi (ieri 163.748) con 118.066 casi testati (ieri 128.418); 26.824 positivi (target 4.311); rapporto positivi/tamponi totali 7,25% (ieri 6,89% - target 2%); rapporto positivi/casi testati 22,71% (ieri 19,99%, target 3%). 
+Elaborati 369.375 tamponi totali (ieri 179.015) di cui 182.572 molecolari (ieri 106.703) e 186.803 test rapidi (ieri 72.312) con 108.868 casi testati (ieri 59.780); 20.396 positivi (target 4.311); rapporto positivi/tamponi totali 5,52% (ieri 8,52% - target 2%); rapporto positivi/casi testati 18,73% (ieri 25,53%, target 3%). 
 
 Nuovi casi soprattutto in: 
-- Lombardia 6.262; 
-- Emilia Romagna 3.477; 
-- Piemonte 2.929; 
-- Campania 2.644; 
-- Veneto 1.932; 
-- Puglia 1.774; 
-- Lazio 1.757; 
-- Toscana 1.304. 
+- Lombardia 4.235; 
+- Campania 2.656; 
+- Emilia Romagna 2.184; 
+- Piemonte 2.074; 
+- Veneto 1.901; 
+- Lazio 1.497; 
+- Toscana 1.247; 
+- Puglia 1.126. 
 
-In Lombardia curva +0,96% (ieri +0,90%) con 60.954 tamponi totali (ieri 62.222) di cui 40.976 molecolari (ieri 43.790) e 19.978 test rapidi (ieri 18.432) con 16.550 casi testati (ieri 16.853); 6.262 positivi (target 1.000); rapporto positivi/tamponi totali 10,27% (ieri 9,40% - target 2%); rapporto positivi/casi testati 37,83% (ieri 34,70% - target 3%); 656.895 contagiati totali; ricoverati +191 (5.909); terapie intensive +22 (667) con 39 nuovi ingressi del giorno; 29.093 decessi (+79). 
+In Lombardia curva +0,63% (ieri +0,32%) con 49.068 tamponi totali (ieri 21.605) di cui 29.633 molecolari (ieri 17.547) e 19.435 test rapidi (ieri 4.058) con 11.294 casi testati (ieri 7.209); 4.235 positivi (target 1.000); rapporto positivi/tamponi totali 8,63% (ieri 10,11% - target 2%); rapporto positivi/casi testati 37,49% (ieri 30,30% - target 3%); 673.458 contagiati totali; ricoverati +276 (6.474); terapie intensive +81 (29.380) con 83 nuovi ingressi del giorno; 29.380 decessi (+81). 
 
-In risposta alle molte domande ricevute, diamo qualche breve informazione sul vaccino AstraZeneca. La Danimarca (seguita da altri Paesi) ha sospeso la campagna vaccinale per indagare su alcuni casi gravi di coaguli di sangue, e un decesso, in soggetti che avevano ricevuto il vaccino AstraZeneca. Come si legge nel comunicato ufficiale della Danish Health Authority si tratta di una misura assunta “sulla base di un principio di precauzione e delle preoccupazioni sollevate dalle autorità farmaceutiche”. E ancora: “È importante sottolineare che non stiamo affatto scartando il vaccino AstraZeneca. Per il momento stiamo semplicemente smettendo di utilizzarlo. Ci sono forti prove che il vaccino sia sicuro e efficace”. Di fatto, in questa fase, come sottolinea la stessa Authority, è troppo presto per concludere se esiste un legame tra il vaccino e i coaguli di sangue. 
+La decisione di bloccare la somministrazione del vaccino AstraZeneca risponde a un principio di responsabilità e di precauzione, ma è interessante capire quale sia stata la motivazione che ha portato alla decisione, e quali le possibili ricadute. 
 
-Più che il pericolo del vaccino, che per 14 giorni verrà nuovamente sottoposto a rigorose indagini da parte delle autorità sanitarie danesi, il caso dimostra come sia efficiente il sistema di farmacosorveglianza: pronto a scattare ai primi segnali di un allarme possibile e non ancora accertato. L’EMA, l’Agenzia europea del farmaco, ha chiarito che “Non ci sono attualmente indicazioni che la vaccinazione abbia causato queste condizioni, che non sono elencate come effetti collaterali con questo vaccino. 
+Partiamo dalla motivazione: il ministro della Salute, Roberto Speranza, ha spiegato oggi che la decisione è stata presa in via precauzionale dopo i dati comunicati dall’Istituto tedesco per i vaccini e i medicinali biomedici, il Paul Ehlrich Institut. Che ha rilevato “un notevole accumulo di una forma speciale di trombosi venosa cerebrale molto rara (trombosi della vena sinusale) in connessione con la carenza di piastrine (trombocitopenia) e sanguinamento vicino alle vaccinazioni con il vaccino di AstraZeneca”. In particolare a destare l’attenzione sono stati 7 casi, con 3 decessi, su 1.748.563 dosi somministrate fino al momento della sospensione (fonte: Robert Koch Institute). Visti i numeri, con un’incidenza inferiore a quella della popolazione generale, a muovere l’interesse dei medici tedeschi sembra essere stata la “qualità” delle anomalie, più che la quantità. 
 
-La posizione del comitato per la sicurezza PRAC dell’EMA è che i benefici del vaccino continuano a superare i suoi rischi e il vaccino può continuare a essere somministrato mentre sono in corso le indagini sui casi di eventi tromboembolici. Il PRAC sta già esaminando tutti i casi di eventi tromboembolici e altre condizioni correlate a coaguli di sangue, segnalati dopo la vaccinazione con il vaccino COVID-19 AstraZeneca”. 
+E l’indagine sembra dunque volta a chiarire non tanto la sicurezza generale del vaccino, ma piuttosto eventuali interazioni con piccole sottocategorie di vaccinati (per esempio soggetti con patologie concomitanti o con un trattamento farmacologico specifico in corso) che potrebbero mostrare una particolare suscettibilità al trattamento. Oppure anomalie legate a un singolo lotto di vaccino: succede anche con le conserve alimentari e viene bloccata solo la vendita di quel lotto, non di tutta la produzione. Al momento, peraltro, non è stato confermato alcun rapporto causa-effetto tra i decessi e la somministrazione del vaccino. Ed è questo, la forzata correlazione causa-effetto, l’errore di base nel quale in molti stanno incorrendo nell’interpretare quanto sta accadendo. 
 
-A proposito del rapporto rischi/benefici riportiamo due diverse considerazioni: 1) I dati che arrivano da Uk, dove con AstraZeneca alla data del 28 febbraio erano state vaccinate 9 milioni 700.000 persone, parlano di 194 reazioni allergiche gravi (lo 0,002% dei casi) con 275 decessi sottoposti a indagine per verificare eventuali collegamenti: nessuno di questi è stato ricondotto alla somministrazione del vaccino. 2) Usiamo i dati precedenti per simulare una comparazione del rischio esistente in seguito al vaccino e all’infezione da Covid-19. 
+Torniamo ai numeri, in particolare a quelli (i più robusti in assoluto) che arrivano da Uk: quasi 12 milioni di vaccinati con AstraZeneca, nessun decesso collegato al vaccino. Che non significa nessun decesso in assoluto tra i vaccinati: perché le persone muoiono, da sempre, per mille cause diverse. E ovviamente vaccinando la popolazione generale avremo, tra i vaccinati, gli stessi decessi che si sarebbero verificati anche senza vaccinazione: il vaccino protegge dalla Covid-19, non è un elisir di immortalità. 
 
-Immaginiamo, per assurdo visto che non è così, che tutti i 275 decessi segnalati fossero dipesi dal vaccino: il tasso di letalità riferito all’inoculazione vaccinale sarebbe dello 0,0028%. In Uk (dati Oms, Bollettino epidemiologico del 9 marzo 2021) il tasso di letalità della Covid-19 è 2,95%: oltre 1.000 volte più alto. Su 9 milioni 700.000 persone contagiate da Sars-CoV-2 i decessi sarebbero 286.150 (contro i 275 ipoteticamente attribuiti al vaccino). 
+Sempre restando ai numeri, per chiarire meglio di cosa stiamo parlando, vale la pena di ricordare che in Italia ogni giorno (anche prima dell’epidemia e della somministrazione del vaccino) si verifica una media di 350 infarti e 160 casi di tromboembolia, fortunatamente solo in parte mortali; e che il 35,8% dei decessi, ovvero oltre 230.000 morti l’anno, è causato da malattie cardiovascolari. Procedendo con la vaccinazione, e coprendo la quasi totalità della popolazione, quante volte troveremo una “correlazione temporale” tra vaccino e infarto o tromboembolia? 
 
-In conclusione ricordiamo che spesso si scatena il panico per notizie che meritano maggiore approfondimento. Nelle primissime fasi dei trial di fase 3 condotti in Brasile vennero segnalati alcuni decessi tra i soggetti sottoposti a vaccinazione: il primo era morto in una sparatoria, il secondo in un incidente stradale, il terzo era un volontario che non aveva ancora ricevuto il vaccino. Per sapere come stanno davvero le cose su AstraZeneca, grazie alla costante sorveglianza esercitata in Europa e in Italia (non solo in Danimarca) dovremo solo attendere pochi giorni: il tempo necessario per concludere le revisioni in corso. Possibilmente senza dimenticare la valutazione del rapporto rischi/benefici. (M.T.I)
+L’errore nel quale molti non addetti ai lavori stanno incorrendo nell’interpretare i dati tedeschi si spiega in Psicologia, come in Statistica, ricorrendo al paradosso (o fallacia) del cecchino texano, che nasce da una simpatica storiella: nella quale si narra di un texano, appunto, che avrebbe sparato contro il muro di una stalla alcuni colpi di pistola, disegnando in seguito il bersaglio intorno ai fori più vicini tra loro e dimostrando così di essere infallibile. 
+
+In tutto in Germania sono stati riportati 3 decessi su 1.748.563 soggetti vaccinati con AstraZeneca, ovvero 1,7 per milione. Le persone protette dal vaccino, escludendo i decessi che proviamo ad attribuire forzatamente e senza prove al vaccino, sono 1.748.560: ovvero 999.998 per milione. A fronte di una patologia come la Covid-19 che sempre in Germania esprime, al momento, una mortalità di 887 decessi per milione di abitanti e una letalità di 28.534 decessi per milione di contagiati. 
+
+Non saremmo stupiti se l’Ema, alla verifica dei dati, esprimesse parere favorevole alla ripresa delle vaccinazioni non riscontrando alcun rapporto causa-effetto tra decessi e vaccinazioni. O se al massimo, come abbiamo anticipato prima, bloccasse un singolo lotto o individuasse un particolare sottogruppo di popolazione a rischio da vaccinare con un preparato diverso da AstraZeneca. Se infine rigettasse “in toto” il vaccino sarebbe solo una dimostrazione di quanto possa essere accurata, fino al limite del paradosso, la sorveglianza esercitata. 
+
+Resterebbe poi da spiegare la differente casistica in arrivo da Uk (ricordiamo zero decessi correlati al vaccino su 12 milioni di vaccinati con AstraZeneca) ma si tratta di un tema che, eventualmente, affronteremo se e quando sarà necessario farlo. Nel frattempo, per chiudere con i numeri in modo più leggero, forniamo in modo scherzoso una buona motivazione a chi, in contemporanea, ha paura del vaccino e vorrebbe smettere di fumare. I decessi legati al fumo nel nostro Paese (fonte: Ministero della Salute, Report Prevenzione e controllo del tabagismo 2020) sono oltre 93.000 all’anno: 1.550 per milione. Con il vaccino si rischia infinitamente meno. (M.T.I.)
 
 ###### Fonte: [IlSole24Ore - Lab24](https://lab24.ilsole24ore.com/coronavirus/)
 
