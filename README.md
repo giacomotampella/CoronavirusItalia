@@ -1,4 +1,4 @@
-
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 ## Dati sul COVID-19 in Italia aggiornati giorno per giorno
 
 Ultimo aggiornamento 16 marzo 2021.
