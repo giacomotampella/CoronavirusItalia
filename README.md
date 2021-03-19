@@ -1,43 +1,36 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 ## Dati sul COVID-19 in Italia aggiornati giorno per giorno
 
-Ultimo aggiornamento 18 marzo 2021.
+Ultimo aggiornamento: 19 marzo 2021.
 
 ###### Avviso: probabile che i dati non vengano aggiornati tutti i giorni con regolarità. Questo sito viene gestito interamente da me nel mio tempo libero.
 ###### Perciò potrebbero verificarsi anche degli errori nella stesura dei dati. Cerco di fare del mio meglio :). Grazie!
 
 ## Cosa dicono i dati oggi?
 
-In data 18 marzo l’incremento nazionale dei casi è +0,75% (ieri +0,70%) con 3.306.711 contagiati totali, 2.655.346 dimissioni/guarigioni (+15.976) e 103.855 deceduti (+423); 547.510 infezioni in corso (+8.502). Ricoverati con sintomi +177 (26.694); terapie intensive +16 (3.333) con 249 nuovi ingressi del giorno. 
+In data 19 marzo l’incremento nazionale dei casi è +0,77% (ieri +0,75%) con 3.332.418 contagiati totali, 2.671.638 dimissioni/guarigioni (+16.292) e 104.241 deceduti (+386); 556.539 infezioni in corso (+9.029). Ricoverati con sintomi +164 (26.858); terapie intensive +31 (3.364) con 244 nuovi ingressi del giorno. 
 
-Elaborati 353.737 tamponi totali (ieri 369.084) di cui 207.241 molecolari (ieri 205.693) e 146.496 test rapidi (ieri 163.391) con 120.510 casi testati (ieri 117.709); 24.935 positivi (target 4.311); rapporto positivi/tamponi totali 7,04% (ieri 6,24% - target 2%); rapporto positivi/casi testati 20,69% (ieri 19,58%, target 3%). 
+Elaborati 364.822 tamponi totali (ieri 353.737) di cui 205.552 molecolari (ieri 207.241) e 159.270 test rapidi (ieri 146.496) con 117.301 casi testati (ieri 120.510); 25.735 positivi (target 4.311); rapporto positivi/tamponi totali 7,05% (ieri 7,04% - target 2%); rapporto positivi/casi testati 21,93% (ieri 20,69%, target 3%). 
 
 Nuovi casi soprattutto in: 
-- Lombardia 5.641; 
-- Emilia Romagna 2.531; 
-- Piemonte 2.357; 
-- Campania 2.223; 
-- Puglia 2.082; 
-- Lazio 1.963; 
-- Veneto 1.761; 
-- Toscana 1.513; 
-- Friuli 1.058. 
+- Lombardia 5.518; 
+- Emilia Romagna 3.188; 
+- Piemonte 2.997; 
+- Lazio 2.188; 
+- Campania 1.997; 
+- Veneto 1.917; 
+- Puglia 1.785; 
+- Toscana 1.365. 
 
-In Lombardia curva +0,83% (ieri +0,66%) con 63.197 tamponi totali (ieri 59.009) di cui 43.892 molecolari (ieri 38.792) e 19.305 test rapidi (ieri 20.217) con 17.078 casi testati (ieri 13.610); 5.641 positivi (target 1.000); rapporto positivi/tamponi totali 8,92% (ieri 7,60% - target 2%); rapporto positivi/casi testati 33,03% (ieri 32,99% - target 3%); 683.589 contagiati totali; ricoverati +103 (6.744); terapie intensive +5 (786) con 58 nuovi ingressi del giorno; 29.551 decessi (+92). 
+In Lombardia curva +0,80% (ieri +0,83%) con 64.999 tamponi totali (ieri 63.197) di cui 44.851 molecolari (ieri 43.892) e 20.148 test rapidi (ieri 19.305) con 17.422 casi testati (ieri 17.078); 5.518 positivi (target 1.000); rapporto positivi/tamponi totali 8,48% (ieri 8,92% - target 2%); rapporto positivi/casi testati 31,67% (ieri 33,03% - target 3%); 689.107 contagiati totali; ricoverati +52 (6.796); terapie intensive +2 (788) con 52 nuovi ingressi del giorno; 29.631 decessi (+80). 
 
-La recente pubblicazione di due articoli su Nature e British Medical Journal, nei quali i medici inglesi riportano dati relativi a un netto incremento della gravità della Covid-19 legata alla prevalenza della variante inglese, ci ha spinti ha una immediata verifica sulla base dei dati disponibili. 
+Prosegue, per la terza settimana consecutiva, il rialzo dei nuovi casi a livello mondiale: l’ultimo Report epidemiologico Oms conferma che dopo la fase di riduzione del contagio che ha caratterizzato la prima parte del 2020 (-50,4% di nuovi casi con 6 settimane consecutive in ribasso) siamo ora in presenza di un nuovo ciclo espansivo. Il dato cumulato delle 3 settimane segna un +23,4%, portando il totale dei casi settimanali da un minimo di 2.457.026 registrato nel periodo 14-20 febbraio ai 3.033.213 dell’ultima rilevazione (8-14 marzo). 
 
-Abbiamo utilizzato, come già fatto più volte in passato, il presupposto di base che l’ingresso in terapia intensiva avvenga 14 giorni dopo l’infezione, calcolando 4-7 giorni per le prime manifestazioni patologiche e altri 7-10 giorni prima dell’ingresso in area critica. Numeri che tornano con la media delle esperienze cliniche sul campo. Abbiamo considerato tre periodi diversi: il più recente, 11-17 marzo, che riflette i contagi della settimana 25 febbraio - 3 marzo. 
+L’incremento calcolato sulla prima settimana di marzo è del 10,9%, a fronte di una riduzione dei decessi: 58.698 (-2,6%). Questa tendenza è destinata a invertirsi nelle prossime settimane, con un nuovo rialzo dei decessi, a causa dello sfasamento temporale con cui si manifestano le singole ricadute dell’epidemia (i decessi sono gli ultimi a salire nella fase espansiva e a scendere in quella di riduzione). 
 
-Quello intermedio con i nuovi ingressi tra il 30 gennaio e il 5 febbraio, che riflettono la settimana 16-22 gennaio. Quello più vecchio con i nuovi ingressi tra il 5 e l’11 dicembre 2020 che riflettono il periodo 21-27 novembre 2020: si tratta in questo caso dei primi dati ufficiali disponibili, perché prima del 3 dicembre non venivano comunicati nel Bollettino quotidiano. 
+È importante notare come per la prima volta, da inizio anno, il rialzo abbia coinvolto 5 Regioni Oms su 6, con la sola Africa stabile sulla settimana precedente. Per quanto riguarda i singoli Paesi il maggior numero di casi è stato segnalato in Brasile: 494.153; +20% sul periodo 1-7 marzo. Seguono Usa (461.190; +8%); Francia (161.159; +12%); Italia (155.076; +12%) e India (148.249; +30%). Per quanto riguarda la sola Regione europea dell’Oms, dopo Francia e Italia il Paese con il maggior numero di casi nell’ultima settimana è stata la Polonia (111.718; +27%). 
 
-La percentuale degli ingressi in terapia intensiva sul totale dei contagiati del periodo preso a confronto è passata dallo 0,6% di inizio dicembre (variante inglese non ancora rilevata) all’1% del periodo 31 gennaio - 5 febbraio, quando la variante rappresentava circa un quinto dei nuovi casi. L’ultimo dato, con la variante inglese ormai predominante, è salito all’1,4%. Valori che tornano con i più recenti racconti dei sanitari impegnati in prima linea: che riferiscono, a differenza di quanto accadeva nel passato, di più giovani (e con forme più gravi) indirizzati direttamente in terapia intensiva. 
-
-Partendo da questi presupposti le terapie intensive avrebbero davanti almeno 3-4 settimane pesantissime, visto che devono ancora assorbire larga parte dei contagi avvenuti nella fase di espansione ancora in atto. Di seguito elenchiamo in dettaglio i dati dei tre periodi considerati: 1) Ingressi in T.I. nella settimana 5-11 dicembre 2020: 1.289. Il dato riflette i contagi del periodo 21-27 novembre 2020 (192.474). 
-
-Percentuale nuovi ingressi in T.I. su contagiati 0.6%. 2) Ingressi in T.I. nella settimana 30 gennaio - 5 febbraio: 944. Il dato riflette i contagi del periodo 16-22 gennaio (89.328). Percentuale nuovi ingressi in T.I. su contagiati 1.0%. 3) Ingressi in T.I. nella settimana 11-17 marzo: 1.891. Il dato riflette i contagi del periodo 25 febbraio - 3 marzo (127.837). Percentuale nuovi ingressi in T.I su contagiati 1,4%. I valori reali devono essere stimati applicando una riduzione: perché con questo metodo attribuiamo tutti i nuovi ingressi a un arco di tempo molto preciso, includendo anche quelli relativi a infezioni contratte al di fuori del periodo considerato. 
-
-Ma la concentrazione maggiore si ha sicuramente nell’arco temporale che abbiamo utilizzato, per cui possiamo stimare che il dato reale oscilli “almeno” tra il 70 e l’80% dei valori ottenuti. In pratica, ricalcolando in questo modo i dati precedenti, siamo passati da uno 0,4-0,5% di inizio dicembre a un valore intermedio di 0,7-0,8% di inizio febbraio per arrivare a un dato attuale di 1,0-1,1%. (M.T.I.)
+Sempre in Europa la dinamica dei decessi vede in prima posizione, in termini di valori assoluti, la Russia (2.990; 2,0 per 100.000 abitanti, dato in linea con la settimana precedente). Seguono Italia (2.303; 3,8 per 100.000 abitanti; +11% sulla settimana precedente) e Polonia con 1.893 decessi (5,0 per 100.000 abitanti) e un incremento del 25% sulla settimana precedente. Domani faremo il punto in dettaglio sui dati nazionali e delle principali Regioni nella settimana epidemiologica che si chiude oggi, compresa tra il 13 e il 19 marzo. Che, anticipiamo, sta confermando un rallentamento della crescita del contagio con i primi segnali di inversione di tendenza in alcune zone del Paese. (M.T.I.)
 
 ###### Fonte: [IlSole24Ore - Lab24](https://lab24.ilsole24ore.com/coronavirus/)
 
