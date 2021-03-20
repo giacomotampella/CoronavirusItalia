@@ -1,36 +1,48 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 ## Dati sul COVID-19 in Italia aggiornati giorno per giorno
 
-Ultimo aggiornamento: 19 marzo 2021.
+Ultimo aggiornamento: 20 marzo 2021.
 
 ###### Avviso: probabile che i dati non vengano aggiornati tutti i giorni con regolarità. Questo sito viene gestito interamente da me nel mio tempo libero.
 ###### Perciò potrebbero verificarsi anche degli errori nella stesura dei dati. Cerco di fare del mio meglio :). Grazie!
 
 ## Cosa dicono i dati oggi?
 
-In data 19 marzo l’incremento nazionale dei casi è +0,77% (ieri +0,75%) con 3.332.418 contagiati totali, 2.671.638 dimissioni/guarigioni (+16.292) e 104.241 deceduti (+386); 556.539 infezioni in corso (+9.029). Ricoverati con sintomi +164 (26.858); terapie intensive +31 (3.364) con 244 nuovi ingressi del giorno. 
+In data 20 marzo l’incremento nazionale dei casi è +0,71% (ieri +0,77%) con 3.356.331 contagiati totali, 2.686.236 dimissioni/guarigioni (+14.598) e 104.642 deceduti (+401); 565.453 infezioni in corso (+8.914). Ricoverati con sintomi +203 (27.061); terapie intensive +23 (3.387) con 243 nuovi ingressi del giorno. 
 
-Elaborati 364.822 tamponi totali (ieri 353.737) di cui 205.552 molecolari (ieri 207.241) e 159.270 test rapidi (ieri 146.496) con 117.301 casi testati (ieri 120.510); 25.735 positivi (target 4.311); rapporto positivi/tamponi totali 7,05% (ieri 7,04% - target 2%); rapporto positivi/casi testati 21,93% (ieri 20,69%, target 3%). 
+Elaborati 354.480 tamponi totali (ieri 364.822) di cui 201.643 molecolari (ieri 205.552) e 152.837 test rapidi (ieri 159.270) con 116.833 casi testati (ieri 117.301); 23.832 positivi (target 4.311); rapporto positivi/tamponi totali 7,15% (ieri 7,05% - target 2%); rapporto positivi/casi testati 20,39% (ieri 21,93%, target 3%). 
 
 Nuovi casi soprattutto in: 
-- Lombardia 5.518; 
-- Emilia Romagna 3.188; 
-- Piemonte 2.997; 
-- Lazio 2.188; 
-- Campania 1.997; 
-- Veneto 1.917; 
-- Puglia 1.785; 
-- Toscana 1.365. 
+- Lombardia 4.810; 
+- Emilia Romagna 2.560; 
+- Campania 2.196; 
+- Piemonte 2.141; 
+- Veneto 2.044; 
+- Lazio 1.821; 
+- Puglia 1.983; 
+- Toscana 1.510. 
 
-In Lombardia curva +0,80% (ieri +0,83%) con 64.999 tamponi totali (ieri 63.197) di cui 44.851 molecolari (ieri 43.892) e 20.148 test rapidi (ieri 19.305) con 17.422 casi testati (ieri 17.078); 5.518 positivi (target 1.000); rapporto positivi/tamponi totali 8,48% (ieri 8,92% - target 2%); rapporto positivi/casi testati 31,67% (ieri 33,03% - target 3%); 689.107 contagiati totali; ricoverati +52 (6.796); terapie intensive +2 (788) con 52 nuovi ingressi del giorno; 29.631 decessi (+80). 
+In Lombardia curva +0,69% (ieri +0,80%) con 56.383 tamponi totali (ieri 64.999) di cui 38.866 molecolari (ieri 44.851) e 17.517 test rapidi (ieri 20.148) con 15.142 casi testati (ieri 17.422); 4.810 positivi (target 1.000); rapporto positivi/tamponi totali 8,53% (ieri 8,48% - target 2%); rapporto positivi/casi testati 31,76% (ieri 31,67% - target 3%); 693.917contagiati totali; ricoverati +95 (6.891); terapie intensive +3 (791) con 54 nuovi ingressi del giorno; 29.709 decessi (+78). 
 
-Prosegue, per la terza settimana consecutiva, il rialzo dei nuovi casi a livello mondiale: l’ultimo Report epidemiologico Oms conferma che dopo la fase di riduzione del contagio che ha caratterizzato la prima parte del 2020 (-50,4% di nuovi casi con 6 settimane consecutive in ribasso) siamo ora in presenza di un nuovo ciclo espansivo. Il dato cumulato delle 3 settimane segna un +23,4%, portando il totale dei casi settimanali da un minimo di 2.457.026 registrato nel periodo 14-20 febbraio ai 3.033.213 dell’ultima rilevazione (8-14 marzo). 
+La curva epidemica a livello nazionale è ormai prossima all’inversione di tendenza, con il passaggio a valori negativi dopo 4 settimane consecutive in espansione. La svolta è attesa nel corso della prossima settimana: ma è già riscontrabile, come vedremo di seguito, in alcune delle principali Regioni. Si conferma di fatto una situazione “a macchia di leopardo”, che non viene correttamente percepita guardando solo ai valori complessivi. 
 
-L’incremento calcolato sulla prima settimana di marzo è del 10,9%, a fronte di una riduzione dei decessi: 58.698 (-2,6%). Questa tendenza è destinata a invertirsi nelle prossime settimane, con un nuovo rialzo dei decessi, a causa dello sfasamento temporale con cui si manifestano le singole ricadute dell’epidemia (i decessi sono gli ultimi a salire nella fase espansiva e a scendere in quella di riduzione). 
+Veniamo al dettaglio: nell’ultima settimana epidemiologica (13-19 marzo) i nuovi casi a livello nazionale hanno registrato un leggero incremento (+2,4%) a quota 156.769 dai 152.963 della settimana precedente. A preoccupare, più che il dato totale dei positivi, è la base complessiva di “attualmente positivi” che costituisce un motore importante sia per la diffusione del contagio, sia per la costante alimentazione del numero dei ricoverati in area medica, di quelli in area critica e dei decessi. 
 
-È importante notare come per la prima volta, da inizio anno, il rialzo abbia coinvolto 5 Regioni Oms su 6, con la sola Africa stabile sulla settimana precedente. Per quanto riguarda i singoli Paesi il maggior numero di casi è stato segnalato in Brasile: 494.153; +20% sul periodo 1-7 marzo. Seguono Usa (461.190; +8%); Francia (161.159; +12%); Italia (155.076; +12%) e India (148.249; +30%). Per quanto riguarda la sola Regione europea dell’Oms, dopo Francia e Italia il Paese con il maggior numero di casi nell’ultima settimana è stata la Polonia (111.718; +27%). 
+Il 19 marzo le positività in corso erano 556.539 rilevate ufficialmente, ma è possibile ipotizzare che in realtà siano circa il doppio sulla base del calcolo inverso, a partire dagli ingressi in terapia intensiva. Alla rete diagnostica, in altri termini, scapperebbe un positivo su due a causa dell’alto numero di soggetti asintomatici. Sarebbe comunque un ottimo risultato se consideriamo che nel corso della prima ondata veniva individuato un positivo su 6, come dimostrato dall’indagine sierologica nazionale per la ricerca degli anticorpi al Sars-CoV-2 condotta a metà del 2020. 
 
-Sempre in Europa la dinamica dei decessi vede in prima posizione, in termini di valori assoluti, la Russia (2.990; 2,0 per 100.000 abitanti, dato in linea con la settimana precedente). Seguono Italia (2.303; 3,8 per 100.000 abitanti; +11% sulla settimana precedente) e Polonia con 1.893 decessi (5,0 per 100.000 abitanti) e un incremento del 25% sulla settimana precedente. Domani faremo il punto in dettaglio sui dati nazionali e delle principali Regioni nella settimana epidemiologica che si chiude oggi, compresa tra il 13 e il 19 marzo. Che, anticipiamo, sta confermando un rallentamento della crescita del contagio con i primi segnali di inversione di tendenza in alcune zone del Paese. (M.T.I.)
+L’occupazione dei posti letto in terapia intensiva (saldo tra ingressi e uscite) è salito a 3.364 al termine del periodo di rilevazione, contro 2.914 de lla settimana precedente (+15,4%). Tendenza analoga anche per il numero dei nuovi ingressi in terapia intensiva (+16,1%) che fotografa la situazione sul campo meglio dell’occupazione dei posti disponibili: che alla voce “uscite” include sia i pazienti le cui condizioni sono migliorate, sia i pazienti deceduti. 
+
+Il valore di Rt nazionale, calcolato alla sera del 19 marzo con il metodo rapido Kolhberg-Neyman (che useremo anche per singole Regioni) era 0.99. La differenza con l’ultimo valore indicato dall’Iss (1.16) è legata al periodo considerato: il calcolo ufficiale restituisce il dato medio tra il 24 febbraio e il 9 marzo (2-3 settimane fa). Passiamo alla Lombardia, la Regione più colpita: i nuovi casi sono stati 32.212, in calo del 2,3% dai 32.973 del periodo precedente. 
+
+Il valore di Rt puntuale alla sera del 19 marzo era 0.97. Il miglioramento della situazione non può essere visto come dato singolo e avulso da altri, ipotizzando rapide riaperture che avrebbero come unico effetto quello di far riprendere la corsa del contagio e aumentare ulteriormente la pressione su un sistema sanitario allo stremo: i nuovi ingressi in terapia intensiva sono stati 405, con un incremento del 19,1% sul periodo precedente, mentre i posti occupati in area critica sono saliti da 667 a 778 (+16,6%). 
+
+Un altro dato, in particolare, dimostra la fondatezza delle ripetute raccomandazioni a non affidarsi a un solo valore per interpretare l’andamento epidemico: i soggetti attualmente positivi in Regione, 100.904 alla data del 19 marzo, ci dicono che secondo le rilevazioni ufficiali un lombardo su 100 è attualmente infettato dal Sars-Cov-2 (il doppio, uno su 50, con le stime che abbiamo visto in precedenza a proposito del dato nazionale). 
+
+Tra le Regioni dove si nota un ripiegamento del numero dei nuovi casi segnaliamo anche la Campania e l’Emilia Romagna: per la prima i positivi, nell’ultima settimana epidemiologica, sono stati 16.753, con un calo del 9,0% sul periodo precedente; il valore di Rt alla sera del 19 marzo era 0.90. In Emilia Romagna i nuovi casi sono stati 18.724, con un calo del 7,2% sulla settimana precedente; il valore di Rt alla sera del 19 marzo era 0.95. In controtendenza il Veneto: nuovi casi in crescita a 12.880, +25,0% sulla settimana precedente; il valore di Rt, alla sera del 19 marzo, segnava 1.08. 
+
+La previsione sull’inutilità delle zone gialle, e più in particolare sul rischio della zona bianca in Sardegna, che avevamo sottolineato nel commento dello scorso 11 marzo, ha trovato una fin troppo facile conferma: la Regione passerà da lunedì 22 marzo direttamente in zona arancione, vista la soppressione fino a Pasqua delle zone gialle. Nessun intento punitivo, come qualcuno si è affrettato a interpretare: ma ci auguriamo finalmente un segnale di volontà, a livello nazionale, di aggredire l’epidemia ai primi allarmi (Rt in netto rialzo da 0.89 a 1.08) e non solo di inseguirla inutilmente come abbiamo fatto negli ultimi mesi. 
+
+Ci auguriamo che la stessa linea venga seguita anche nelle prossime settimane, abbandonando la strategia del “riapri tutto appena possibile” che finora è costata continue altalene tra riaperture e chiusure, un numero crescente di contagiati su livelli progressivamente in aumento, una pressione sempre più insostenibile sul sistema sanitario e come ultima conseguenza, purtroppo inevitabile, un elevato numero di decessi. (M.T.I.)
 
 ###### Fonte: [IlSole24Ore - Lab24](https://lab24.ilsole24ore.com/coronavirus/)
 
