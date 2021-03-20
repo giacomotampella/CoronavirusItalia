@@ -1,7 +1,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 ## Dati sul COVID-19 in Italia aggiornati giorno per giorno
 
-Ultimo aggiornamento: 20 marzo 2021.
+Ultimo aggiornamento: 20 marzo 2021 ore 19:00.
 
 ###### Avviso: probabile che i dati non vengano aggiornati tutti i giorni con regolarità. Questo sito viene gestito interamente da me nel mio tempo libero.
 ###### Perciò potrebbero verificarsi anche degli errori nella stesura dei dati. Cerco di fare del mio meglio :). Grazie!
