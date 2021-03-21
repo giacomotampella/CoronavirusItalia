@@ -1,48 +1,36 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 ## Dati sul COVID-19 in Italia aggiornati giorno per giorno
 
-Ultimo aggiornamento: 20 marzo 2021 ore 19:00.
+Ultimo aggiornamento: 21 marzo 2021 ore 19:15.
 
 ###### Avviso: probabile che i dati non vengano aggiornati tutti i giorni con regolarità. Questo sito viene gestito interamente da me nel mio tempo libero.
 ###### Perciò potrebbero verificarsi anche degli errori nella stesura dei dati. Cerco di fare del mio meglio :). Grazie!
 
 ## Cosa dicono i dati oggi?
 
-In data 20 marzo l’incremento nazionale dei casi è +0,71% (ieri +0,77%) con 3.356.331 contagiati totali, 2.686.236 dimissioni/guarigioni (+14.598) e 104.642 deceduti (+401); 565.453 infezioni in corso (+8.914). Ricoverati con sintomi +203 (27.061); terapie intensive +23 (3.387) con 243 nuovi ingressi del giorno. 
+In data 21 marzo l’incremento nazionale dei casi è +0,60% (ieri +0,71%) con 3.376.376 contagiati totali, 2.699.762 dimissioni/guarigioni (+13.526) e 104.942 deceduti (+300); 571.672 infezioni in corso (+6.219). Ricoverati con sintomi +423 (27.484); terapie intensive +61 (3.448) con 232 nuovi ingressi del giorno. 
 
-Elaborati 354.480 tamponi totali (ieri 364.822) di cui 201.643 molecolari (ieri 205.552) e 152.837 test rapidi (ieri 159.270) con 116.833 casi testati (ieri 117.301); 23.832 positivi (target 4.311); rapporto positivi/tamponi totali 7,15% (ieri 7,05% - target 2%); rapporto positivi/casi testati 20,39% (ieri 21,93%, target 3%). 
+Elaborati 277.086 tamponi totali (ieri 354.480) di cui 169.175 molecolari (ieri 201.643) e 107.911 test rapidi (ieri 152.837) con 94.153 casi testati (ieri 116.833); 20.159 positivi (target 4.311); rapporto positivi/tamponi totali 7,27% (ieri 7,15% - target 2%); rapporto positivi/casi testati 21,41% (ieri 20,39%, target 3%). 
 
 Nuovi casi soprattutto in: 
-- Lombardia 4.810; 
-- Emilia Romagna 2.560; 
-- Campania 2.196; 
-- Piemonte 2.141; 
-- Veneto 2.044; 
-- Lazio 1.821; 
-- Puglia 1.983; 
-- Toscana 1.510. 
+- Lombardia 4.003; 
+- Emilia Romagna 2.448; 
+- Campania 1.810; 
+- Lazio 1.793; 
+- Piemonte 1.751; 
+- Veneto 1.586; 
+- Puglia 1.546; 
+- Toscana 1.358. 
 
-In Lombardia curva +0,69% (ieri +0,80%) con 56.383 tamponi totali (ieri 64.999) di cui 38.866 molecolari (ieri 44.851) e 17.517 test rapidi (ieri 20.148) con 15.142 casi testati (ieri 17.422); 4.810 positivi (target 1.000); rapporto positivi/tamponi totali 8,53% (ieri 8,48% - target 2%); rapporto positivi/casi testati 31,76% (ieri 31,67% - target 3%); 693.917contagiati totali; ricoverati +95 (6.891); terapie intensive +3 (791) con 54 nuovi ingressi del giorno; 29.709 decessi (+78). 
+In Lombardia curva +0,57% (ieri +0,69%) con 46.150 tamponi totali (ieri 56.383) di cui 35.144 molecolari (ieri 38.866) e 11.006 test rapidi (ieri 17.517) con 12.632 casi testati (ieri 15.142); 4.003 positivi (target 1.000); rapporto positivi/tamponi totali 8,67% (ieri 8,53% - target 2%); rapporto positivi/casi testati 31,68% (ieri 31,76% - target 3%); 697.920 contagiati totali; ricoverati +35 (6.926); terapie intensive +15 (806) con 36 nuovi ingressi del giorno; 29.799 decessi (+90). 
 
-La curva epidemica a livello nazionale è ormai prossima all’inversione di tendenza, con il passaggio a valori negativi dopo 4 settimane consecutive in espansione. La svolta è attesa nel corso della prossima settimana: ma è già riscontrabile, come vedremo di seguito, in alcune delle principali Regioni. Si conferma di fatto una situazione “a macchia di leopardo”, che non viene correttamente percepita guardando solo ai valori complessivi. 
+Gli effetti negativi della variante inglese diventano sempre più visibili: i dati degli ultimi 30 giorni mobili (Iss, 20 marzo 2021) mostrano un chiaro incremento dei casi con manifestazioni cliniche o comunque sintomatiche della Covid-19. La differenza è immediatamente visibile analizzando i dati relativi ai soggetti asintomatici, che a metà febbraio (variante poco diffusa) erano ancora nettamente al di sopra del 50% in tutte le fasce di età; in linea con inizio dicembre (variante non ancora rilevata) quando il valore più basso (53%) si riscontrava nella fascia di età 70-79 anni.
 
-Veniamo al dettaglio: nell’ultima settimana epidemiologica (13-19 marzo) i nuovi casi a livello nazionale hanno registrato un leggero incremento (+2,4%) a quota 156.769 dai 152.963 della settimana precedente. A preoccupare, più che il dato totale dei positivi, è la base complessiva di “attualmente positivi” che costituisce un motore importante sia per la diffusione del contagio, sia per la costante alimentazione del numero dei ricoverati in area medica, di quelli in area critica e dei decessi. 
+Nello stesso periodo si registravano picchi del 75% di asintomatici in quella 2-6 anni e del 65% per gli ultranovantenni, che esprimevano valori simili a quelli dei 30-40enni. Negli ultimi 30 giorni gli asintomatici sono tornati sotto al 50% in tutte le fasce di età oltre i 30 anni, e anche in quella 2-6 anni il valore ha ripiegato verso quota 70%. Le forme sintomatiche severe, fino a inizio anno praticamente non rilevabili al di sotto dei 50 anni, nell’ultimo mese di rilevazione stanno esprimendo valori statisticamente significativi già a partire dalla fascia di età 30-39 anni (1,3%). 
 
-Il 19 marzo le positività in corso erano 556.539 rilevate ufficialmente, ma è possibile ipotizzare che in realtà siano circa il doppio sulla base del calcolo inverso, a partire dagli ingressi in terapia intensiva. Alla rete diagnostica, in altri termini, scapperebbe un positivo su due a causa dell’alto numero di soggetti asintomatici. Sarebbe comunque un ottimo risultato se consideriamo che nel corso della prima ondata veniva individuato un positivo su 6, come dimostrato dall’indagine sierologica nazionale per la ricerca degli anticorpi al Sars-CoV-2 condotta a metà del 2020. 
+Importante anche il confronto con il dato degli asintomatici da inizio epidemia che in tutte le fasce di età, senza esclusione, sono al di sopra del 50%. Nel peggioramento repentino degli ultimi 30 giorni di questo indicatore troviamo dunque ulteriore conferma della maggiore gravità della Covid-19 generata dalla variante del Kent rispetto a quella legata al ceppo originario di Wuhan. 
 
-L’occupazione dei posti letto in terapia intensiva (saldo tra ingressi e uscite) è salito a 3.364 al termine del periodo di rilevazione, contro 2.914 de lla settimana precedente (+15,4%). Tendenza analoga anche per il numero dei nuovi ingressi in terapia intensiva (+16,1%) che fotografa la situazione sul campo meglio dell’occupazione dei posti disponibili: che alla voce “uscite” include sia i pazienti le cui condizioni sono migliorate, sia i pazienti deceduti. 
-
-Il valore di Rt nazionale, calcolato alla sera del 19 marzo con il metodo rapido Kolhberg-Neyman (che useremo anche per singole Regioni) era 0.99. La differenza con l’ultimo valore indicato dall’Iss (1.16) è legata al periodo considerato: il calcolo ufficiale restituisce il dato medio tra il 24 febbraio e il 9 marzo (2-3 settimane fa). Passiamo alla Lombardia, la Regione più colpita: i nuovi casi sono stati 32.212, in calo del 2,3% dai 32.973 del periodo precedente. 
-
-Il valore di Rt puntuale alla sera del 19 marzo era 0.97. Il miglioramento della situazione non può essere visto come dato singolo e avulso da altri, ipotizzando rapide riaperture che avrebbero come unico effetto quello di far riprendere la corsa del contagio e aumentare ulteriormente la pressione su un sistema sanitario allo stremo: i nuovi ingressi in terapia intensiva sono stati 405, con un incremento del 19,1% sul periodo precedente, mentre i posti occupati in area critica sono saliti da 667 a 778 (+16,6%). 
-
-Un altro dato, in particolare, dimostra la fondatezza delle ripetute raccomandazioni a non affidarsi a un solo valore per interpretare l’andamento epidemico: i soggetti attualmente positivi in Regione, 100.904 alla data del 19 marzo, ci dicono che secondo le rilevazioni ufficiali un lombardo su 100 è attualmente infettato dal Sars-Cov-2 (il doppio, uno su 50, con le stime che abbiamo visto in precedenza a proposito del dato nazionale). 
-
-Tra le Regioni dove si nota un ripiegamento del numero dei nuovi casi segnaliamo anche la Campania e l’Emilia Romagna: per la prima i positivi, nell’ultima settimana epidemiologica, sono stati 16.753, con un calo del 9,0% sul periodo precedente; il valore di Rt alla sera del 19 marzo era 0.90. In Emilia Romagna i nuovi casi sono stati 18.724, con un calo del 7,2% sulla settimana precedente; il valore di Rt alla sera del 19 marzo era 0.95. In controtendenza il Veneto: nuovi casi in crescita a 12.880, +25,0% sulla settimana precedente; il valore di Rt, alla sera del 19 marzo, segnava 1.08. 
-
-La previsione sull’inutilità delle zone gialle, e più in particolare sul rischio della zona bianca in Sardegna, che avevamo sottolineato nel commento dello scorso 11 marzo, ha trovato una fin troppo facile conferma: la Regione passerà da lunedì 22 marzo direttamente in zona arancione, vista la soppressione fino a Pasqua delle zone gialle. Nessun intento punitivo, come qualcuno si è affrettato a interpretare: ma ci auguriamo finalmente un segnale di volontà, a livello nazionale, di aggredire l’epidemia ai primi allarmi (Rt in netto rialzo da 0.89 a 1.08) e non solo di inseguirla inutilmente come abbiamo fatto negli ultimi mesi. 
-
-Ci auguriamo che la stessa linea venga seguita anche nelle prossime settimane, abbandonando la strategia del “riapri tutto appena possibile” che finora è costata continue altalene tra riaperture e chiusure, un numero crescente di contagiati su livelli progressivamente in aumento, una pressione sempre più insostenibile sul sistema sanitario e come ultima conseguenza, purtroppo inevitabile, un elevato numero di decessi. (M.T.I.)
+Ne vedremo il dettaglio, insieme ad altri parametri che stanno subendo importanti modifiche proprio per effetto della maggiore circolazione della variante, nel corso della prossima analisi settimanale. (M.T.I.)
 
 ###### Fonte: [IlSole24Ore - Lab24](https://lab24.ilsole24ore.com/coronavirus/)
 
