@@ -91,3 +91,10 @@ Contact me on [Twitter](https://twitter.com/GTampella) or [LinkedIn](https://www
 Fonte dati: [IlSole24Ore - Lab24](https://lab24.ilsole24ore.com/coronavirus/)
 
 Fonte dati: [Ministero della Salute](http://www.salute.gov.it/portale/nuovocoronavirus/homeNuovoCoronavirus.jsp)
+
+
+<div align="center"> ## Support me
+
+#### Dogecoin donations: 
+
+D76bT8HMPirBLBMaq89ghZYhtbJS5Gb6e1</div>
