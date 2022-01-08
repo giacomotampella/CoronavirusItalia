@@ -94,12 +94,12 @@ Fonte dati: [Ministero della Salute](http://www.salute.gov.it/portale/nuovocoron
 
 
 <div align="center">
-  ## Support me 
+  <h3><b>Support me</b></h3>
 </div>
 
 <div align="center">
-  #### Dogecoin donations:
+  <h4><b>Dogecoin donations:</b></h4>
 </div> 
 <div align="center">
-  D76bT8HMPirBLBMaq89ghZYhtbJS5Gb6e1
+  <h4><b>D76bT8HMPirBLBMaq89ghZYhtbJS5Gb6e1</b></h4>
 </div>
