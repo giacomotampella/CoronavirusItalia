@@ -74,15 +74,3 @@ Fonte dati: [IlSole24Ore - Lab24](https://lab24.ilsole24ore.com/coronavirus/)
 
 Fonte dati: [Ministero della Salute](http://www.salute.gov.it/portale/nuovocoronavirus/homeNuovoCoronavirus.jsp)
 
-
-
-<div align="center">
-  <h3><b>Support me</b></h3>
-</div>
-
-<div align="center">
-  <h4><b>Dogecoin donations:</b></h4>
-</div> 
-<div align="center">
-  <h4><b>D76bT8HMPirBLBMaq89ghZYhtbJS5Gb6e1</b></h4>
-</div>
