@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/giacomotampella/CoronavirusItalia/main/covid.jpg" alt="covid" width="600" align="centre"/>
 
-### Ultimo aggiornamento: 9 gennaio 2022 ore 16:56
+### Ultimo aggiornamento: 10 gennaio 2022 ore 17:55 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Cosa dicono i dati?
@@ -29,7 +29,7 @@ In chiusura l’epidemia a livello mondiale (dati Oms, periodo 27 dicembre 2021 
 
 ## Mappa dei contagi in Italia per regione:
 <iframe src='https://flo.uri.sh/visualisation/5472398/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/5472398/?utm_source=embed&utm_campaign=visualisation/5472398' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
-###### Fonte dati: [IlSole24Ore - Lab24](https://lab24.ilsole24ore.com/coronavirus/)
+###### Fonte dati: [Dipartimento della Protezione Civile](https://mappe.protezionecivile.gov.it/it/mappe-emergenze/mappe-coronavirus/situazione-desktop)
 
 ## Nuovi Casi
 <iframe src='https://flo.uri.sh/visualisation/1752420/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/1752420/?utm_source=embed&utm_campaign=visualisation/1752420' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
