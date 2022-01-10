@@ -9,6 +9,8 @@
 ### Ultimo aggiornamento: 9 gennaio 2022 ore 16:56
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
+<img src="https://raw.githubusercontent.com/giacomotampella/CoronavirusItalia/main/covid.jpg" alt="covid" width="600" align="centre"/>
+
 ## Cosa dicono i dati?
 
 La settimana epidemiologica 1-7 gennaio 2022 conferma la forte fase espansiva del contagio: ne parleremo dopo i principali numeri e indicatori, con qualche suggerimento su come interpretare davvero dati e notizie. I nuovi casi a livello nazionale sono stati 958.079 (+71,6% dai 558.039 del periodo precedente, 25-31 dicembre 2021); media giornaliera 136.868 (da 79.719); rapporto positivi/tamponi totali (range 13,90% - 22,0% da 7,56% - 11,78%); ricoverati in area medica il 7 gennaio 2022: 14.591 (dagli 11.150 del 31 dicembre); terapie intensive il 7 gennaio 2022: 1.499 (dalle 1.260 del 31 dicembre 2021) con 924 nuovi ingressi nella settimana (789 la precedente); 5.808.058 tamponi totali (-2,7% dai 5.969.255 del periodo precedente) il 67,3% dei quali di tipo antigenico rapido. Decessi settimanali 1.295 (da 1.016). L’andamento settimanale del contagio nelle prime 4 Regioni per numero di casi da inizio epidemia: Lombardia (234.167 nuovi casi, +38,4%); Veneto (83.002 nuovi casi, +81,2%); Campania (81.014 nuovi casi, +56,4%); Emilia Romagna (107.450 nuovi casi, +209,0%). Il valore di Rt istantaneo nazionale, calcolato con il metodo rapido Kohlberg-Neyman, è 1,33 (dato puntuale del 7 gennaio 2022) contro 2,04 del 31 dicembre 2021.
