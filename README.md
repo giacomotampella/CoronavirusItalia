@@ -6,10 +6,10 @@
 
 ## COVID-19 in Italia
 
+<img src="https://raw.githubusercontent.com/giacomotampella/CoronavirusItalia/main/covid.jpg" alt="covid" width="600" align="centre"/>
+
 ### Ultimo aggiornamento: 9 gennaio 2022 ore 16:56
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
-
-<img src="https://raw.githubusercontent.com/giacomotampella/CoronavirusItalia/main/covid.jpg" alt="covid" width="600" align="centre"/>
 
 ## Cosa dicono i dati?
 
