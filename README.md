@@ -3,7 +3,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 ## Dati sul COVID-19 in Italia aggiornati giorno per giorno
 
-Ultimo aggiornamento: 8 gennaio 2022 ore 16:56
+Ultimo aggiornamento: 9 gennaio 2022 ore 16:56
 
 ###### Avviso: probabile che i dati non vengano aggiornati tutti i giorni con regolarità. Questo sito viene gestito interamente da me nel mio tempo libero.
 ###### Perciò potrebbero verificarsi anche degli errori nella stesura dei dati. Cerco di fare del mio meglio :). Grazie!
@@ -40,7 +40,7 @@ In chiusura l’epidemia a livello mondiale (dati Oms, periodo 27 dicembre 2021 
 <iframe src='https://flo.uri.sh/visualisation/1791670/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/1791670/?utm_source=embed&utm_campaign=visualisation/1791670' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div> 
 ###### Fonte dati: [IlSole24Ore - Lab24](https://lab24.ilsole24ore.com/coronavirus/)
 
-## Casi Totali - Casi Attuali
+## Casi Totali da inizio pandemia
 <iframe src='https://flo.uri.sh/visualisation/1751593/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/1751593/?utm_source=embed&utm_campaign=visualisation/1751593' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 ###### Fonte dati: [IlSole24Ore - Lab24](https://lab24.ilsole24ore.com/coronavirus/)
 
