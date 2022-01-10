@@ -1,6 +1,9 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2208202651054479"
      crossorigin="anonymous"></script>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+###### Gestito da [Giacomo Tampella](https://giacomotampella.github.io/)
+
 ## COVID-19 in Italia
 
 Ultimo aggiornamento: 9 gennaio 2022 ore 16:56
@@ -66,13 +69,10 @@ In chiusura l’epidemia a livello mondiale (dati Oms, periodo 27 dicembre 2021 
 
 
 
-### Fatto da [Giacomo Tampella](https://giacomotampella.github.io/)
+### Gestito da [Giacomo Tampella](https://giacomotampella.github.io/)
 
-Email (consigli, errori, miglioramenti, ecc.): <a href="mailto:tampella@icloud.com">tampella@icloud.com</a>
+Per consigli, collaborazioni o altro: <a href="mailto:tampella@icloud.com">tampella@icloud.com</a>
 
-Contact me on [Twitter](https://twitter.com/GTampella) or [LinkedIn](https://www.linkedin.com/in/giacomo-tampella-3904b51a1/)
+Social: [Twitter](https://twitter.com/GTampella) , [LinkedIn](https://www.linkedin.com/in/giacomo-tampella-3904b51a1/)
 
-Fonte dati: [IlSole24Ore - Lab24](https://lab24.ilsole24ore.com/coronavirus/)
-
-Fonte dati: [Ministero della Salute](http://www.salute.gov.it/portale/nuovocoronavirus/homeNuovoCoronavirus.jsp)
 
