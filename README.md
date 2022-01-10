@@ -6,10 +6,8 @@
 
 ## COVID-19 in Italia
 
-Ultimo aggiornamento: 9 gennaio 2022 ore 16:56
-
-###### Avviso: probabile che i dati non vengano aggiornati tutti i giorni con regolarità. Questo sito viene gestito interamente da me nel mio tempo libero.
-###### Perciò potrebbero verificarsi anche degli errori nella stesura dei dati. Cerco di fare del mio meglio :). Grazie!
+### Ultimo aggiornamento: 9 gennaio 2022 ore 16:56
+###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Cosa dicono i dati?
 
