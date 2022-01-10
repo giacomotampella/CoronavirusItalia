@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/giacomotampella/CoronavirusItalia/main/covid.jpg" alt="covid" width="600" align="centre"/>
 
-### Ultimo aggiornamento: 10 gennaio 2022 ore 17:55 🕠
+### Ultimo aggiornamento: 10 gennaio 2022 ore 17:55 🕕
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Cosa dicono i dati?
