@@ -97,4 +97,4 @@ Per consigli, collaborazioni o altro: <a href="mailto:tampella@icloud.com">tampe
 
 Social: [Twitter](https://twitter.com/GTampella) , [LinkedIn](https://www.linkedin.com/in/giacomo-tampella-3904b51a1/)
 
-Torna [`su`](#CoronavirusItalia)
+Torna [`su`](#covid-19-in-italia)
