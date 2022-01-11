@@ -8,6 +8,10 @@
 
 <img src="https://raw.githubusercontent.com/giacomotampella/CoronavirusItalia/main/covid.jpg" alt="covid" width="600" align="centre"/>
 
+## ❗Breaking News ❗
+Il sottosegretario Costa: «Basta bollettino quotidiano dei contagi da Covid». Greco (Cts): «Deve diventare settimanale».
+Questo significa che il bollettino giornaliero che viene riportato in questo sito potrà subire cambiamenti.
+
 ### Ultimo aggiornamento: 10 gennaio 2022 ore 17:55 🕕
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
