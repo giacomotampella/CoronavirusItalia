@@ -9,8 +9,7 @@
 <img src="https://raw.githubusercontent.com/giacomotampella/CoronavirusItalia/main/covid.jpg" alt="covid" width="600" align="centre"/>
 
 ## ❗Breaking News ❗
-Il sottosegretario Costa: «Basta bollettino quotidiano dei contagi da Covid». Greco (Cts): «Deve diventare settimanale».
-Questo significa che il bollettino giornaliero che viene riportato in questo sito potrà subire cambiamenti.
+<blockquote class="twitter-tweet"><p lang="it" dir="ltr">Vicini allo stop del <a href="https://twitter.com/hashtag/bollettino?src=hash&amp;ref_src=twsrc%5Etfw">#bollettino</a> giornaliero <a href="https://twitter.com/hashtag/covid?src=hash&amp;ref_src=twsrc%5Etfw">#covid</a>. La proposta di <a href="https://twitter.com/hashtag/Greco?src=hash&amp;ref_src=twsrc%5Etfw">#Greco</a> (<a href="https://twitter.com/hashtag/cts?src=hash&amp;ref_src=twsrc%5Etfw">#cts</a>) è che diventi settimanale. <br><br>Quello di oggi sembra già tardare... <br>Al momento sono disponibili solo i dati di alcune regioni.</p>&mdash; Giacomo Tampella (@GTampella) <a href="https://twitter.com/GTampella/status/1480943101149650945?ref_src=twsrc%5Etfw">January 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Ultimo aggiornamento: 10 gennaio 2022 ore 17:55 🕕
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
