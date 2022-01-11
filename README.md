@@ -27,7 +27,7 @@ In 17.067 sono ricoverati con sintomi nei reparti di area non critica. Sono poi 
 ### Tamponi e tasso di positività
 I dati sull’ultimo monitoraggio dell’epidemia arrivano a fonte di 1.375.514 nuovi tamponi, per un totale di 150.147.466 test effettuati dall’inizio dell’emergenza sanitaria. Il tasso di positività si attesa al 16,0% (-0,6%).
 
-###### Fonte: [Open Online](https://www.open.online/2022/01/10/covid-19-italia-bollettino-10-gennaio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/01/10/covid-19-italia-bollettino-11-gennaio-2022/)
 
 ***
 
