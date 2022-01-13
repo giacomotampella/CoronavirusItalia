@@ -15,7 +15,7 @@
 
 *** 
 
-### Ultimo aggiornamento: 13 gennaio 2022 ore 15:00 🕔
+### Ultimo aggiornamento: 13 gennaio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
