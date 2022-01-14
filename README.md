@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 13 gennaio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 14 gennaio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Sono 316 i decessi da Coronavirus segnalati in Italia nelle ultime 24 ore Ieri, erano 313. Il totale delle vittime legate al Covid-19 sale così a 140.188. Per quanto riguarda i contagi, il bollettino della Protezione Civile e del Ministero della Salute riporta +184.615 positivi. Sono 2.323.518 gli attualmente positivi nel Paese, mentre sono 8.155.645 i casi totali dall’inizio della pandemia.
+Sono 360 i decessi da Coronavirus segnalati in Italia nelle ultime 24 ore (ieri 316). Il totale delle vittime legate al Covid-19 sale così a 140.548. Per quanto riguarda i contagi, il bollettino della Protezione Civile e del Ministero della Salute riporta +186.253 positivi. Sono 2.398.828 gli attualmente positivi nel Paese, mentre sono 8.356.514 i casi totali dall’inizio della pandemia.
 
 ### La situazione negli ospedali 
-In 17.648 sono ricoverati con sintomi nei reparti di area non critica degli ospedali d’Italia. Sono invece 1.668 i ricoverati nei reparti di terapia intensiva; di questi, 156 hanno fatto il loro ingresso nelle ultime 24 ore. In 2.304.202 si trovano, ad oggi, in isolamento domiciliare. Il totale dei dimessi e dei guariti raggiunge quota 5.691.939.
+In 18.019 sono ricoverati con sintomi nei reparti di area non critica degli ospedali d’Italia. Sono invece 1.679 i ricoverati nei reparti di terapia intensiva; di questi, 136 hanno fatto il loro ingresso nelle ultime 24 ore. In 2.379.130 si trovano, ad oggi, in isolamento domiciliare. Il totale dei dimessi e dei guariti raggiunge quota 5.817.138.
 
 ### Tamponi e tasso di positività
-I dati sul monitoraggio dell’epidemia arrivano a fronte di 1.181.179 nuovi tamponi, per un totale di 152.519.212 test effettuati dall’inizio dell’emergenza sanitaria. Il tasso di positività si attesta a 15,6% (-0,9%).
+I dati sul monitoraggio dell’epidemia arrivano a fronte di 1.132.309 nuovi tamponi, per un totale di 153.651.521 test effettuati dall’inizio dell’emergenza sanitaria. Il tasso di positività si attesta a 16,4% (+0,8%).
 
-###### Fonte: [Open Online](https://www.open.online/2022/01/13/covid-19-italia-bollettino-13-gennaio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/01/14/covid-19-italia-bollettino-14-gennaio-2022/)
 
 ***
 
