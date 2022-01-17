@@ -15,19 +15,13 @@
 
 *** 
 
-### Ultimo aggiornamento: 16 gennaio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 17 gennaio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Sono morte 248 persone a causa del Coronavirus nelle ultime 24 ore. Ieri, stando ai dati riportati nel bollettino della Protezione civile e del ministero della Salute, i decessi erano stati 308. Complessivamente, da quando è scoppiata la pandemia, in Italia i decessi sono stati 141.104. I contagi registrati nell’ultima giornata, invece, sono stati 149.512, meno dei 180.426 del 15 gennaio. In totale, i casi individuati nel Paese da febbraio 2020 ad oggi ammontano a 8.706.915.
+Il numero dei nuovi pazienti positivi al Coronavirus è arrivato a 83.403, nel bollettino di ieri era 149.512. Dai dati diffusi dalla Protezione Civile e del Ministero della Salute il numero dei decessi nelle ultime 24 ore è arrivato a 287, ieri era a 248. Attualmente i positivi in tutto il Paese sono 2.555.278 mentre il totale dei casi dall’inizio della pandemia è salito a 8.790.302. Il tasso di positività scende al 15,4 per cento.
 
-### La situazione negli ospedali 
-I cittadini con un’infezione attualmente in corso sono 2.548.857. Ricoverati con sintomi meno gravi, negli ospedali, ci sono 18.719 pazienti (ieri erano 18.370). Sono sottoposti a cure intensive 1.691 persone (ieri erano 1.677). Nelle ultime 24 ore, si sono resi necessari 128 nuovi ingressi in rianimazione, cifra più bassa di quella del giorno precedente, pari a 141.
-
-### Tamponi e tasso di positività
-Da quando è inziata l’emergenza sanitaria, sono stati analizzati 155.797.197 tamponi, di cui 927.846 nelle ultime 24 ore. Tra il 14 e il 15 gennaio, invece, i test analizzati erano stati 1.217.830. Il tasso di positività è passato dal 14,8% di ieri al 16,1% del 16 gennaio.
-
-###### Fonte: [Open Online](https://www.open.online/2022/01/14/covid-19-italia-bollettino-14-gennaio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/01/17/covid-19-italia-bollettino-17-gennaio-2022/)
 
 ***
 
