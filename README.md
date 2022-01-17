@@ -19,13 +19,13 @@
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Sono 360 i decessi da Coronavirus segnalati in Italia nelle ultime 24 ore (ieri 316). Il totale delle vittime legate al Covid-19 sale così a 140.548. Per quanto riguarda i contagi, il bollettino della Protezione Civile e del Ministero della Salute riporta +186.253 positivi. Sono 2.398.828 gli attualmente positivi nel Paese, mentre sono 8.356.514 i casi totali dall’inizio della pandemia.
+Sono morte 248 persone a causa del Coronavirus nelle ultime 24 ore. Ieri, stando ai dati riportati nel bollettino della Protezione civile e del ministero della Salute, i decessi erano stati 308. Complessivamente, da quando è scoppiata la pandemia, in Italia i decessi sono stati 141.104. I contagi registrati nell’ultima giornata, invece, sono stati 149.512, meno dei 180.426 del 15 gennaio. In totale, i casi individuati nel Paese da febbraio 2020 ad oggi ammontano a 8.706.915.
 
 ### La situazione negli ospedali 
-In 18.019 sono ricoverati con sintomi nei reparti di area non critica degli ospedali d’Italia. Sono invece 1.679 i ricoverati nei reparti di terapia intensiva; di questi, 136 hanno fatto il loro ingresso nelle ultime 24 ore. In 2.379.130 si trovano, ad oggi, in isolamento domiciliare. Il totale dei dimessi e dei guariti raggiunge quota 5.817.138.
+I cittadini con un’infezione attualmente in corso sono 2.548.857. Ricoverati con sintomi meno gravi, negli ospedali, ci sono 18.719 pazienti (ieri erano 18.370). Sono sottoposti a cure intensive 1.691 persone (ieri erano 1.677). Nelle ultime 24 ore, si sono resi necessari 128 nuovi ingressi in rianimazione, cifra più bassa di quella del giorno precedente, pari a 141.
 
 ### Tamponi e tasso di positività
-I dati sul monitoraggio dell’epidemia arrivano a fronte di 1.132.309 nuovi tamponi, per un totale di 153.651.521 test effettuati dall’inizio dell’emergenza sanitaria. Il tasso di positività si attesta a 16,4% (+0,8%).
+Da quando è inziata l’emergenza sanitaria, sono stati analizzati 155.797.197 tamponi, di cui 927.846 nelle ultime 24 ore. Tra il 14 e il 15 gennaio, invece, i test analizzati erano stati 1.217.830. Il tasso di positività è passato dal 14,8% di ieri al 16,1% del 16 gennaio.
 
 ###### Fonte: [Open Online](https://www.open.online/2022/01/14/covid-19-italia-bollettino-14-gennaio-2022/)
 
