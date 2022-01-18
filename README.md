@@ -15,13 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 17 gennaio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 18 gennaio 2022 ore 18:30 🕡
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Il numero dei nuovi pazienti positivi al Coronavirus è arrivato a 83.403, nel bollettino di ieri era 149.512. Dai dati diffusi dalla Protezione Civile e del Ministero della Salute il numero dei decessi nelle ultime 24 ore è arrivato a 287, ieri era a 248. Attualmente i positivi in tutto il Paese sono 2.555.278 mentre il totale dei casi dall’inizio della pandemia è salito a 8.790.302. Il tasso di positività scende al 15,4 per cento.
+Sono 434 i decessi da Coronavirus segnalati in Italia nelle ultime 24 ore (ieri 287). Il totale delle vittime legate al Covid-19 sale così a 141.825. Per quanto riguarda i contagi, il bollettino della Protezione Civile e del Ministero della Salute riporta +228.179 positivi. Sono 2.562.156 gli attualmente positivi nel Paese, mentre sono 9.018.425 i casi totali dall’inizio della pandemia.
 
-###### Fonte: [Open Online](https://www.open.online/2022/01/17/covid-19-italia-bollettino-17-gennaio-2022/)
+## La situazione negli ospedali
+In 19.448 sono ricoverati con sintomi nei reparti di area non critica degli ospedali d’Italia. Sono invece 1.715 i ricoverati nei reparti di terapia intensiva; di questi, 150 hanno fatto il loro ingresso nelle ultime 24 ore. In 2.540.993 si trovano, ad oggi, in isolamento domiciliare. Il totale dei dimessi e dei guariti raggiunge quota 6.314.444.
+
+## Tamponi e tasso di positività
+I dati sul monitoraggio dell’epidemia arrivano a fronte di 1.481.349 nuovi tamponi, per un totale di 157.819.844 test effettuati dall’inizio dell’emergenza sanitaria. Il tasso di positività si attesta al 15,41% (+0,01%).
+
+###### Fonte: [Open Online](https://www.open.online/2022/01/18/covid-19-italia-bollettino-18-gennaio-2022/)
 
 ***
 
