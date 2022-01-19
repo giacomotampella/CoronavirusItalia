@@ -15,17 +15,17 @@
 
 *** 
 
-### Ultimo aggiornamento: 18 gennaio 2022 ore 18:30 🕡
+### Ultimo aggiornamento: 19 gennaio 2022 ore 18:30 🕡
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Sono 434 i decessi da Coronavirus segnalati in Italia nelle ultime 24 ore (ieri 287). Il totale delle vittime legate al Covid-19 sale così a 141.825. Per quanto riguarda i contagi, il bollettino della Protezione Civile e del Ministero della Salute riporta +228.179 positivi. Sono 2.562.156 gli attualmente positivi nel Paese, mentre sono 9.018.425 i casi totali dall’inizio della pandemia.
+Nelle ultime 24 ore le vittime confermate legate al Coronavirus sono state 380, nel bollettino di ieri se ne contavano 434. Complessivamente, i decessi registrati da inizio pandemia sono arrivati a quota 142.205. Sul fronte delle nuove infezioni, nell’ultima giornata sono state testate positive +192.320 persone (ieri l’incremento dei contagi era pari a +228.179). I numeri arrivano dal consueto aggiornamento quotidiano della Protezione civile e del ministero della Salute. Su tutto il territorio nazionale, ci sono al momento 2.626.590 attualmente positivi. Per quanto riguarda invece i casi totali registrati da inizio pandemia, siamo arrivati a quota 9.219.391.
 
 ## La situazione negli ospedali
-In 19.448 sono ricoverati con sintomi nei reparti di area non critica degli ospedali d’Italia. Sono invece 1.715 i ricoverati nei reparti di terapia intensiva; di questi, 150 hanno fatto il loro ingresso nelle ultime 24 ore. In 2.540.993 si trovano, ad oggi, in isolamento domiciliare. Il totale dei dimessi e dei guariti raggiunge quota 6.314.444.
+Nei reparti Covid ordinari ci sono al momento 19.500 pazienti. I malati più gravi ricoverati in terapia intensiva ammontano a 1.688. Gli ingressi giornalieri in questo reparto sono 134 (ieri lo stesso dato era pari a 150). Complessivamente, in isolamento domiciliare ci sono 2.605.402 persone su tutta la penisola. Quanto al dato che si riferisce al totale dei dimessi e dei guariti, è ormai arrivato a quota 6.450.596.
 
 ## Tamponi e tasso di positività
-I dati sul monitoraggio dell’epidemia arrivano a fronte di 1.481.349 nuovi tamponi, per un totale di 157.819.844 test effettuati dall’inizio dell’emergenza sanitaria. Il tasso di positività si attesta al 15,41% (+0,01%).
+I numeri del bollettino quotidiano relativi alla pandemia da Coronavirus arrivano a fronte di 1.181.889 nuovi test, per un totale di 159.001.733 tamponi effettuati dall’inizio dell’emergenza. Il tasso di positività è in rialzo: si attesta al 16,3% (con un incremento rispetto a ieri di un +0,9%).
 
 ###### Fonte: [Open Online](https://www.open.online/2022/01/18/covid-19-italia-bollettino-18-gennaio-2022/)
 
