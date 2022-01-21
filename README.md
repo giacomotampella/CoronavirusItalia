@@ -15,17 +15,17 @@
 
 *** 
 
-### Ultimo aggiornamento: 20 gennaio 2022 ore 18:00 🕕
+### Ultimo aggiornamento: 21 gennaio 2022 ore 18:00 🕕
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Sale il numero delle nuove vittime registrate a causa del Coronavirus in Italia. Nelle ultime 24 ore il bollettino della Protezione civile e del ministero della Salute ha segnalato 385 decessi, in salita rispetto ai 380 di ieri. Per un totale di morti da inizio emergenza pari a 142.590. Sul fronte dei contagi la curva sembra decelerare: sono 188.797 i nuovi positivi dell’ultima giornata contro i +192.320 del monitoraggio precedente. Gli attualmente positivi si attestano a quota 2.682.041.
+Sono 179.106 i nuovi casi di Coronavirus (ieri 170.844) e 373 i decessi (ieri 385) registrati oggi, 21 gennaio, secondo quanto i dati del bollettino del Ministero della Salute e dalla Protezione Civile. Il numero degli attualmente positivi al virus in Italia è pari a 2.695.703 persone (ieri 2.682.041). Il numero totale dei casi registrati da inizio monitoraggio della pandemia cresce a quota 9.603.856, mentre i decessi per Covid sono 142.963.
 
 ## La situazione negli ospedali
-Per quanto riguarda la pressione sulle strutture sanitarie, oggi 20 gennaio 2022, si registra un incremento degli ingressi quotidiani in terapia intensiva. In 24 ore hanno occupato un posto letto in rianimazione 155 pazienti positivi al virus (ieri 134). Il totale dei ricoverati in area critica è pari a 1.698 contro i 1.688 di ieri. La curva sale anche per i reparti ordinari. Oggi si contano 19.659 pazienti ospedalizzati (ieri 19.500). Il totale dei dimessi e dei guariti aumenta arrivando a quota 6.593.625 (ieri 6.450.596).
+A livello ospedaliero, il numero di persone attualmente ricoverate con sintomatologia è pari a 19.485 (-174 rispetto a ieri, quanto erano 19.659, mentre l’altro ieri erano 19.500). Quanto alle terapie intensive, a fronte di +148 nuovi ingressi giornalieri (ieri 155), i pazienti attualmente ricoverati in condizioni critiche negli ospedali del Paese sono 1.707 (+9 rispetto a ieri, quando erano ieri 1.698). Le persone guarite nelle ultime 24 ore sono state 171.565, per un totale di 6.765.190 guariti dal Covid da inizio emergenza. I postivi al virus in isolamento domiciliare sono 2.674.511 (ieri 2.660.684).
 
 ## Tamponi e tasso di positività
-L’attività di tracciamento dei casi positivi si mostra in calo: nell’ultima giornata sono stati elaborati 1.110.266 nuovi test molecolari e antigenici rapidi (ieri 1.181.179). Il tasso si positività torna a salire: dal 15,6% di ieri si posiziona al 17% di oggi.
+Il tasso di positività scende dell’1 per cento, passando così dal 17 per cento di ieri al 16 per cento odierno. I dati di oggi arrivano a fronte di 1.117.553 test processati nelle ultime 24 ore (ieri 1.110.266), per un totale di 161.229.552 test analizzati da inizio emergenza.
 
 ###### Fonte: [Open Online](https://www.open.online/2022/01/18/covid-19-italia-bollettino-18-gennaio-2022/)
 
