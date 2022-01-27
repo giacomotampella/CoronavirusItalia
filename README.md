@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 26 gennaio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 27 gennaio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Sono 426 i decessi da Coronavirus segnalati in Italia nelle ultime 24 ore (ieri 468). Il totale delle vittime legate al Covid-19 sale così a 144.770. Per quanto riguarda i contagi, il bollettino della Protezione Civile e del Ministero della Salute riporta +167.206 positivi. Sono 2.716.581 gli attualmente positivi nel Paese, mentre sono 10.383.561 i casi totali dall’inizio della pandemia.
+Sono 389 i decessi da Coronavirus segnalati in Italia nelle ultime 24 ore (ieri 426). Il totale delle vittime legate al Covid-19 sale così a 145.159. Per quanto riguarda i contagi, il bollettino della Protezione Civile e del Ministero della Salute riporta +155.697 positivi. Sono 2.706.453 gli attualmente positivi nel Paese, mentre sono 10.539.601 i casi totali dall’inizio della pandemia.
 
 ## La situazione negli ospedali
-In 20.001 sono ricoverati con sintomi nei reparti di area non critica degli ospedali d’Italia. Sono invece 1.665 i ricoverati nei reparti di terapia intensiva; di questi, 123 hanno fatto il loro ingresso nelle ultime 24 ore. In 2.694.915 si trovano, ad oggi, in isolamento domiciliare. Il totale dei dimessi e dei guariti raggiunge quota 7.522.210.
+In 19.853 sono ricoverati con sintomi nei reparti di area non critica degli ospedali d’Italia. Sono invece 1.645 i ricoverati nei reparti di terapia intensiva; di questi, 125 hanno fatto il loro ingresso nelle ultime 24 ore. In 2.684.955 si trovano, ad oggi, in isolamento domiciliare. Il totale dei dimessi e dei guariti raggiunge quota 7.687.989.
 
 ## Tamponi e tasso di positività
-I dati sul monitoraggio dell’epidemia arrivano a fronte di 1.097.287 nuovi tamponi, per un totale di 166.244.710 test effettuati dall’inizio dell’emergenza sanitaria. Il tasso di positività si attesta a 15,2% (+1,9%).
+I dati sul monitoraggio dell’epidemia arrivano a fronte di 1.039.756 nuovi tamponi, per un totale di 167.284.466 test effettuati dall’inizio dell’emergenza sanitaria. Il tasso di positività si attesta a 15,0% (-0,3%).
 
-###### Fonte: [Open Online](https://www.open.online/2022/01/25/covid-19-italia-bollettino-25-gennaio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/01/27/covid-19-italia-bollettino-27-gennaio-2022/)
 
 ***
 
