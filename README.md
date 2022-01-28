@@ -15,7 +15,7 @@
 
 *** 
 
-### Ultimo aggiornamento: 27 gennaio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 28 gennaio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
@@ -27,7 +27,7 @@ In 19.796 sono ricoverati con sintomi nei reparti di area non critica degli ospe
 ## Tamponi e tasso di positività
 I dati sul monitoraggio dell’epidemia arrivano a fronte di 1.051.288 nuovi tamponi, per un totale di 168.335.754 test effettuati dall’inizio dell’emergenza sanitaria. Il tasso di positività si attesta a 13,7% (-1,3%).
 
-###### Fonte: [Open Online](https://www.open.online/2022/01/27/covid-19-italia-bollettino-27-gennaio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/01/28/covid-19-italia-bollettino-28-gennaio-2022/)
 
 ***
 
