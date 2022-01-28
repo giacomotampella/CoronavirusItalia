@@ -19,13 +19,13 @@
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Sono 389 i decessi da Coronavirus segnalati in Italia nelle ultime 24 ore (ieri 426). Il totale delle vittime legate al Covid-19 sale così a 145.159. Per quanto riguarda i contagi, il bollettino della Protezione Civile e del Ministero della Salute riporta +155.697 positivi. Sono 2.706.453 gli attualmente positivi nel Paese, mentre sono 10.539.601 i casi totali dall’inizio della pandemia.
+Sono 378 i decessi da Coronavirus segnalati in Italia nelle ultime 24 ore (ieri 389). Il totale delle vittime legate al Covid-19 sale così a 145.537. Per quanto riguarda i contagi, il bollettino della Protezione Civile e del Ministero della Salute riporta +143.898 positivi. Sono 2.668.828 gli attualmente positivi nel Paese, mentre sono 10.683.948 i casi totali dall’inizio della pandemia.
 
 ## La situazione negli ospedali
-In 19.853 sono ricoverati con sintomi nei reparti di area non critica degli ospedali d’Italia. Sono invece 1.645 i ricoverati nei reparti di terapia intensiva; di questi, 125 hanno fatto il loro ingresso nelle ultime 24 ore. In 2.684.955 si trovano, ad oggi, in isolamento domiciliare. Il totale dei dimessi e dei guariti raggiunge quota 7.687.989.
+In 19.796 sono ricoverati con sintomi nei reparti di area non critica degli ospedali d’Italia. Sono invece 1.630 i ricoverati nei reparti di terapia intensiva; di questi, 126 hanno fatto il loro ingresso nelle ultime 24 ore. In 2.647.402 si trovano, ad oggi, in isolamento domiciliare. Il totale dei dimessi e dei guariti raggiunge quota 7.869.583.
 
 ## Tamponi e tasso di positività
-I dati sul monitoraggio dell’epidemia arrivano a fronte di 1.039.756 nuovi tamponi, per un totale di 167.284.466 test effettuati dall’inizio dell’emergenza sanitaria. Il tasso di positività si attesta a 15,0% (-0,3%).
+I dati sul monitoraggio dell’epidemia arrivano a fronte di 1.051.288 nuovi tamponi, per un totale di 168.335.754 test effettuati dall’inizio dell’emergenza sanitaria. Il tasso di positività si attesta a 13,7% (-1,3%).
 
 ###### Fonte: [Open Online](https://www.open.online/2022/01/27/covid-19-italia-bollettino-27-gennaio-2022/)
 
