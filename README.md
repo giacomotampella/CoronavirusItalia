@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 28 gennaio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 30 gennaio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Sono 378 i decessi da Coronavirus segnalati in Italia nelle ultime 24 ore (ieri 389). Il totale delle vittime legate al Covid-19 sale così a 145.537. Per quanto riguarda i contagi, il bollettino della Protezione Civile e del Ministero della Salute riporta +143.898 positivi. Sono 2.668.828 gli attualmente positivi nel Paese, mentre sono 10.683.948 i casi totali dall’inizio della pandemia.
+Oggi, 30 gennaio, sono 235 le nuove vittime legate al Coronavirus in Italia. Un dato in calo rispetto a quello registrato dal bollettino della Protezione Civile e del Ministero della Salute di ieri, quando i decessi erano stati 377. Il totale di morti da inizio emergenza arriva così a quota 146.149. I nuovi contagi sono 104.065 (ieri 137.147). Scendono gli attualmente positivi: 2.643.817 contro i 2.664.648 del monitoraggio precedente.
 
 ## La situazione negli ospedali
-In 19.796 sono ricoverati con sintomi nei reparti di area non critica degli ospedali d’Italia. Sono invece 1.630 i ricoverati nei reparti di terapia intensiva; di questi, 126 hanno fatto il loro ingresso nelle ultime 24 ore. In 2.647.402 si trovano, ad oggi, in isolamento domiciliare. Il totale dei dimessi e dei guariti raggiunge quota 7.869.583.
+Per quanto riguarda la pressione ospedaliera, oggi la curva epidemiologica segna un calo degli ingressi giornalieri in terapia intensiva: 95 nelle ultime 24 ore contro 118 di ieri. Il totale dei positivi al virus ricoverati in rianimazione salgono a 1.593 (ieri 1.588, due giorni fa 1.630). Per i reparti di area medica il bollettino registra 19.617 ospedalizzati contro 19.636 di ieri.
 
 ## Tamponi e tasso di positività
-I dati sul monitoraggio dell’epidemia arrivano a fronte di 1.051.288 nuovi tamponi, per un totale di 168.335.754 test effettuati dall’inizio dell’emergenza sanitaria. Il tasso di positività si attesta a 13,7% (-1,3%).
+L’attività di tracciamento oggi registra una diminuzione: i test molecolari e antigenici rapidi effettuati in 24 ore sono stati 818.169, in forte calo rispetto a quelli elaborati ieri (1.181.179). Anche il tasso di positività scende: oggi al 12,7% (ieri al 13,7%).
 
-###### Fonte: [Open Online](https://www.open.online/2022/01/28/covid-19-italia-bollettino-28-gennaio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/01/30/covid-19-italia-bollettino-30-gennaio-2022/)
 
 ***
 
