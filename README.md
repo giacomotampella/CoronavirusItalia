@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 31 gennaio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 1 febbraio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Oggi, 31 gennaio, sono 57.715 i nuovi casi di Coronavirus in tutta Italia contro i 104.065 di ieri e i 137.147 del giorno prima. Numeri in calo perché di domenica solitamente vengono effettuati meno tamponi (numeri alla mano, sono la metà di quelli di sabato). Il totale dei contagiati sale così a 10.983.116. I morti nelle ultime 24 ore, invece, sono 349 contro i 235 di ieri, stando all’ultimo bollettino del ministero della Salute e della Protezione civile. Il totale dei deceduti è di 146.498 dall’inizio della pandemia. Gli attualmente positivi sono 2.592.606, ieri 2.643.817.
+Il primo giorno del mese di febbraio si apre con 133.142 nuovi contagi da Coronavirus. Nella giornata di ieri se ne erano registrati 57.715, mentre la settimana si era chiusa domenica con 104.065 casi. Numeri che portano il totale delle infezioni da inizio pandemia a 11.116.422. In questo momento, gli attualmente positivi sono invece 2.476.514. Sul fronte delle vittime legate al Covid, il consueto bollettino del ministero della Salute e della Protezione civile riporta 427 morti, contro i 349 di ieri. Arrivati a questo punto, il totale dei decessi è a quota 146.925 da quando è cominciata la pandemia nel 2020.
 
 ## La situazione negli ospedali
-I ricoverati negli ospedali italiani sono 19.913 (ieri 19.617, +296) mentre in terapia intensiva si trovano ancora 1.584 persone (ieri 1.593, -9). Gli ingressi giornalieri in rianimazione sono 112 contro i 95 di ieri e i 118 del giorno prima. I guariti e i dimessi nell’ultima giornata sono 108.493 mentre in isolamento domiciliare si trovano ancora 2.571.109 persone.
+I malati Covid più gravi, ricoverati nei reparti di terapia intensiva di tutta Italia, sono al momento 1.549. Di questi, 107 hanno fatto il loro ingresso nelle ultime 24 ore. Gli altri pazienti Covid ricoverati con sintomi nei reparti di area non critica sono invece 19.873. Complessivamente, il totale dei dimessi e dei guariti ha raggiunto quota 8.492.983. Al momento ci sono 2.455.092 persone in isolamento domiciliare.
 
 ## Tamponi e tasso di positività
-Nelle ultime 24 ore sono stati effettuati 478.314 tamponi, ieri 818.169. Il totale dei test dall’inizio del monitoraggio è di 170.631.727. Il tasso di positività oggi è del 12,1 per cento, ieri del 12,7.
+I nuovi numeri dell’epidemia, contenuti nel consueto bollettino giornaliero, arrivano a fronte di 1.246.987 nuovi tamponi, per un totale di 171.878.714 test effettuati dall’inizio della pandemia da Coronavirus. Diminuisce il tasso di positività che si attesta al 10,7% (-1,4%).
 
-###### Fonte: [Open Online](https://www.open.online/2022/01/31/covid-19-italia-bollettino-31-gennaio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/02/1/covid-19-italia-bollettino-1-febbraio-2022/)
 
 ***
 
