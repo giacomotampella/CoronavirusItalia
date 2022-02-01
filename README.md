@@ -27,7 +27,7 @@ I ricoverati negli ospedali italiani sono 19.913 (ieri 19.617, +296) mentre in t
 ## Tamponi e tasso di positività
 Nelle ultime 24 ore sono stati effettuati 478.314 tamponi, ieri 818.169. Il totale dei test dall’inizio del monitoraggio è di 170.631.727. Il tasso di positività oggi è del 12,1 per cento, ieri del 12,7.
 
-###### Fonte: [Open Online](https://www.open.online/2022/01/30/covid-19-italia-bollettino-30-gennaio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/01/31/covid-19-italia-bollettino-31-gennaio-2022/)
 
 ***
 
