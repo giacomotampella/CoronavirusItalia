@@ -15,17 +15,17 @@
 
 *** 
 
-### Ultimo aggiornamento: 30 gennaio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 31 gennaio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Oggi, 30 gennaio, sono 235 le nuove vittime legate al Coronavirus in Italia. Un dato in calo rispetto a quello registrato dal bollettino della Protezione Civile e del Ministero della Salute di ieri, quando i decessi erano stati 377. Il totale di morti da inizio emergenza arriva così a quota 146.149. I nuovi contagi sono 104.065 (ieri 137.147). Scendono gli attualmente positivi: 2.643.817 contro i 2.664.648 del monitoraggio precedente.
+Oggi, 31 gennaio, sono 57.715 i nuovi casi di Coronavirus in tutta Italia contro i 104.065 di ieri e i 137.147 del giorno prima. Numeri in calo perché di domenica solitamente vengono effettuati meno tamponi (numeri alla mano, sono la metà di quelli di sabato). Il totale dei contagiati sale così a 10.983.116. I morti nelle ultime 24 ore, invece, sono 349 contro i 235 di ieri, stando all’ultimo bollettino del ministero della Salute e della Protezione civile. Il totale dei deceduti è di 146.498 dall’inizio della pandemia. Gli attualmente positivi sono 2.592.606, ieri 2.643.817.
 
 ## La situazione negli ospedali
-Per quanto riguarda la pressione ospedaliera, oggi la curva epidemiologica segna un calo degli ingressi giornalieri in terapia intensiva: 95 nelle ultime 24 ore contro 118 di ieri. Il totale dei positivi al virus ricoverati in rianimazione salgono a 1.593 (ieri 1.588, due giorni fa 1.630). Per i reparti di area medica il bollettino registra 19.617 ospedalizzati contro 19.636 di ieri.
+I ricoverati negli ospedali italiani sono 19.913 (ieri 19.617, +296) mentre in terapia intensiva si trovano ancora 1.584 persone (ieri 1.593, -9). Gli ingressi giornalieri in rianimazione sono 112 contro i 95 di ieri e i 118 del giorno prima. I guariti e i dimessi nell’ultima giornata sono 108.493 mentre in isolamento domiciliare si trovano ancora 2.571.109 persone.
 
 ## Tamponi e tasso di positività
-L’attività di tracciamento oggi registra una diminuzione: i test molecolari e antigenici rapidi effettuati in 24 ore sono stati 818.169, in forte calo rispetto a quelli elaborati ieri (1.181.179). Anche il tasso di positività scende: oggi al 12,7% (ieri al 13,7%).
+Nelle ultime 24 ore sono stati effettuati 478.314 tamponi, ieri 818.169. Il totale dei test dall’inizio del monitoraggio è di 170.631.727. Il tasso di positività oggi è del 12,1 per cento, ieri del 12,7.
 
 ###### Fonte: [Open Online](https://www.open.online/2022/01/30/covid-19-italia-bollettino-30-gennaio-2022/)
 
