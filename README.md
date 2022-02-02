@@ -10,24 +10,24 @@
 
 *** 
 
-## ❗Breaking News ❗
-<blockquote class="twitter-tweet"><p lang="it" dir="ltr">Vicini allo stop del <a href="https://twitter.com/hashtag/bollettino?src=hash&amp;ref_src=twsrc%5Etfw">#bollettino</a> giornaliero <a href="https://twitter.com/hashtag/covid?src=hash&amp;ref_src=twsrc%5Etfw">#covid</a>. La proposta di <a href="https://twitter.com/hashtag/Greco?src=hash&amp;ref_src=twsrc%5Etfw">#Greco</a> (<a href="https://twitter.com/hashtag/cts?src=hash&amp;ref_src=twsrc%5Etfw">#cts</a>) è che diventi settimanale. <br><br>Quello di oggi sembra già tardare... <br>Al momento sono disponibili solo i dati di alcune regioni.</p>&mdash; Giacomo Tampella (@GTampella) <a href="https://twitter.com/GTampella/status/1480943101149650945?ref_src=twsrc%5Etfw">January 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!--## ❗Breaking News ❗
+<blockquote class="twitter-tweet"><p lang="it" dir="ltr">Vicini allo stop del <a href="https://twitter.com/hashtag/bollettino?src=hash&amp;ref_src=twsrc%5Etfw">#bollettino</a> giornaliero <a href="https://twitter.com/hashtag/covid?src=hash&amp;ref_src=twsrc%5Etfw">#covid</a>. La proposta di <a href="https://twitter.com/hashtag/Greco?src=hash&amp;ref_src=twsrc%5Etfw">#Greco</a> (<a href="https://twitter.com/hashtag/cts?src=hash&amp;ref_src=twsrc%5Etfw">#cts</a>) è che diventi settimanale. <br><br>Quello di oggi sembra già tardare... <br>Al momento sono disponibili solo i dati di alcune regioni.</p>&mdash; Giacomo Tampella (@GTampella) <a href="https://twitter.com/GTampella/status/1480943101149650945?ref_src=twsrc%5Etfw">January 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>-->
 
 *** 
 
-### Ultimo aggiornamento: 1 febbraio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 2 febbraio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Il primo giorno del mese di febbraio si apre con 133.142 nuovi contagi da Coronavirus. Nella giornata di ieri se ne erano registrati 57.715, mentre la settimana si era chiusa domenica con 104.065 casi. Numeri che portano il totale delle infezioni da inizio pandemia a 11.116.422. In questo momento, gli attualmente positivi sono invece 2.476.514. Sul fronte delle vittime legate al Covid, il consueto bollettino del ministero della Salute e della Protezione civile riporta 427 morti, contro i 349 di ieri. Arrivati a questo punto, il totale dei decessi è a quota 146.925 da quando è cominciata la pandemia nel 2020.
+Sono 395 i morti legati al Coronavirus registrati oggi, 2 febbraio, in Italia. A darne notizia è il consueto bollettino del ministero della Salute e della Protezione civile. Il totale delle vittime sale a 147.320 . Ieri, i decessi erano stati 427. I contagi segnalati oggi sono invece 118.994 . Ieri, l’aumento era stato di 133.142. Gli attualmente positivi sono invece 2.407.626 (ieri 2.476.514).
 
 ## La situazione negli ospedali
-I malati Covid più gravi, ricoverati nei reparti di terapia intensiva di tutta Italia, sono al momento 1.549. Di questi, 107 hanno fatto il loro ingresso nelle ultime 24 ore. Gli altri pazienti Covid ricoverati con sintomi nei reparti di area non critica sono invece 19.873. Complessivamente, il totale dei dimessi e dei guariti ha raggiunto quota 8.492.983. Al momento ci sono 2.455.092 persone in isolamento domiciliare.
+I ricoveri nei reparti di terapia intensiva sono al momento 1.524 (ieri 1.549). Di questi, 104 hanno fatto il loro ingresso nelle ultime 24 ore. I ricoveri nei reparti di area non critica sono invece 19.550 (ieri 19.873, –323). Il totale dei dimessi e dei guariti ha raggiunto quota 187.816.
 
 ## Tamponi e tasso di positività
-I nuovi numeri dell’epidemia, contenuti nel consueto bollettino giornaliero, arrivano a fronte di 1.246.987 nuovi tamponi, per un totale di 171.878.714 test effettuati dall’inizio della pandemia da Coronavirus. Diminuisce il tasso di positività che si attesta al 10,7% (-1,4%).
+I positivi di oggi arrivano a fronte di 964.521 nuovi tamponi, per un totale di 172.843.235 test effettuati dall’inizio della pandemia. Il tasso di positività è oggi al 12,3% (ieri 10.7%, +1,7%).
 
-###### Fonte: [Open Online](https://www.open.online/2022/02/1/covid-19-italia-bollettino-1-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/02/2/covid-19-italia-bollettino-2-febbraio-2022/)
 
 ***
 
