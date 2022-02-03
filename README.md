@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 2 febbraio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 3 febbraio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Sono 395 i morti legati al Coronavirus registrati oggi, 2 febbraio, in Italia. A darne notizia è il consueto bollettino del ministero della Salute e della Protezione civile. Il totale delle vittime sale a 147.320 . Ieri, i decessi erano stati 427. I contagi segnalati oggi sono invece 118.994 . Ieri, l’aumento era stato di 133.142. Gli attualmente positivi sono invece 2.407.626 (ieri 2.476.514).
+Sono 414 le vittime legate al Covid registrate nelle ultime 24 ore, ieri erano state 395. Il dato è contenuto nell’ultimo bollettino pubblicato come di consueto dal ministero della Salute e dalla Protezione civile. Il totale dei morti legati al Covid raggiunge così quota 147.734. Per quanto riguarda le nuove infezioni giornaliere, oggi si contano 112.691 casi. Ieri lo stesso dato era pari a 118.994 mentre l’altro ieri, primo febbraio, l’incremento di nuovi contagi era stato di 133.142 casi. Al momento, gli attualmente positivi sono arrivati a quota 2.328.230 (ieri 2.407.626). Complessivamente, il totale dei casi da inizio pandemia è arrivato a 11.348.701.
 
 ## La situazione negli ospedali
-I ricoveri nei reparti di terapia intensiva sono al momento 1.524 (ieri 1.549). Di questi, 104 hanno fatto il loro ingresso nelle ultime 24 ore. I ricoveri nei reparti di area non critica sono invece 19.550 (ieri 19.873, –323). Il totale dei dimessi e dei guariti ha raggiunto quota 187.816.
+Il numero dei pazienti Covid più gravi ricoverati nei reparti di terapia intensiva è al momento pari a 1.457 (ieri 1.524). Di questi, 95 hanno fatto il loro ingresso nelle ultime 24 ore. Per quanto riguarda i pazienti Covid con sintomi, ricoveri nei reparti di area non critica, il dato è invece pari a 19.324 (ieri 19.550). Il totale dei dimessi e dei guariti ha invece raggiunto quota 8.872.737.
 
 ## Tamponi e tasso di positività
-I positivi di oggi arrivano a fronte di 964.521 nuovi tamponi, per un totale di 172.843.235 test effettuati dall’inizio della pandemia. Il tasso di positività è oggi al 12,3% (ieri 10.7%, +1,7%).
+I positivi di oggi arrivano a fronte di 915.337 nuovi tamponi, per un totale di 172.843.235 test effettuati dall’inizio della pandemia. Il tasso di positività è stabile al 12,3%.
 
-###### Fonte: [Open Online](https://www.open.online/2022/02/2/covid-19-italia-bollettino-2-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/03/2/covid-19-italia-bollettino-3-febbraio-2022/)
 
 ***
 
