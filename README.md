@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 3 febbraio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 4 febbraio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Sono 414 le vittime legate al Covid registrate nelle ultime 24 ore, ieri erano state 395. Il dato è contenuto nell’ultimo bollettino pubblicato come di consueto dal ministero della Salute e dalla Protezione civile. Il totale dei morti legati al Covid raggiunge così quota 147.734. Per quanto riguarda le nuove infezioni giornaliere, oggi si contano 112.691 casi. Ieri lo stesso dato era pari a 118.994 mentre l’altro ieri, primo febbraio, l’incremento di nuovi contagi era stato di 133.142 casi. Al momento, gli attualmente positivi sono arrivati a quota 2.328.230 (ieri 2.407.626). Complessivamente, il totale dei casi da inizio pandemia è arrivato a 11.348.701.
+Oggi 4 febbraio 2022 sono 99.522 i nuovi casi di Coronavirus in tutta Italia contro i 112.691 di ieri e i 118.994 del giorno prima. Il totale dei contagiati sale a 11.449.601. Le vittime, secondo l’ultimo bollettino del ministero della Salute e della Protezione civile, sono 433 contro le 414 di ieri e le 395 del giorno prima. Il totale dei deceduti, dall’inizio della pandemia, è di 148.167. Gli attualmente positivi oggi sono 2.218.344, ieri 2.328.230.
 
 ## La situazione negli ospedali
-Il numero dei pazienti Covid più gravi ricoverati nei reparti di terapia intensiva è al momento pari a 1.457 (ieri 1.524). Di questi, 95 hanno fatto il loro ingresso nelle ultime 24 ore. Per quanto riguarda i pazienti Covid con sintomi, ricoveri nei reparti di area non critica, il dato è invece pari a 19.324 (ieri 19.550). Il totale dei dimessi e dei guariti ha invece raggiunto quota 8.872.737.
+I ricoverati negli ospedali italiani sono 19.000 (ieri 19.324, -324) mentre in terapia intensiva ci sono ancora 1.440 persone (ieri 1.457, -17). Gli ingressi giornalieri in rianimazione oggi sono 114, ieri 95. I dimessi e i guariti nell’ultima giornata sono 210.353, le persone in isolamento domiciliare 2.197.904.
 
 ## Tamponi e tasso di positività
-I positivi di oggi arrivano a fronte di 915.337 nuovi tamponi, per un totale di 172.843.235 test effettuati dall’inizio della pandemia. Il tasso di positività è stabile al 12,3%.
+Nelle ultime 24 ore sono stati effettuati 884.893 tamponi contro i 915.337 di ieri per un totale di 174.643.465 test dall’inizio del monitoraggio. Infine, il tasso di positività oggi è dell’11,2 per cento, ieri del 12,3.
 
-###### Fonte: [Open Online](https://www.open.online/2022/03/2/covid-19-italia-bollettino-3-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/04/2/covid-19-italia-bollettino-4-febbraio-2022/)
 
 ***
 
