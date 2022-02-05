@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 4 febbraio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 5 febbraio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Oggi 4 febbraio 2022 sono 99.522 i nuovi casi di Coronavirus in tutta Italia contro i 112.691 di ieri e i 118.994 del giorno prima. Il totale dei contagiati sale a 11.449.601. Le vittime, secondo l’ultimo bollettino del ministero della Salute e della Protezione civile, sono 433 contro le 414 di ieri e le 395 del giorno prima. Il totale dei deceduti, dall’inizio della pandemia, è di 148.167. Gli attualmente positivi oggi sono 2.218.344, ieri 2.328.230.
+Sono 93.157 i nuovi casi di Covid in tutta Italia contro i 99.522 di ieri e i 112.691 del giorno prima. Il totale dei contagiati, dall’inizio della pandemia, è di 11.542.793. Stando all’ultimo bollettino del ministero della Salute e della Protezione civile, le vittime oggi 5 febbraio sono 375, ieri 433, il giorno prima 414. Il totale dei morti è di 148.542. Gli attualmente positivi sono 2.128.543, ieri 2.218.344.
 
 ## La situazione negli ospedali
-I ricoverati negli ospedali italiani sono 19.000 (ieri 19.324, -324) mentre in terapia intensiva ci sono ancora 1.440 persone (ieri 1.457, -17). Gli ingressi giornalieri in rianimazione oggi sono 114, ieri 95. I dimessi e i guariti nell’ultima giornata sono 210.353, le persone in isolamento domiciliare 2.197.904.
+Sono 18.615, invece, i ricoverati negli ospedali italiani contro i 19 mila di ieri (-385 in 24 ore) mentre in terapia intensiva si trovano ancora 1.411 pazienti (ieri 1.440, -29). Gli ingressi giornalieri in rianimazione nell’ultima giornata sono 104, ieri 114, il giorno prima 95. I dimessi e i guariti sono 182.618, ieri 210.353, mentre le persone in isolamento domiciliare 2.108.517, ieri 2.197.904.
 
 ## Tamponi e tasso di positività
-Nelle ultime 24 ore sono stati effettuati 884.893 tamponi contro i 915.337 di ieri per un totale di 174.643.465 test dall’inizio del monitoraggio. Infine, il tasso di positività oggi è dell’11,2 per cento, ieri del 12,3.
+Nelle ultime 24 ore in tutta Italia sono stati eseguiti 846.480 tamponi contro i 884.893 di ieri e i 915.337 del giorno prima. Il totale dei test è di 175.489.945. Infine, oggi il tasso di positività è dell’11 per cento, ieri dell’11,2, il giorno prima del 12,3.
 
-###### Fonte: [Open Online](https://www.open.online/2022/04/2/covid-19-italia-bollettino-4-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/05/2/covid-19-italia-bollettino-5-febbraio-2022/)
 
 ***
 
