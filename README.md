@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 5 febbraio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 6 febbraio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Sono 93.157 i nuovi casi di Covid in tutta Italia contro i 99.522 di ieri e i 112.691 del giorno prima. Il totale dei contagiati, dall’inizio della pandemia, è di 11.542.793. Stando all’ultimo bollettino del ministero della Salute e della Protezione civile, le vittime oggi 5 febbraio sono 375, ieri 433, il giorno prima 414. Il totale dei morti è di 148.542. Gli attualmente positivi sono 2.128.543, ieri 2.218.344.
+Continuano a diminuire i nuovi positivi al Coronavirus in Italia. Nella giornata di oggi, 6 febbraio, il dato diffuso dall’ultimo bollettino della Protezione civile e del ministero della Salute è di 77.029 contagiati, ieri erano stati 93.157, 99.522 due giorni fa. Anche la curva dei decessi risulta essere in calo: sono 229 le vittime confermate nelle ultime 24 ore contro le 375 di ieri. Complessivamente, il totale di morti legati al Covid dall’inizio dell’emergenza sanitaria è arrivato a quota 148.771. Per quanto riguarda invece gli attualmente positivi, al momento sono 2.073.248.
 
 ## La situazione negli ospedali
-Sono 18.615, invece, i ricoverati negli ospedali italiani contro i 19 mila di ieri (-385 in 24 ore) mentre in terapia intensiva si trovano ancora 1.411 pazienti (ieri 1.440, -29). Gli ingressi giornalieri in rianimazione nell’ultima giornata sono 104, ieri 114, il giorno prima 95. I dimessi e i guariti sono 182.618, ieri 210.353, mentre le persone in isolamento domiciliare 2.108.517, ieri 2.197.904.
+Sul fronte della pressione ospedaliera oggi, 6 febbraio, si contano 105 nuovi ingressi in terapia intensiva. Un dato in calo rispetto ai 156 registrati nell’ultima rilevazione. I malati Covid più gravi ricoverati in rianimazione sono al momento 1.431 in totale (ieri il dato era pari a 1.668). Anche sul fronte dei ricoveri nei reparti ordinari la curva sta scendendo: al momento sono 18.498 in totale. Le persone contagiate con sintomi lievi che si trovano in isolamento domiciliare sono invece 2.053.319, in calo rispetto ai 2.304.202 del precedente monitoraggio. Cresce ancora il dato dei dimessi e dei guariti: è arrivato a quota 9.399.717.
 
 ## Tamponi e tasso di positività
-Nelle ultime 24 ore in tutta Italia sono stati eseguiti 846.480 tamponi contro i 884.893 di ieri e i 915.337 del giorno prima. Il totale dei test è di 175.489.945. Infine, oggi il tasso di positività è dell’11 per cento, ieri dell’11,2, il giorno prima del 12,3.
+I nuovi dati dell’ultimo monitoraggio sull’andamento dell’epidemia in Italia sono stati registrati alla luce di un’attività di tracciamento che oggi, domenica, come al solito si mostra in calo. I tamponi molecolari e antigenici rapidi elaborati nelle ultime 24 ore sono stati 686.544, lo stesso dato ieri era pari a 1.181.179 test. Il tasso di positività risulta essere in lieve aumento: si attesta al 11,2% (+0,2% rispetto a ieri).
 
-###### Fonte: [Open Online](https://www.open.online/2022/05/2/covid-19-italia-bollettino-5-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/06/2/covid-19-italia-bollettino-6-febbraio-2022/)
 
 ***
 
