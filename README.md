@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 6 febbraio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 7 febbraio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Continuano a diminuire i nuovi positivi al Coronavirus in Italia. Nella giornata di oggi, 6 febbraio, il dato diffuso dall’ultimo bollettino della Protezione civile e del ministero della Salute è di 77.029 contagiati, ieri erano stati 93.157, 99.522 due giorni fa. Anche la curva dei decessi risulta essere in calo: sono 229 le vittime confermate nelle ultime 24 ore contro le 375 di ieri. Complessivamente, il totale di morti legati al Covid dall’inizio dell’emergenza sanitaria è arrivato a quota 148.771. Per quanto riguarda invece gli attualmente positivi, al momento sono 2.073.248.
+Sono morte 326 persone a causa del Coronavirus, in Italia, nelle ultime 24 ore. Il giorno precedente, i decessi erano stati 229. Stando ai dati riportati nel bollettino della Protezione civile e del ministero della Salute, il totale delle vittime, da inizio pandemia ad oggi, ha raggiunto la cifra di 149.097. Per quanto riguarda i contagi, i nuovi casi individuati il 7 febbraio ammontano a 41.247, numero più basso delle 77.029 infezioni segnalate il 6 febbario. Complessivamente, i cittadini che hanno contratto il Sars-CoV-2 nel Paese, nel giro di due anni, sono pari a 11.663.338.
 
 ## La situazione negli ospedali
-Sul fronte della pressione ospedaliera oggi, 6 febbraio, si contano 105 nuovi ingressi in terapia intensiva. Un dato in calo rispetto ai 156 registrati nell’ultima rilevazione. I malati Covid più gravi ricoverati in rianimazione sono al momento 1.431 in totale (ieri il dato era pari a 1.668). Anche sul fronte dei ricoveri nei reparti ordinari la curva sta scendendo: al momento sono 18.498 in totale. Le persone contagiate con sintomi lievi che si trovano in isolamento domiciliare sono invece 2.053.319, in calo rispetto ai 2.304.202 del precedente monitoraggio. Cresce ancora il dato dei dimessi e dei guariti: è arrivato a quota 9.399.717.
+Delle 1.990.701 persone con un’infezione in corso, 18.675 sono ricoverate nelle aree mediche dedicate ai pazienti Covid (ieri i ricoveri erano pari a 18.498). In terapia intensiva, invece, si trovano 1.423 persone (ieri erano 1.431). Sono 70 i nuovi ingressi in rianimazione registrati nelle ultime 24 ore, numero in calo rispetto ai 105 ricoveri in terapia intensiva del giorno precedente.
 
 ## Tamponi e tasso di positività
-I nuovi dati dell’ultimo monitoraggio sull’andamento dell’epidemia in Italia sono stati registrati alla luce di un’attività di tracciamento che oggi, domenica, come al solito si mostra in calo. I tamponi molecolari e antigenici rapidi elaborati nelle ultime 24 ore sono stati 686.544, lo stesso dato ieri era pari a 1.181.179 test. Il tasso di positività risulta essere in lieve aumento: si attesta al 11,2% (+0,2% rispetto a ieri).
+Flette, come ogni lunedì, il numero di tamponi analizzati: sono 393.663, meno dei 686.544 test eseguiti ieri. Da febbraio 2020 ad oggi, i tamponi effettuati sono stati 176.570.152. Il tasso di positività, infine, passa dall’11,2% del 6 febbraio al 10,5% odierno.
 
-###### Fonte: [Open Online](https://www.open.online/2022/06/2/covid-19-italia-bollettino-6-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/07/2/covid-19-italia-bollettino-7-febbraio-2022/)
 
 ***
 
