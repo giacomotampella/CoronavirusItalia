@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 8 febbraio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 10 febbraio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Sono 415 le vittime legate al Covid registrate nell’ultimo bollettino del consueto monitoraggio dell’andamento della pandemia, diffuso dalla Protezione civile e dal ministero della Salute. Ieri lo stesso dato era pari a 326 morti. Complessivamente, il totale delle vittime sale a quota 149.512 da inizio pandemia. Secondo i numeri contenuti nella rilevazione, le persone risultate positive al Coronavirus nelle ultime 24 ore sono 101.864, nella giornata di ieri i nuovi casi di infezione erano invece di gran lunga inferiori, pari a 41.247, e il giorno prima – il 6 febbraio – se ne contavano 77.029. Il dato degli attualmente positivi è in calo: al momento si attesta a 1.927.800. Per quanto riguarda invece il totale dei contagi registrati dall’inizio dell’emergenza sanitaria si è arrivati a quota 11.765.767.
+Sono 325 le vittime legate al Covid riportate nell’ultimo bollettino della Protezione civile e del ministero della Salute. Ieri lo stesso dato era pari a 384, e il giorno prima (l’8 febbraio) a 415. Il totale dei morti è arrivato a questo punto a quota 150.221. Per quanto riguarda i nuovi contagi, nelle ultime 24 ore sono risultate positive 75.861 persone. Ieri il dato delle infezioni era pari a 81.367. Complessivamente, i casi totali registrati da inizio pandemia sono arrivati a quota 11.923.631. Quanto agli attualmente positivi al Coronavirus, al momento sono 1.813.274 su tutto il territorio nazionale.
 
 ## La situazione negli ospedali
-I malati Covid in condizioni più gravi ricoverati in terapia intensiva sono al momento 1.376 (ieri 1.423). Di questi, 99 sono i pazienti che hanno fatto il loro ingresso nei reparti di rianimazione nelle ultime 24 ore (ieri lo stesso dato era pari a 70). Per quanto riguarda invece i ricoveri ordinari in area non critica, i posti letto occupati sono al momento pari a 18.337. Arrivati a questo punto, superato il plateau di queste quattro ondate Covid esperite, il dato relativo a dimessi e guariti è arrivato a quota 9.688.455. In isolamento domiciliare ci sono invece 1.908.087 persone al momento.
+In questo momento sono 1.322 i malati Covid più gravi ricoverati nelle terapie intensive degli ospedali italiani. Di questi, 83 hanno fatto il loro ingresso nelle ultime 24 ore. Ieri gli ingressi in rianimazione erano stati 90. Per quanto riguarda invece i ricoveri ordinari, i pazienti con sintomi meno preoccupanti occupano 17.354 posti letto (ieri 17.932). Su 1.813.274 attualmente positivi, in isolamento domiciliare ci sono al momento 1.794.598 persone. Il dato dei dimessi e dei guariti è invece pari a 9.960.136 da inizio pandemia.
 
 ## Tamponi e tasso di positività
-Il dato dei nuovi contagi (101.864) è stato calcolato a fronte di 999.095 tamponi effettuati (ieri il numero di test analizzati era di 393.663). Da inizio pandemia, il totale dei tamponi è ormai arrivato a quota 177.569.247. Alla luce di queste cifre, il tasso di positività si attesta oggi al 10,2% (-0,3% rispetto a ieri).
+Il numero dei nuovi contagiati e dei decessi legati al Covid registrato nell’ultima giornata arriva a fronte di 683.715 tamponi analizzati (ieri 731.284), per un totale di 178.984.246 test effettuati da quando si è stabilita la consuetudine del monitoraggio quotidiano all’inizio dell’emergenza sanitaria. Il tasso di positività che mette a confronto tamponi analizzati e nuove infezioni è quindi pari al 11,1%, stabile rispetto a quello registrato ieri.
 
-###### Fonte: [Open Online](https://www.open.online/2022/08/2/covid-19-italia-bollettino-8-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/10/2/covid-19-italia-bollettino-10-febbraio-2022/)
 
 ***
 
