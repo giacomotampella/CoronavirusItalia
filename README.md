@@ -27,7 +27,7 @@ Nei reparti di terapia intensiva degli ospedali d’Italia troviamo ricoverati i
 ## Tamponi e tasso di positività
 Il tasso di positività riscontrato nell’ultima rilevazione è in calo rispetto a ieri: si attesta al 10,1% (-1,0%). Come detto, il numero dei nuovi positivi legati al Covid registrato nell’ultima giornata è pari a 67.152 casi e arriva a fronte di 663.786 tamponi effettuati (ieri 683.715). Complessivamente, da quando si è cominciato a svolgere il monitoraggio quotidiano sono stati analizzati 179.648.032 test anti-Covid.
 
-###### Fonte: [Open Online](https://www.open.online/2022/11/2/covid-19-italia-bollettino-11-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/02/11/covid-19-italia-bollettino-11-febbraio-2022/)
 
 ***
 
