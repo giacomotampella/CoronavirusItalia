@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 10 febbraio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 11 febbraio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Sono 325 le vittime legate al Covid riportate nell’ultimo bollettino della Protezione civile e del ministero della Salute. Ieri lo stesso dato era pari a 384, e il giorno prima (l’8 febbraio) a 415. Il totale dei morti è arrivato a questo punto a quota 150.221. Per quanto riguarda i nuovi contagi, nelle ultime 24 ore sono risultate positive 75.861 persone. Ieri il dato delle infezioni era pari a 81.367. Complessivamente, i casi totali registrati da inizio pandemia sono arrivati a quota 11.923.631. Quanto agli attualmente positivi al Coronavirus, al momento sono 1.813.274 su tutto il territorio nazionale.
+Nell’ultima rilevazione sull’andamento dell’epidemia si contano 334 morti legati al Covid. Ieri il dato delle vittime era pari a 325 e il giorno prima (il 9 febbraio) a 384. Il totale dei decessi da quando è cominciata l’emergenza sanitaria è arrivato a quota 150.55. Sul fronte delle nuove infezioni, stando ai numeri riportati nell’ultimo bollettino della Protezione civile e del ministero della Salute, nelle ultime 24 ore sono risultate positive 67.152 persone. Ieri il dato dei contagiati era invece pari a 75.861. Gli attualmente positivi al Coronavirus sono 1.751.125 in tutta Italia. E da inizio pandemia si sono registrati complessivamente 11.991.109 casi.
 
 ## La situazione negli ospedali
-In questo momento sono 1.322 i malati Covid più gravi ricoverati nelle terapie intensive degli ospedali italiani. Di questi, 83 hanno fatto il loro ingresso nelle ultime 24 ore. Ieri gli ingressi in rianimazione erano stati 90. Per quanto riguarda invece i ricoveri ordinari, i pazienti con sintomi meno preoccupanti occupano 17.354 posti letto (ieri 17.932). Su 1.813.274 attualmente positivi, in isolamento domiciliare ci sono al momento 1.794.598 persone. Il dato dei dimessi e dei guariti è invece pari a 9.960.136 da inizio pandemia.
+Nei reparti di terapia intensiva degli ospedali d’Italia troviamo ricoverati i malati di Covid più gravi, che in questo momento ammontano a 1.265 (ieri 1.322). Di questi, 100 hanno fatto il loro ingresso in rianimazione nell’ultima giornata. Lo stesso dato ieri era pari a 83 ingressi. Per quanto riguarda i posti letto occupati dai pazienti Covid con sintomi meno preoccupati, nei reparti ordinari di area non critica ci sono al momento 16.824 (ieri 17.354). Il dato dei dimessi e dei guariti continua intanto a crescere e, ad oggi, si attesta a 10.089.429 da inizio pandemia. In isolamento domiciliare invece ci sono al momento 1.733.036 persone su un totale di 1.751.125 attualmente positivi.
 
 ## Tamponi e tasso di positività
-Il numero dei nuovi contagiati e dei decessi legati al Covid registrato nell’ultima giornata arriva a fronte di 683.715 tamponi analizzati (ieri 731.284), per un totale di 178.984.246 test effettuati da quando si è stabilita la consuetudine del monitoraggio quotidiano all’inizio dell’emergenza sanitaria. Il tasso di positività che mette a confronto tamponi analizzati e nuove infezioni è quindi pari al 11,1%, stabile rispetto a quello registrato ieri.
+Il tasso di positività riscontrato nell’ultima rilevazione è in calo rispetto a ieri: si attesta al 10,1% (-1,0%). Come detto, il numero dei nuovi positivi legati al Covid registrato nell’ultima giornata è pari a 67.152 casi e arriva a fronte di 663.786 tamponi effettuati (ieri 683.715). Complessivamente, da quando si è cominciato a svolgere il monitoraggio quotidiano sono stati analizzati 179.648.032 test anti-Covid.
 
-###### Fonte: [Open Online](https://www.open.online/2022/10/2/covid-19-italia-bollettino-10-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/11/2/covid-19-italia-bollettino-11-febbraio-2022/)
 
 ***
 
