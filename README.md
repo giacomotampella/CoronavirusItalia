@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 12 febbraio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 13 febbraio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Oggi 12 febbraio sono 62.231 i nuovi casi di Coronavirus in tutta Italia contro i 67.152 di ieri e i 75.861 del giorno prima. Il numero totale dei contagiati sale a 12.053.330. I morti nell’ultima giornata sono 269, ieri 334, il giorno prima 325. Il totale dei decessi, dall’inizio della pandemia, è di 150.824, stando all’ultimo bollettino del ministero della Salute e della Protezione civile. Gli attualmente positivi oggi sono 1.695.614, ieri 1.751.125.
+Sono morte 191 persone a causa del Coronavirus, in Italia, nelle ultime 24 ore. Il giorno precedente, i decessi erano stati 269. Complessivamente, da quando è scoppiata la pandemia, hanno perso la vita 151.015 persone a causa della malattia. Stando ai dati contenuti nel bollettino della Protezione civile e del ministero della Salute, i contagi giornalieri del 13 febbraio ammontano a 51.959, cifra più bassa delle 67.152 nuove infezioni registrate ieri. In totale, i casi di positività riscontrati nel Paese, ad oggi, sono pari a 12.105.675.
 
 ## La situazione negli ospedali
-Negli ospedali italiani sono ricoverate 16.310 persone, ieri 16.824, il giorno prima 17.354 (-514 rispetto ai dati di ieri) mentre in terapia intensiva si segnalano 1.223 pazienti, ieri 1.265 (quindi -42), il giorno prima 1.322. Gli ingressi giornalieri in rianimazione oggi sono 68, ieri 100, il giorno prima 83. I dimessi e i guariti nelle ultime 24 ore sono 117.463 mentre in isolamento domiciliare si trovano ancora 1.678.081 persone, ieri 1.733.036.
+Delle 1.638.673 persone attualmente positive, 16.060 sono ricoverate con sintomi meno gravi (ieri, 12 febbraio, erano 16.310). In terapia intensiva si trovano, invece, 1.190 pazienti (ieri erano 1.223). Nelle ultime 24 ore, i nuovi ingressi in rianimazione sono stati 66, numero lievemente più basso del giorno precedente (68).
 
 ## Tamponi e tasso di positività
-Nell’ultima giornata sono stati eseguiti 587.645 tamponi contro i 663.786 di ieri per un totale di 180.235.677 test effettuati dall’inizio del monitoraggio. Il tasso di positività oggi è del 10,6 per cento, ieri del 10,1.
+I dati sul monitoraggio dell’epidemia arrivano a fronte di 462.881 nuovi tamponi, per un totale di 180.698.558 test effettuati dall’inizio dell’emergenza sanitaria. Il tasso di positività si attesta all’11,2% (+0,6% rispetto al 12 febbraio).
 
-###### Fonte: [Open Online](https://www.open.online/2022/02/12/covid-19-italia-bollettino-12-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/02/13/covid-19-italia-bollettino-13-febbraio-2022/)
 
 ***
 
