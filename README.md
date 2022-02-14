@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 13 febbraio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 14 febbraio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Sono morte 191 persone a causa del Coronavirus, in Italia, nelle ultime 24 ore. Il giorno precedente, i decessi erano stati 269. Complessivamente, da quando è scoppiata la pandemia, hanno perso la vita 151.015 persone a causa della malattia. Stando ai dati contenuti nel bollettino della Protezione civile e del ministero della Salute, i contagi giornalieri del 13 febbraio ammontano a 51.959, cifra più bassa delle 67.152 nuove infezioni registrate ieri. In totale, i casi di positività riscontrati nel Paese, ad oggi, sono pari a 12.105.675.
+Sono 28.630 i nuovi casi di Coronavirus (ieri 51.959) e 281 i morti (ieri 191) registrati oggi, 14 febbraio, secondo i dati del bollettino quotidiano del Ministero della Salute e dalla Protezione Civile. Il numero degli attualmente positivi al virus in Italia è pari a 1.590.615 persone (ieri 12.105.675). Il numero totale dei casi registrati da inizio monitoraggio sale a quota 12.134.451 mentre i morti per Covid da inizio pandemia sono stati 151.296.
 
 ## La situazione negli ospedali
-Delle 1.638.673 persone attualmente positive, 16.060 sono ricoverate con sintomi meno gravi (ieri, 12 febbraio, erano 16.310). In terapia intensiva si trovano, invece, 1.190 pazienti (ieri erano 1.223). Nelle ultime 24 ore, i nuovi ingressi in rianimazione sono stati 66, numero lievemente più basso del giorno precedente (68).
+Guardando alla situazione ospedaliera, gli attualmente ricoverati con sintomatologia sono 16.050 (-10 rispetto a ieri, quanto erano 16.060, mentre l’altro ieri, 12 febbraio, erano 16.310). A fronte di 63 nuovi ingressi giornalieri (ieri 66), i pazienti attualmente ricoverati in condizioni critiche negli ospedali del Paese sono 1.173 (-17 rispetto a ieri, quando erano ieri 1.190). Le persone guarite nelle ultime 24 ore sono state 76.553. I postivi al virus in isolamento domiciliare sono 1.573.392 (ieri 1.621.423).
 
 ## Tamponi e tasso di positività
-I dati sul monitoraggio dell’epidemia arrivano a fronte di 462.881 nuovi tamponi, per un totale di 180.698.558 test effettuati dall’inizio dell’emergenza sanitaria. Il tasso di positività si attesta all’11,2% (+0,6% rispetto al 12 febbraio).
+Il tasso di positività scende ancora, passando così dall’11,2 per cento di ieri al 10,1 per cento odierno. I dati di oggi arrivano a fronte di 283.891 test processati nelle ultime 24 ore (ieri 462.881), per un totale di 180.982.449 test analizzati da inizio monitoraggio.
 
-###### Fonte: [Open Online](https://www.open.online/2022/02/13/covid-19-italia-bollettino-13-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/02/14/covid-19-italia-bollettino-14-febbraio-2022/)
 
 ***
 
