@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 14 febbraio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 15 febbraio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Sono 28.630 i nuovi casi di Coronavirus (ieri 51.959) e 281 i morti (ieri 191) registrati oggi, 14 febbraio, secondo i dati del bollettino quotidiano del Ministero della Salute e dalla Protezione Civile. Il numero degli attualmente positivi al virus in Italia è pari a 1.590.615 persone (ieri 12.105.675). Il numero totale dei casi registrati da inizio monitoraggio sale a quota 12.134.451 mentre i morti per Covid da inizio pandemia sono stati 151.296.
+Sono 388 le nuove vittime legate al Covid registrate nelle ultime 24 ore e riportate nel consueto bollettino giornaliero diffuso dalla Protezione civile e dal ministero della Salute. Ieri era invece pari a 281 il dato relativo ai morti. Il totale da inizio emergenza sanitaria sale così a quota 151.684. Quanto alle nuove infezioni, oggi – martedì 15 febbraio – si contano 70.852 nuovi contagi (ieri lo stesso dato era pari a 28.630). Un incremento che porta gli attualmente positivi a 1.550.410. Complessivamente, da inizio pandemia, i casi Covid totali sono arrivati a quota 12.205.474.
 
 ## La situazione negli ospedali
-Guardando alla situazione ospedaliera, gli attualmente ricoverati con sintomatologia sono 16.050 (-10 rispetto a ieri, quanto erano 16.060, mentre l’altro ieri, 12 febbraio, erano 16.310). A fronte di 63 nuovi ingressi giornalieri (ieri 66), i pazienti attualmente ricoverati in condizioni critiche negli ospedali del Paese sono 1.173 (-17 rispetto a ieri, quando erano ieri 1.190). Le persone guarite nelle ultime 24 ore sono state 76.553. I postivi al virus in isolamento domiciliare sono 1.573.392 (ieri 1.621.423).
+Per quanto riguarda la situazione nelle strutture ospedaliere italiane, i malati Covid più gravi occupano al momento 1.119 posti letto in terapia intensiva (in calo rispetto a ieri, quando erano 1.173). Di questi 87 hanno fatto il loro ingresso nelle ultime 24 ore. Nei reparti ordinari ci sono invece 15.602 pazienti ricoverati con sintomi legati al Coronavirus. Un dato che fa comprendere che la pressione ospedaliera è in fase di alleggerimento dal momento che ieri i ricoveri erano 16.050, l’altro ieri – 13 febbraio – erano 16.090 e il 12 febbraio erano 16.310. In isolamento domiciliare ci sono per il momento 1.533.689 persone. Quanto alle perone dimesse o guarite, si parla di 10.503.380 casi in totale.
 
 ## Tamponi e tasso di positività
-Il tasso di positività scende ancora, passando così dall’11,2 per cento di ieri al 10,1 per cento odierno. I dati di oggi arrivano a fronte di 283.891 test processati nelle ultime 24 ore (ieri 462.881), per un totale di 180.982.449 test analizzati da inizio monitoraggio.
+I dati di oggi arrivano a fronte di 695.744 tamponi effettuati nelle ultime 24 ore (ieri 283.891), per un totale di 181.678.193 test dall’inizio del monitoraggio dell’emergenza sanitaria. Quanto al tasso di positività, nella giornata di oggi si attesta al 10,2%, sostanzialmente stabile rispetto a ieri quando misurava lo 0,1% in meno.
 
-###### Fonte: [Open Online](https://www.open.online/2022/02/14/covid-19-italia-bollettino-14-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/02/15/covid-19-italia-bollettino-15-febbraio-2022/)
 
 ***
 
