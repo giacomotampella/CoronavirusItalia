@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 16 febbraio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 17 febbraio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Il bollettino nazionale diffuso dalla Protezione civile e dal ministero della Salute sui dati Covid in Italia registra per le ultime 24 ore 59.749 nuovi positivi. Un dato in calo rispetto a quello segnalato ieri, quando i contagi erano stati 70.852. Anche sul fronte dei decessi la curva registra un decremento: sono 278 i morti legati al virus nell’ultima giornata contro i 388 del precedente monitoraggio. Gli attualmente positivi scendono a quota 1.480.113 (ieri 1.550.410).
+Sono 320 i morti legati al Covid registrati nell’ultima giornata e riportati nell’ultimo bollettino diffuso come di consueto dalla Protezione civile e dal ministero della Salute. Lo stesso dato, nella rilevazione di ieri era pari a 278, mentre il giorno prima – martedì 15 febbraio – si contavano 388 vittime. Sul fronte delle nuove infezioni, nelle ultime 24 ore sono stati accertati 57.890 nuovi contagi, dato che porta il totale degli attualmente positivi a 1.438.208 (ieri 1.480.113). Ieri l’incremento dei nuovi casi era invece pari a 59.749. Complessivamente, il numero dei casi totali confermati dall’inizio dell’emergenza sanitaria ammonta a 12.323.398.
 
 ## La situazione negli ospedali
-Oggi, 16 febbraio, sono 75 i nuovi ingressi di positivi al virus entrati in terapia intensiva. Un dato in diminuzione rispetto agli 87 di ieri. Il totale dei ricoveri nei reparti di rianimazione è di 1.073 positivi, ieri 1.119. Anche sul fronte delle aree mediche la curva segnala un calo: oggi si contano 15.127 ospedalizzazioni contro i 15.602 ricoverati di ieri. In concomitanza con la diminuzione della pressione nelle strutture ospedaliere arriva il dato in aumento del numero di persone dimesse e guarite dal virus. Il totale registrato oggi è pari a 10.633.268 casi rispetto ai 10.503.380. 
+Migliora, seppur lentamente, la situazione negli ospedali che vedono alleggerirsi la pressione. Nei reparti di terapia intensiva, dove i posti letto sono occupati dai malati Covid più gravi, ci sono al momento 1.037 pazienti in tutta Italia (ieri erano 1.073). Di questi 71 hanno fatto il loro ingresso nelle ultime 24 ore (ieri si contavano invece 75 nuovi ingressi in rianimazione). Per quanto riguarda invece i reparti ordinari di area non critica, i pazienti con sintomi Covid occupano al momento 14.562 posti letto (ieri lo stesso dato era pari a 15.127 ricoverati). Parallelamente continua ad aumentare il numero totale dei dimessi e dei guariti che è ormai arrivato a contare 10.732.908 casi (ieri era a 10.633.268). In isolamento domiciliare ci sono invece 1.422.609 persone infettate su un totale di 1.438.208 attualmente positivi.
 
 ## Tamponi e tasso di positività
-Alla luce dei dati dei contagi giornalieri il bollettino odierno registra un’attività di tracciamento pari a 555.080 nuovi tamponi eseguiti. Un dato in calo rispetto al numero di tamponi molecolari e antigenici rapidi elaborati nella giornata di ieri, quando erano stati 695.744. Il tasso di positività si mostra in aumento: dal 10,2% di ieri al 10,8% di oggi.
+Le nuove infezioni confermate nell’ultimo monitoraggio nazionale arrivano a fronte di 538.131 nuovi tamponi analizzati, in lieve calo rispetto a ieri quando erano stati effettuati in totale 555.080 test. Mettendo in rapporto il numero dei tamponi con l’incremento dei nuovi casi Covid otteniamo il tasso di positività che è stabile rispetto a ieri e si attesta al 10,8%.
 
-###### Fonte: [Open Online](https://www.open.online/2022/02/16/covid-19-italia-bollettino-16-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/02/17/covid-19-italia-bollettino-17-febbraio-2022/)
 
 ***
 
