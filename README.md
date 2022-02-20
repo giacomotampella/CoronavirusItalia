@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 18 febbraio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 19 febbraio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Il numero dei decessi legati al Coronavirus nelle ultime 24 ore è arrivato a 314, nei dati di ieri questo valore era poco più alto: 320. Il totale delle vittime dall’inizio della pandemia in tutta Italia è arrivato così a 152.596. Per quanto riguarda i contagi invece, il bollettino della Protezione Civile e del Ministero della Salute parla di 53.662 nuovi casi. Al momento i pazienti positivi in tutto il Paese sono 1.404.122, i casi totali dall’inizio della pandemia sono arrivati a 12.377.098. Il tasso di positività è arrivato invece a 10,5 per cento.
+Dopo i 53.662 nuovi casi di ieri, stando al bollettino diffuso oggi, 19 febbraio, dal Ministero della Salute e della Protezione Civile, nelle ultime 24 ore in Italia si sono registrati 50.534 nuovi casi di Coronavirus, mentre i decessi sono stati 252 (ieri 314). Il numero totale dei contagi registrati nel Paese da inizio emergenza sale a quota 12.427.773, mentre il numero totale di decessi per Covid si attesta a 152.848 vittime. Il numero degli attualmente positivi al virus è pari a 1.369.778 persone, in diminuzione rispetto a ieri, quando erano 1.404.122. 
 
-<!--## La situazione negli ospedali
-Migliora, seppur lentamente, la situazione negli ospedali che vedono alleggerirsi la pressione. Nei reparti di terapia intensiva, dove i posti letto sono occupati dai malati Covid più gravi, ci sono al momento 1.037 pazienti in tutta Italia (ieri erano 1.073). Di questi 71 hanno fatto il loro ingresso nelle ultime 24 ore (ieri si contavano invece 75 nuovi ingressi in rianimazione). Per quanto riguarda invece i reparti ordinari di area non critica, i pazienti con sintomi Covid occupano al momento 14.562 posti letto (ieri lo stesso dato era pari a 15.127 ricoverati). Parallelamente continua ad aumentare il numero totale dei dimessi e dei guariti che è ormai arrivato a contare 10.732.908 casi (ieri era a 10.633.268). In isolamento domiciliare ci sono invece 1.422.609 persone infettate su un totale di 1.438.208 attualmente positivi.
+## La situazione negli ospedali
+Guardando alla situazione ospedaliera, i pazienti ricoverati con sintomi in area non critica sono 13.387 (ieri 13.948, -561). Inoltre, a fronte di 76 nuovi ingressi giornalieri (ieri 52), i pazienti ricoverati in terapia intensiva sono 953 (ieri 987, -34). Le persone positive al virus in isolamento domiciliare sono oggi 1.355.438 (ieri 1.389.187). I dimessi e guariti nelle ultime 24 ore sono invece 84.767, per un totale di 10.905.147 guarigioni da inizio monitoraggio. 
 
 ## Tamponi e tasso di positività
-Le nuove infezioni confermate nell’ultimo monitoraggio nazionale arrivano a fronte di 538.131 nuovi tamponi analizzati, in lieve calo rispetto a ieri quando erano stati effettuati in totale 555.080 test. Mettendo in rapporto il numero dei tamponi con l’incremento dei nuovi casi Covid otteniamo il tasso di positività che è stabile rispetto a ieri e si attesta al 10,8%.-->
+I dati odierni arrivano a fronte di 492.045 test processati nelle ultime 24 ore (ieri 537.765), per un totale di 183.773.732 tamponi effettuati da inizio pandemia. Il tasso di positività passa dal 10,5 per cento di ieri al 10,3 per cento odierno (-0,2 per cento).
 
-###### Fonte: [Open Online](https://www.open.online/2022/02/18/covid-19-italia-bollettino-18-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/02/19/covid-19-italia-bollettino-19-febbraio-2022/)
 
 ***
 
