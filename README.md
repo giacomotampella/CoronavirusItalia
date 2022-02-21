@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 20 febbraio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 21 febbraio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Sono 141 le nuove vittime legate al Covid confermate nell’ultima giornata. Il numero emerge dal consueto monitoraggio pubblicato e diffuso dal ministero della Salute e dalla Protezione Civile. Lo stesso dato nel bollettino di ieri era pari a 252, mentre il giorno prima – 18 febbraio – i morti legati al Covid erano stati 314. Per quanto riguarda l’incremento dei nuovi casi sul territorio nazionale, nelle ultime 24 ore sono stati registrati 42.081 nuovi contagi al virus, numero che porta gli attualmente positivi a 1.348.347 persone in tutta Italia. Ieri il dato delle nuove infezioni era pari a 53.662  nuovi positivi. Complessivamente, i casi totali registrati da inizio emergenza sanitaria sono arrivati a quota 12.469.975.
+Nelle ultime 24 ore in Italia si sono registrati 24.408 nuovi casi di Coronavirus (ieri 42.081) e 201 morti (ieri 141) secondo i dati di oggi, 21 febbraio, diffusi nel bollettino del Ministero della Salute e dalla Protezione Civile. Il numero degli attualmente positivi al virus è pari a 1.321.971 persone (ieri 1.348.347). Il totale dei casi registrati complessivamente in Italia da inizio pandemia sale a quota 12.494.459, mentre sono 153.190 i morti per Covid.
 
 ## La situazione negli ospedali
-Migliora la situazione nelle strutture ospedaliere grazie a un alleggerimento della pressione in tutti i reparti. I malati Covid più gravi ricoverati in terapia intensiva occupano al momento 934 letti (ieri 953, quindi ci sono 19 ricoverati in meno ). Di questi, 52 hanno fatto il loro ingresso nelle ultime 24 ore (ieri 76). Nei reparti ordinari in area non critica ci sono invece di 13.284 positivi sintomatici (ieri 13.387). Su un totale di 1.348.347 attualmente positivi, le persone in isolamento domiciliare su tutto il territorio nazionale sono al momento 1.334.129. Continua ad aumentare parallelamente il numero dei guariti e dei dimessi dai inizio pandemia, che si attesta a 10.968.639 persone. 
+I pazienti attualmente ricoverati in ospedale in area non critica sono 13.375 (ieri erano 13.284, +91). Nelle terapie intensive del Paese, a fronte di +55 nuovi ingressi giornalieri (ieri +76), il numero di persone ospedalizzate in condizioni critiche è di 928 unità (ieri 934, -6). Le persone che si trovano in isolamento domiciliare sono 1.307.668 (ieri 1.334.129), mentre il persone guarite nelle ultime 24 ore sono 50.659, per un totale di 11.019.298 guariti dal virus da inizio pandemia. 
 
 ## Tamponi e tasso di positività
-I nuovi contagi registrati oggi arrivano a fronte di 372.776 tamponi effettuati (ieri 492.045), per un totale di  184.146.508 test processati da inizio pandemia. Il tasso di positività è sostanzialmente stabile: oggi si attesta al 11,3% (+1,0% rispetto a ieri).
+Il tasso di positività passa dall’11,3 per cento di ieri al 10,5 per cento odierno. I dati epidemiologici odierni arrivano a fronte di 231.766 test elaborati nelle ultime 24 ore (ieri 372.776), per un totale di 184.378.274 da inizio emergenza, iniziata due anni fa.
 
-###### Fonte: [Open Online](https://www.open.online/2022/02/20/covid-19-italia-bollettino-20-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/02/20/covid-19-italia-bollettino-21-febbraio-2022/)
 
 ***
 
