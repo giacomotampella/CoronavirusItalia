@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 21 febbraio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 22 febbraio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Nelle ultime 24 ore in Italia si sono registrati 24.408 nuovi casi di Coronavirus (ieri 42.081) e 201 morti (ieri 141) secondo i dati di oggi, 21 febbraio, diffusi nel bollettino del Ministero della Salute e dalla Protezione Civile. Il numero degli attualmente positivi al virus è pari a 1.321.971 persone (ieri 1.348.347). Il totale dei casi registrati complessivamente in Italia da inizio pandemia sale a quota 12.494.459, mentre sono 153.190 i morti per Covid.
+Sono 60.029 i nuovi contagi da Coronavirus contro i 24.408 di ieri per un totale di 12.554.596 casi dall’inizio della pandemia. I deceduti nelle ultime 24 ore sono 322, ieri 201, il giorno prima 141, stando all’ultimo bollettino del ministero della Salute e della Protezione civile. Il totale dei morti dall’inizio del monitoraggio è di 153.512. Le persone attualmente positive oggi sono 1.291.793, ieri 1.321.971.
 
 ## La situazione negli ospedali
-I pazienti attualmente ricoverati in ospedale in area non critica sono 13.375 (ieri erano 13.284, +91). Nelle terapie intensive del Paese, a fronte di +55 nuovi ingressi giornalieri (ieri +76), il numero di persone ospedalizzate in condizioni critiche è di 928 unità (ieri 934, -6). Le persone che si trovano in isolamento domiciliare sono 1.307.668 (ieri 1.334.129), mentre il persone guarite nelle ultime 24 ore sono 50.659, per un totale di 11.019.298 guariti dal virus da inizio pandemia. 
+I ricoverati negli ospedali italiani sono 13.076 (ieri 13.375, -299) mentre in terapia intensiva si trovano ancora 896 pazienti (ieri 928, -32). Gli ingressi giornalieri in rianimazione oggi sono 82, ieri 55, il giorno prima 76. In isolamento domiciliare si trovano 1.277.821 persone, ieri 1.307.668 mentre i guariti e i dimessi oggi sono 89.993, ieri 50.659. 
 
 ## Tamponi e tasso di positività
-Il tasso di positività passa dall’11,3 per cento di ieri al 10,5 per cento odierno. I dati epidemiologici odierni arrivano a fronte di 231.766 test elaborati nelle ultime 24 ore (ieri 372.776), per un totale di 184.378.274 da inizio emergenza, iniziata due anni fa.
+Nelle ultime 24 ore sono stati effettuati 603.639 tamponi contro i 231.766 di ieri per un totale di 184.981.913 test dall’inizio del monitoraggio. Il tasso di positività oggi è del 9,9 per cento, ieri dell’11,3 il giorno prima del 10,5.
 
-###### Fonte: [Open Online](https://www.open.online/2022/02/20/covid-19-italia-bollettino-21-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/02/22/covid-19-italia-bollettino-22-febbraio-2022/)
 
 ***
 
