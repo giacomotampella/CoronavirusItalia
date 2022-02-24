@@ -19,15 +19,15 @@
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Sono 60.029 i nuovi contagi da Coronavirus contro i 24.408 di ieri per un totale di 12.554.596 casi dall’inizio della pandemia. I deceduti nelle ultime 24 ore sono 322, ieri 201, il giorno prima 141, stando all’ultimo bollettino del ministero della Salute e della Protezione civile. Il totale dei morti dall’inizio del monitoraggio è di 153.512. Le persone attualmente positive oggi sono 1.291.793, ieri 1.321.971.
+Sono 249 i decessi legati al Coronavirus in Italia nelle ultime 24 ore. A riportare il dato è il bollettino nazionale del Ministero della Salute e della Protezione Civile. Il numero dei decessi appare in leggero calo rispetto a quello registrato nel monitoraggio di ieri, quando le vittime erano state 252. Il totale di morti a causa del virus da inizio emergenza arriva così a quota 154.013. Sul fronte dei contagi oggi, 24 febbraio, si segnalano 46.169 nuovi positivi. Anche questo un dato in calo rispetto ai 49.040 nuovi positivi di ieri. Il numero degli attualmente positivi al virus sale a 1.199.228 (ieri 1.221.423).
 
 ## La situazione negli ospedali
-I ricoverati negli ospedali italiani sono 13.076 (ieri 13.375, -299) mentre in terapia intensiva si trovano ancora 896 pazienti (ieri 928, -32). Gli ingressi giornalieri in rianimazione oggi sono 82, ieri 55, il giorno prima 76. In isolamento domiciliare si trovano 1.277.821 persone, ieri 1.307.668 mentre i guariti e i dimessi oggi sono 89.993, ieri 50.659. 
+Per quanto riguarda la pressione ospedaliera, oggi 24 febbraio, il bollettino nazionale sui dati Covid segnala 56 nuovi ingressi in terapia intensiva. Un dato in calo rispetto a ieri quando i nuovi ricoverati in rianimazione erano stati 81. Il totale di ospedalizzati nei reparti di area critica oggi è pari a 839 (ieri 886). Anche in area medica il numero di positivi che occupano un posto letto è in diminuzione: oggi 12.125 contro i 12.527 della giornata di ieri. Il totale di dimessi e guariti è pari a 11.298.010 (ieri 11.228.571).
 
 ## Tamponi e tasso di positività
-Nelle ultime 24 ore sono stati effettuati 603.639 tamponi contro i 231.766 di ieri per un totale di 184.981.913 test dall’inizio del monitoraggio. Il tasso di positività oggi è del 9,9 per cento, ieri dell’11,3 il giorno prima del 10,5.
+Il numero di nuovi positivi registrato dal bollettino di oggi arriva alla luce di un’attività di tracciamento in calo. Sono 484.530 i nuovi tamponi elaborati nelle ultime 24 ore contro i 479.447 test antigenici e molecolari effettuati ieri. Il tasso di positività appare ancora in calo: dal 9,9% di ieri al 9,5% di oggi.
 
-###### Fonte: [Open Online](https://www.open.online/2022/02/22/covid-19-italia-bollettino-22-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/02/23/covid-19-italia-bollettino-23-febbraio-2022/)
 
 ***
 
