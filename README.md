@@ -15,7 +15,7 @@
 
 *** 
 
-### Ultimo aggiornamento: 22 febbraio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 24 febbraio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
@@ -27,7 +27,7 @@ Per quanto riguarda la pressione ospedaliera, oggi 24 febbraio, il bollettino na
 ## Tamponi e tasso di positività
 Il numero di nuovi positivi registrato dal bollettino di oggi arriva alla luce di un’attività di tracciamento in calo. Sono 484.530 i nuovi tamponi elaborati nelle ultime 24 ore contro i 479.447 test antigenici e molecolari effettuati ieri. Il tasso di positività appare ancora in calo: dal 9,9% di ieri al 9,5% di oggi.
 
-###### Fonte: [Open Online](https://www.open.online/2022/02/23/covid-19-italia-bollettino-23-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/02/24/covid-19-italia-bollettino-24-febbraio-2022/)
 
 ***
 
