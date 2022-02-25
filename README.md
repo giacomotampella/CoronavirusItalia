@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 24 febbraio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 25 febbraio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Sono 249 i decessi legati al Coronavirus in Italia nelle ultime 24 ore. A riportare il dato è il bollettino nazionale del Ministero della Salute e della Protezione Civile. Il numero dei decessi appare in leggero calo rispetto a quello registrato nel monitoraggio di ieri, quando le vittime erano state 252. Il totale di morti a causa del virus da inizio emergenza arriva così a quota 154.013. Sul fronte dei contagi oggi, 24 febbraio, si segnalano 46.169 nuovi positivi. Anche questo un dato in calo rispetto ai 49.040 nuovi positivi di ieri. Il numero degli attualmente positivi al virus sale a 1.199.228 (ieri 1.221.423).
+Nell’ultima giornata sono state confermate 193 vittime legate al Covid, come riportato nell’ultimo bollettino pubblicato come di consueto dalla Protezione Civile e dal ministero della Salute. Ieri il numero dei decessi giornalieri era invece pari a 249, mentre il giorno prima erano stati 252. Cifre che fanno salire il numero complessivo dei morti a quota 154.206 da quando è cominciata l’emergenza sanitaria. Per quanto riguarda i nuovi contagiati dal Coronavirus, dall’ultima rilevazione ne risultano 40.948, dato che porta il totale degli attualmente positivi a quota 1.175.924. Nella giornata di ieri le nuove infezioni confermate erano invece state 46.169. Complessivamente, il numero dei casi da inizio pandemia è arrivato a segnare quota 12.693.320.
 
 ## La situazione negli ospedali
-Per quanto riguarda la pressione ospedaliera, oggi 24 febbraio, il bollettino nazionale sui dati Covid segnala 56 nuovi ingressi in terapia intensiva. Un dato in calo rispetto a ieri quando i nuovi ricoverati in rianimazione erano stati 81. Il totale di ospedalizzati nei reparti di area critica oggi è pari a 839 (ieri 886). Anche in area medica il numero di positivi che occupano un posto letto è in diminuzione: oggi 12.125 contro i 12.527 della giornata di ieri. Il totale di dimessi e guariti è pari a 11.298.010 (ieri 11.228.571).
+Continua ad alleggerirsi, giorno dopo giorno, la pressione sulle strutture ospedaliere italiane. Stando a quest’ultimo bollettino, il numero dei posti letto occupati nelle terapie intensive del territorio nazionale è al momento pari a 799. Di questi, 58 hanno fatto il loro ingresso in rianimazione nelle ultime 24 ore. Per quanto riguarda invece il numero dei pazienti ricoverati nei reparti ordinari di area non critica, in questo momento è pari a 11.706 (ieri 12.125). Arrivati a questo punto della pandemia, nella parte discendente di questa quarta ondata, il totale dei dimessi è dei guariti è arrivato a quota 11.363.190 (ieri 11.298.010). In isolamento domiciliare ci sono invece 1.163.419 persone su un totale di 1.175.924 attualmente positivi.
 
 ## Tamponi e tasso di positività
-Il numero di nuovi positivi registrato dal bollettino di oggi arriva alla luce di un’attività di tracciamento in calo. Sono 484.530 i nuovi tamponi elaborati nelle ultime 24 ore contro i 479.447 test antigenici e molecolari effettuati ieri. Il tasso di positività appare ancora in calo: dal 9,9% di ieri al 9,5% di oggi.
+Il dato relativo ai nuovi contagi (40.948) contenuto nell’ultimo bollettino, arriva a fronte di 440.115 tamponi analizzati (ieri erano invece 484.530). Il tasso di positività sta continuando a diminuire giorno dopo giorno: dal 9,5% di ieri, oggi è passato al 9,3% (-0,2%).
 
-###### Fonte: [Open Online](https://www.open.online/2022/02/24/covid-19-italia-bollettino-24-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/02/25/covid-19-italia-bollettino-25-febbraio-2022/)
 
 ***
 
