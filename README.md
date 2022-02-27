@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 25 febbraio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 27 febbraio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Nell’ultima giornata sono state confermate 193 vittime legate al Covid, come riportato nell’ultimo bollettino pubblicato come di consueto dalla Protezione Civile e dal ministero della Salute. Ieri il numero dei decessi giornalieri era invece pari a 249, mentre il giorno prima erano stati 252. Cifre che fanno salire il numero complessivo dei morti a quota 154.206 da quando è cominciata l’emergenza sanitaria. Per quanto riguarda i nuovi contagiati dal Coronavirus, dall’ultima rilevazione ne risultano 40.948, dato che porta il totale degli attualmente positivi a quota 1.175.924. Nella giornata di ieri le nuove infezioni confermate erano invece state 46.169. Complessivamente, il numero dei casi da inizio pandemia è arrivato a segnare quota 12.693.320.
+Nelle ultime 24 ore in Italia si sono registrati 30.629 nuovi casi di Coronavirus (ieri 38.375) e 144 decessi (ieri 210) secondo i dati di oggi, 27 febbraio, contenuti nel bollettino del Ministero della Salute e dalla Protezione Civile. Il totale dei casi registrati in Italia da inizio monitoraggio della pandemia sale a quota 12.764.558, mentre i morti per Covid sono stati complessivamente 154.560. Le persone attualmente positive al virus sono 1.122.278 (ieri 1.140.692). 
 
 ## La situazione negli ospedali
-Continua ad alleggerirsi, giorno dopo giorno, la pressione sulle strutture ospedaliere italiane. Stando a quest’ultimo bollettino, il numero dei posti letto occupati nelle terapie intensive del territorio nazionale è al momento pari a 799. Di questi, 58 hanno fatto il loro ingresso in rianimazione nelle ultime 24 ore. Per quanto riguarda invece il numero dei pazienti ricoverati nei reparti ordinari di area non critica, in questo momento è pari a 11.706 (ieri 12.125). Arrivati a questo punto della pandemia, nella parte discendente di questa quarta ondata, il totale dei dimessi è dei guariti è arrivato a quota 11.363.190 (ieri 11.298.010). In isolamento domiciliare ci sono invece 1.163.419 persone su un totale di 1.175.924 attualmente positivi.
+Le persone ricoverate in ospedale in area non critica sono 10.868 (ieri 11.103), mentre nelle terapie intensive italiane, a fronte di 26 nuovi ingressi giornalieri (ieri 44), il numero di pazienti ricoverati in gravi condizioni è pari a 733 persone (763 ieri). Le persone che si trovano in isolamento domiciliare sono 1.110.677 (ieri 1.128.692), mentre 50.014 persone sono guarite dal virus nelle ultime 24 ore, per un totale di 11.487.720 dimessi dal virus da inizio emergenza. 
 
 ## Tamponi e tasso di positività
-Il dato relativo ai nuovi contagi (40.948) contenuto nell’ultimo bollettino, arriva a fronte di 440.115 tamponi analizzati (ieri erano invece 484.530). Il tasso di positività sta continuando a diminuire giorno dopo giorno: dal 9,5% di ieri, oggi è passato al 9,3% (-0,2%).
+I dati epidemiologici arrivano a fronte di 317.784 test elaborati nelle ultime 24 ore (ieri 434.077), per un totale di 187.137.866 test processati da inizio pandemia. Il tasso di positività passa dal 8,8 per cento di ieri al 9,6 per cento odierno.
 
-###### Fonte: [Open Online](https://www.open.online/2022/02/25/covid-19-italia-bollettino-25-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/02/27/covid-19-italia-bollettino-27-febbraio-2022/)
 
 ***
 
