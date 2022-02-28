@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 27 febbraio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 28 febbraio 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Nelle ultime 24 ore in Italia si sono registrati 30.629 nuovi casi di Coronavirus (ieri 38.375) e 144 decessi (ieri 210) secondo i dati di oggi, 27 febbraio, contenuti nel bollettino del Ministero della Salute e dalla Protezione Civile. Il totale dei casi registrati in Italia da inizio monitoraggio della pandemia sale a quota 12.764.558, mentre i morti per Covid sono stati complessivamente 154.560. Le persone attualmente positive al virus sono 1.122.278 (ieri 1.140.692). 
+Sono 17.981 i nuovi casi di Coronavirus (ieri 30.629) e 207 morti (ieri 144) registrati nelle ultime 24 ore secondo i dati di oggi, 28 febbraio, e diffusi nel bollettino del Ministero della Salute e dalla Protezione Civile. Il totale dei casi segnalati in Italia da inizio emergenza sale a quota 12.782.836, mentre il numero totale di decessi per Covid si attesta a 154.767 vittime. Il numero degli attualmente positivi è pari a 1.099.934 persone, in diminuzione rispetto a ieri quando erano 1.122.278.
 
 ## La situazione negli ospedali
-Le persone ricoverate in ospedale in area non critica sono 10.868 (ieri 11.103), mentre nelle terapie intensive italiane, a fronte di 26 nuovi ingressi giornalieri (ieri 44), il numero di pazienti ricoverati in gravi condizioni è pari a 733 persone (763 ieri). Le persone che si trovano in isolamento domiciliare sono 1.110.677 (ieri 1.128.692), mentre 50.014 persone sono guarite dal virus nelle ultime 24 ore, per un totale di 11.487.720 dimessi dal virus da inizio emergenza. 
+I pazienti ospedalizzati in area non critica sono 10.851 (ieri 10.868), mentre sul fonte delle terapie intensive, a fronte di 39 nuovi ingressi giornalieri (ieri 26), il numero di ricoverati in gravi condizioni è pari a 714 pazienti (ieri 763). I positivi al virus che si trovano in isolamento domiciliare sono 1.088.369 (ieri 1.578.285), mentre il numero di negativizzati al virus nelle ultime 24 ore è aumentato di 40.415 unità, per un totale di 11.528.135 guariti da inizio monitoraggio della situazione epidemiologica. 
 
 ## Tamponi e tasso di positività
-I dati epidemiologici arrivano a fronte di 317.784 test elaborati nelle ultime 24 ore (ieri 434.077), per un totale di 187.137.866 test processati da inizio pandemia. Il tasso di positività passa dal 8,8 per cento di ieri al 9,6 per cento odierno.
+Il tasso di positività, rispetto a 24 ore fa, scende dello 0,6 per cento, passando così dal 9,6 per cento di ieri al 9,1 per cento odierno. I dati odierni arrivano a fronte di 198.513 tamponi analizzati nelle ultime 24 ore (ieri 317.784), per un totale di 187.336.379 test analizzati da inizio emergenza.
 
-###### Fonte: [Open Online](https://www.open.online/2022/02/27/covid-19-italia-bollettino-27-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/02/28/covid-19-italia-bollettino-28-febbraio-2022/)
 
 ***
 
