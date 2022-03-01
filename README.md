@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 28 febbraio 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 1 marzo 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Sono 17.981 i nuovi casi di Coronavirus (ieri 30.629) e 207 morti (ieri 144) registrati nelle ultime 24 ore secondo i dati di oggi, 28 febbraio, e diffusi nel bollettino del Ministero della Salute e dalla Protezione Civile. Il totale dei casi segnalati in Italia da inizio emergenza sale a quota 12.782.836, mentre il numero totale di decessi per Covid si attesta a 154.767 vittime. Il numero degli attualmente positivi è pari a 1.099.934 persone, in diminuzione rispetto a ieri quando erano 1.122.278.
+I morti legati al Coronavirus registrati oggi, 1° marzo, sono 233. Ieri 28 febbraio, le vittime erano state 207. Il totale dei decessi dall’inizio della pandemia sale così a quota 155.000. Secondo il bollettino diffuso dal Ministero della Salute e dalla Protezione Civile, i nuovi contagi sono 46.631 (contro i 17.981 di ieri). Gli attualmente positivi sono a oggi 1.073.230 1.
 
 ## La situazione negli ospedali
-I pazienti ospedalizzati in area non critica sono 10.851 (ieri 10.868), mentre sul fonte delle terapie intensive, a fronte di 39 nuovi ingressi giornalieri (ieri 26), il numero di ricoverati in gravi condizioni è pari a 714 pazienti (ieri 763). I positivi al virus che si trovano in isolamento domiciliare sono 1.088.369 (ieri 1.578.285), mentre il numero di negativizzati al virus nelle ultime 24 ore è aumentato di 40.415 unità, per un totale di 11.528.135 guariti da inizio monitoraggio della situazione epidemiologica. 
+I pazienti ricoverati in terapia intensiva sono 708 (ieri 714), di cui 74 nuovi ingressi (ieri 39). I posti letto occupati nei reparti non critici sono invece 10.456 (ieri 10.851). I guariti e i dimessi nelle ultime 24 ore sono 73.607, per un totale di 11.601.742.
 
 ## Tamponi e tasso di positività
-Il tasso di positività, rispetto a 24 ore fa, scende dello 0,6 per cento, passando così dal 9,6 per cento di ieri al 9,1 per cento odierno. I dati odierni arrivano a fronte di 198.513 tamponi analizzati nelle ultime 24 ore (ieri 317.784), per un totale di 187.336.379 test analizzati da inizio emergenza.
+Il tasso di positività è oggi al 8,8%: ieri era al 9,6%. Un dato che arriva a fronte di 530.858 tamponi analizzati nelle ultime 24 ore (ieri 198.513), per un totale di 9 187.867.237 test analizzati da inizio emergenza.
 
-###### Fonte: [Open Online](https://www.open.online/2022/02/28/covid-19-italia-bollettino-28-febbraio-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/03/1/covid-19-italia-bollettino-1-marzo-2022/)
 
 ***
 
