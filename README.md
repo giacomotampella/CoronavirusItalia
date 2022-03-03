@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 2 marzo 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 3 marzo 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-Sono 214 le vittime legate al Coronavirus confermate nelle ultime 24 ore. Il numero è riportato nel consueto bollettino diffuso dalla Protezione Civile e dal ministero della Salute. Ieri lo stesso dato era parti a 233, mentre il giorno prima il numero dei morti era stato 207. Cifre che continuano a gonfiare il totale dei decessi per Covid registrato dall’inizio dell’emergenza sanitaria che, oggi 2 marzo, si attesta a 155.214 (ieri era a 155.000). Nel monitoraggio, come al solito, è riportato anche il numero delle nuove infezioni testate che nelle ultime 24 ore ha fatto registrare 36.429 nuovi contagi, dato che porta il totale degli attualmente positivi a 1.061.610. Ieri i nuovi contagiati erano invece stati 46.631. Tutti numeri che continuano ad alimentare il bacino dei casi totali che, da quando è esplosa la pandemia due anni fa, è arrivato a misurare 12.867.918 casi da Coronavirus.
+I nuovi contagi di Coronavirus registrati nelle ultime 24 ore in Italia sono 41.500. Il dato riportato dal bollettino diffuso dalla Protezione Civile e dal ministero della Salute si mostra in aumento rispetto ai positivi registrati nel monitoraggio di ieri, quando erano stati 36.429. Sul fronte dei decessi oggi, 3 marzo, si contano 185 nuovi morti, contro i 214 di ieri. Per un totale di vittime da inizio emergenza che arriva così a quota 155.399 (155.214). Il monitoraggio registra un numero di attualmente positivi in calo: oggi sono 1.041.462 (ieri 1.061.610).
 
 ## La situazione negli ospedali
-Va gradualmente migliorando ogni giorno la situazione nelle strutture ospedaliere italiane. Nei reparti di terapia intensiva sono al momento ricoverati 681 pazienti Covid in condizioni preoccupanti (ieri erano 708). Di questi, 40 hanno fatto il loro ingresso in rianimazione nell’ultima giornata (i nuovi ingressi di ieri erano invece stati 74). Per quanto riguarda i reparti di area medica ordinaria, i posti letto occupati da malati Covid sono al momento 9.954 (ieri 10.456). Arrivati a questo punto dell’epidemia, il totale dei dimessi e dei guariti è arrivato a quota 11.651.094 (ieri 11.601.742). In isolamento domiciliare al momento ci sono 1.050.975 persone in tutta Italia su un totale di 1.061.610.
+Per quanto riguarda la pressione ospedaliera oggi si registrano 52 nuovi ingressi in terapia intensiva. Un numero in aumento rispetto a ieri quando a entrare in rianimazione erano stati 40 persone positive. Sul fronte dei reparti ordinari si contano 9.599 ricoverati contro i 9.554 di ieri. Il totale dei dimessi e dei guariti arriva a quota 11.713.645.
 
 ## Tamponi e tasso di positività
-I nuovi numeri contenuti monitoraggio quotidiano arrivano a fronte di un totale di 415.288 tamponi analizzati nelle ultime 24 ore. Nella giornata di ieri i test effettuati erano invece stati 530.858. Il tasto di positività è stabile rispetto a ieri e si attesta all’8,8%.
+I nuovi positivi arrivano alla luce di 431.312 nuovi tamponi eseguiti. L’attività di tracciamento è in calo rispetto a ieri quando i test antigenici rapidi e molecolari erano stati 415.288. Il tasso di positività cresce: dall’ 8,8% di ieri si passa al 10,2% di oggi.
 
-###### Fonte: [Open Online](https://www.open.online/2022/03/2/covid-19-italia-bollettino-2-marzo-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/03/3/covid-19-italia-bollettino-3-marzo-2022/)
 
 ***
 
