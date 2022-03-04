@@ -15,19 +15,19 @@
 
 *** 
 
-### Ultimo aggiornamento: 3 marzo 2022 ore 17:30 🕠
+### Ultimo aggiornamento: 4 marzo 2022 ore 17:30 🕠
 ###### L'aggiornamento dei dati non è sempre garantito giorno per giorno.
 
 ## Il bollettino di oggi
-I nuovi contagi di Coronavirus registrati nelle ultime 24 ore in Italia sono 41.500. Il dato riportato dal bollettino diffuso dalla Protezione Civile e dal ministero della Salute si mostra in aumento rispetto ai positivi registrati nel monitoraggio di ieri, quando erano stati 36.429. Sul fronte dei decessi oggi, 3 marzo, si contano 185 nuovi morti, contro i 214 di ieri. Per un totale di vittime da inizio emergenza che arriva così a quota 155.399 (155.214). Il monitoraggio registra un numero di attualmente positivi in calo: oggi sono 1.041.462 (ieri 1.061.610).
+Sono 210 i decessi legati al Coronavirus registrati nelle ultime 24 ore. Ieri 3 marzo, i morti segnalati erano stati 185. Il totale delle vittime arriva a quota 155.609. Secondo quanto riportato nel bollettino del Ministero della Salute e della Protezione Civile, i nuovi contagi sono invece 38.095. Ieri, l’aumento dei casi positivi era stato di +41.500. Gli attualmente positivi sono 1.023.787. (ieri 1.041.462).
 
 ## La situazione negli ospedali
-Per quanto riguarda la pressione ospedaliera oggi si registrano 52 nuovi ingressi in terapia intensiva. Un numero in aumento rispetto a ieri quando a entrare in rianimazione erano stati 40 persone positive. Sul fronte dei reparti ordinari si contano 9.599 ricoverati contro i 9.554 di ieri. Il totale dei dimessi e dei guariti arriva a quota 11.713.645.
+Per quanto riguarda la situazione negli ospedali, in totale ci sono 625 persone ricoverate in terapia intensiva. Gli ingressi giornalieri sono 31, mentre ieri erano stati 52. Per quanto riguarda i reparti ordinari, si contano 9.279 ricoverati contro i 9.599 di ieri. Il totale dei dimessi e dei guariti arriva a quota 11.769.463.
 
 ## Tamponi e tasso di positività
-I nuovi positivi arrivano alla luce di 431.312 nuovi tamponi eseguiti. L’attività di tracciamento è in calo rispetto a ieri quando i test antigenici rapidi e molecolari erano stati 415.288. Il tasso di positività cresce: dall’ 8,8% di ieri si passa al 10,2% di oggi.
+Il tasso di positività è oggi al 9,8% (ieri al 9,6%). Un dato che arriva a fronte di 388.836 nuovi tamponi effettuati (ieri 415.288). Il totale dei test analizzati in oltre due anni di pandemia è di 189.102.673.
 
-###### Fonte: [Open Online](https://www.open.online/2022/03/3/covid-19-italia-bollettino-3-marzo-2022/)
+###### Fonte: [Open Online](https://www.open.online/2022/03/4/covid-19-italia-bollettino-4-marzo-2022/)
 
 ***
 
